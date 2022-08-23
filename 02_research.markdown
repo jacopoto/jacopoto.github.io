@@ -8,7 +8,7 @@ permalink: /research/
 ## Research
 ### Work in Progress
 <p> </p>
-**Do economic condition at enrollment affect performance in college?** \
+**Do economic conditions at enrollment affect performance in college?** \
 (joint with [Alena Bicáková](http://home.cerge-ei.cz/Alena/){:target="_blank"}, [Matias Cortes](https://www.sites.google.com/site/gmatiascortes/home){:target="_blank"}, [Kelly Foley](https://www.kellyfoley.org/){:target="_blank"} and [Peter McHenry](https://www.wm.edu/as/economics/faculty-directory/mchenry_p.php){:target="_blank"})
 
 
