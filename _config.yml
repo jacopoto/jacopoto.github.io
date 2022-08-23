@@ -21,7 +21,7 @@
 title: Jacopo Mazza
 email: jacmazza@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Assistant Professor Utrecht School of Economics - Utrecht University
+  Assistant Professor Utrecht University, School of Economics
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jacopomazza
