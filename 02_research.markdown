@@ -8,34 +8,57 @@ permalink: /research/
 ## Research
 ### Work in Progress
 <p> </p>
-**Employing the unemployed of Marienthal: Evaluation of a guaranteed job program** \
-(joint with Maximilian Kasy) \
-*Experiment in progress, 2020-2023*, registered as [AEARCTR-0006706](https://doi.org/10.1257/rct.6706){:target="_blank"} \
-[dashboard](https://maxkasy.github.io/home/Marienthal/){: .button}{:target="_blank"} [video](https://youtu.be/Uiqn_WgrZ-I?t=4035){: .button}{:target="_blank"} [code](https://github.com/maxkasy/Marienthal){: .button}{:target="_blank"} \
-*Selected media coverage (English):* [CNN](https://www.cnn.com/2020/11/23/economy/universal-basic-income-europe-pandemic/index.html){:target="_blank"}, [Financial Times](https://app.ft.com/content/1c2fe25a-c3fe-4a39-bbbe-7a32cc5d5e70){:target="_blank"}, [Forbes](https://www.forbes.com/sites/rebeccahenderson/2021/06/30/the-new-world-of-work-needs-a-new-social-contract/?sh=4004fe00213f){:target="_blank"}, [Business Insider](https://www.businessinsider.com/austria-worlds-first-universal-jobs-guarantee-experiment-2020-11){:target="_blank"}, [Independent](https://www.independent.co.uk/news/uk/politics/unconditional-job-guarantee-trial-austria-marienthal-oxford-universal-basic-income-b1451788.html){:target="_blank"} \
-*Selected media coverage (German):* Die Zeit [1](https://www.zeit.de/2021/33/jobgarantie-langzeitarbeitslose-experiment-gramatneusiedl-oesterreich-arbeitslosigkeit){:target="_blank"}, [2](https://www.zeit.de/2021/13/wirtschaft-corona-krise-investition-arbeitslosigkeit-markus-marterbauer){:target="_blank"}, Der Standard [1](https://www.derstandard.at/story/2000121172201/ein-garantierter-job-fuer-alle-arbeitslose-ams-testet-in-marienthal){:target="_blank"}, [2](https://www.derstandard.at/story/2000124636466/studentische-forschung-ohne-feldversuche){:target="_blank"}, [3](https://www.derstandard.at/story/2000127731123/die-menschen-hinter-der-statistik-fuenf-langzeitarbeitslose-erzaehlen){:target="_blank"}, [4](https://www.derstandard.at/story/2000128020801/keine-arbeitslosen-im-marienthal-am-schauplatz-im-orf-am-donnerstag?ref=rec){:target="_blank"}, ORF [1](https://noe.orf.at/stories/3072721/){:target="_blank"}, [2](https://noe.orf.at/stories/3091746/){:target="_blank"}, [3](https://science.orf.at/stories/3206278/){:target="_blank"}, Kurier [1](https://kurier.at/chronik/niederoesterreich/die-langzeitarbeitslosen-von-marienthal-ams-startet-modellprojekt/401072784){:target="_blank"}, [2](https://kurier.at/chronik/niederoesterreich/jobgarantie-in-noe-die-neue-arbeit-in-marienthal/401127678){:target="_blank"}, [3](https://kurier.at/wirtschaft/die-arbeitenden-von-marienthal/401367287){:target="_blank"} \
-*TV & radio coverage:* [ARTE](https://www.arte.tv/de/videos/100300-072-A/re-zurueck-in-den-job/){:target="_blank"}, [ZDF](https://www.zdf.de/gesellschaft/plan-b/plan-b-zurueck-in-den-job-100.html), [ORF](https://www.youtube.com/watch?v=iDFxDvweuN0){:target="_blank"}, Ö1 [1](https://oe1.orf.at/player/20210720/645358/1626776169000){:target="_blank"}, [2](https://oe1.orf.at/programm/20211209/662632/Die-Nobelpreise-2021-Wirtschaft){:target="_blank"}. \
-*Policy impact:* OECD [1](../assets/oecd-job-guarantee-extract.pdf){:target="_blank"}, [2](https://www.oecd.org/coronavirus/policy-responses/building-inclusive-labour-markets-active-labour-market-policies-for-the-most-vulnerable-groups-607662d9/?utm_source=Adestra&utm_medium=email&utm_content=covid&utm_campaign=ELS%20Newsletter%20October%202021&utm_term=els){:target="_blank"}, ILO [1](https://www.ilo.org/global/topics/employment-intensive-investment/publications/WCMS_818473/lang--en/index.htm){:target="_blank"}, [2](https://youtu.be/Uiqn_WgrZ-I?t=4035){:target="_blank"}, [Minister of Labour of Austria](https://www.parlament.gv.at/pls/portal/hi.link?pfad=/PAKT/VHG/XXVII/AB/AB_06450/index.shtml){:target="_blank"}, [Parliament of Austria](https://www.parlament.gv.at/PAKT/VHG/XXVII/J/J_06501/fnameorig_953843.html){:target="_blank"}.  \
-Awarded the [Horowitz Foundation for Social Policy dissertation grant](https://www.horowitz-foundation.org/2021) and \
-the [UC Berkeley Fellowship 2022/23](https://www.marshallplan.at/discover/the-uc-berkeley-program) of the Austrian Marshall Plan Foundation.
+**Do economic condition at enrollment affect performance in college?** \
+(joint with [Alena Bicáková](http://home.cerge-ei.cz/Alena/){:target="_blank"}, [Matias Cortes](https://www.sites.google.com/site/gmatiascortes/home){:target="_blank"}, [Kelly Foley](https://www.kellyfoley.org/){:target="_blank"} and [Peter McHenry](https://www.wm.edu/as/economics/faculty-directory/mchenry_p.php){:target="_blank"}) \
 
-**Reframing active labor market policy: Experimental evidence of training vouchers for unemployed** \
-(joint with Anna Schwarz) \
-*Experiment in progress, 2021*, registered as [AEARCTR-0007141](https://doi.org/10.1257/rct.7141){:target="_blank"}. [code](https://github.com/lukaslehner/Vouchers){: .button}{:target="_blank"} \
-*Selected media coverage:* [Der Standard](https://www.derstandard.at/story/2000132676619/gutscheine-statt-zwang-fuer-arbeitslose-experiment-beim-ams-zeigt-potenzial){:target="_blank"}, [Die Presse](https://www.diepresse.com/6089439/arbeitsmarktreform-mehr-autonomie-fuer-arbeitslose){:target="_blank"}, [Kurier](https://kurier.at/chronik/niederoesterreich/ams-erfolg-mit-15000-euro-gutscheinen/401861693){:target="_blank"}.
 
 <hr style="border:.25px solid grey">
 
 ### Under Review
 <p> </p>
 
-**Make Your Own Luck: The Wage Gains from Starting College in a Bad Economy**,
+**Make Your Own Luck: The Wage Gains from Starting College in a Bad Economy**, \
 (joint with [Alena Bicáková](http://home.cerge-ei.cz/Alena/){:target="_blank"} and [Matias Cortes](https://www.sites.google.com/site/gmatiascortes/home){:target="_blank"}) \
-[presentation](https://jacopoto.github.io/assets/make-luck_pres.pdf){: .button}{:target="_blank"}
+[slides](https://jacopoto.github.io/assets/make-luck_pres.pdf){: .button}{:target="_blank"}
 <details>
   <summary>Abstract</summary>
 
 Using data for nearly 40 cohorts of American college graduates and exploiting regional variation in economic conditions, we show robust evidence of a positive relationship between the unemployment rate at the time of college enrollment and subsequent annual earnings, particularly for women. This positive relationship cannot be explained by selection into employment or by economic conditions at the time of labor market entry. Up to one quarter of the effect is accounted for by changes in field of study choices and by sorting towards more remunerative locations. The results are consistent with a behavioral change that induces individuals who experience bad economic times at the beginning of their studies to exert more effort towards obtaining higher-paying jobs.
+</details>
+<p> </p>
+
+**[The Fiscal Impact of Immigration in the EU](https://jacopoto.github.io/jacopomazza.com/fiscal_impact_wp.pdf){:target="_blank"}**, (*R&R Fiscal Studies). \
+(joint with  [Michael Christl](https://sites.google.com/view/michael-christl/about-me){:target="_blank"}, Alain Bélanger, Alessandra Conte and Edlira Narazani) \
+Working paper version: [JRC](https://joint-research-centre.ec.europa.eu/system/files/2021-04/jrc124744.pdf){:target="_blank"}; [GLO](https://www.econstor.eu/bitstream/10419/232517/1/GLO-DP-0814.pdf){:target="_blank"}
+<details>
+  <summary>Abstract</summary>
+
+The increasing flows of immigrants in Europe over the last decade has generated a range of considerations in the policy agenda of many receiving countries. One of the main considerations for policy makers and public opinions alike is whether immigrants contribute their "fair" share to their host country tax and welfare system. This paper seeks to answer this question based on an empirical assessment of the net fiscal contributions of immigrants in the 27 EU Member States using EUROMOD, a EU-wide tax-benefit microsimulation model. In addition to the traditional view of the tax-benefit system, we add indirect taxation and in-kind benefits to the analysis of net contributions. Our findings highlight that migrants on average contributed about 250 euro per year more than natives to the welfare state in 2015. However, when we take an average age-specific life-cycle perspective, we find that natives generally show a higher net fiscal contribution than both, intra-EU and extra-EU migrants, while extra-EU migrants contribute on average less than intra-EU migrants.
+
+</details>
+<p> </p>
+
+**[Being on the Frontline? Immigrant Workers in Europe and the COVID-19 Pandemic](https://jacopoto.github.io/jacopomazza.com/COVID_paper_migrants_Resubmission_ILRR.pdf){:target="_blank"}**, (*R&R ILR Review). \
+(joint with [Francesco Fasani](https://sites.google.com/site/fasani2010/){:target="_blank"}) \
+Working paper version: [CEPR](https://cepr.org/publications/dp15590){:target="_blank"}; [CReAM](https://www.cream-migration.org/publ_uploads/CDP_01_21.pdf){:target="_blank"}; ; [IZA](https://www.iza.org/publications/dp/13963/being-on-the-frontline-immigrant-workers-in-europe-and-the-covid-19-pandemic){:target="_blank"}; [QMUL](https://www.qmul.ac.uk/sef/research/workingpapers/2020/items/918.html){:target="_blank"} \
+*Media Covearge*:[Le Temps](https://www.letemps.ch/economie/chomage-menace-9-millions-dimmigres-europe){:target="_blank"} (In French); []
+<details>
+  <summary>Abstract</summary>
+
+We provide a first systematic assessment of the labor market impact of COVID-19 on immigrant workers in Europe. In the first year of the pandemic, we estimate that Extra EU migrants were twice as likely to have their job terminated relative to comparable natives, while for EU migrants this probability was 1.6 times larger. To understand the determinants of these large gaps, we focus on three job characteristics: essentiality, temporariness and teleworkability. After documenting differential migrant-native distribution along these three dimensions, we estimate that this pre-pandemic occupational sorting accounts for around 50% of the explained native-migrants gaps in the risk of employment termination; sorting into industries accounts for the other half. Further, we estimate a larger penalty for migrants from being employed in low-teleworkable occupations. Even within narrow occupation/industry cells, however, more than half of the migrant-native gap in job separation probability remains unexplained.
+
+</details>
+<p> </p>
+
+**[Educational Choice, Initial Wage
+and Wage Growth](https://jacopoto.github.io/jacopomazza.com/college_wage_growth.pdf){:target="_blank"}** \
+(joint with [Hans van Ophem](https://www.uva.nl/en/profile/o/p/j.c.m.vanophem/j.c.m.van-ophem.html){:target="_blank"}), Tinbergen Institute Discussion Paper 2020-030/III.
+
+<details>
+  <summary>Abstract</summary>
+
+We investigate the major choice of college graduates where we make choice dependent on expected initial wages and expected wage growth per major. We build a model that allows us to estimate these factors semiparametrically and that corrects for selection bias. We estimate the model on the combined NLSY79 and NLSY97 samples. We find markedly different results in expected real wage growth and expected initial wages across majors. Furthermore, the differences in these expectations appear to be relevant for major choice.
+
 </details>
 <p> </p>
 
@@ -66,7 +89,7 @@ We show that cohorts of male graduates who start college during worse economic t
 
 2) **[Separating Risk in Education from Heterogeneity: a Semiparametric Approach](https://jacopoto.github.io/jacopomazza.com/edu_risk_semipar.pdf){:target="_blank"}**, *Journal of the Royal Statistical Society: Series A*, (2018), vol. 181(1), pp. 249-275. \
 (joint with [Hans van Ophem](https://www.uva.nl/en/profile/o/p/j.c.m.vanophem/j.c.m.van-ophem.html){:target="_blank"}) \
-[Link to published version](https://rss.onlinelibrary.wiley.com/doi/abs/10.1111/rssa.12253){:target="_blank"}
+[Link to published version](https://rss.onlinelibrary.wiley.com/doi/abs/10.1111/rssa.12253){: .button}{:target="_blank"}
 <details>
   <summary>Abstract</summary>
 
@@ -78,7 +101,7 @@ the real magnitude of educational uncertainty and the impact that risk has on ed
 1) **[Unobserved Heterogeneity and Risk in Wage Variance: Does Schooling Provide Earnings Insurance?](https://jacopoto.github.io/jacopomazza.com/edu_risk.pdf){:target="_blank"}** \
 *Labour Economics*, (2013), vol. 24(C), pp. 323-338. \
 (joint with [Hans van Ophem](https://www.uva.nl/en/profile/o/p/j.c.m.vanophem/j.c.m.van-ophem.html){:target="_blank"} and Joop Hartog) \
-[Link to published version](https://www.sciencedirect.com/science/article/abs/pii/S0927537113001061){:target="_blank"}
+[Link to published version](https://www.sciencedirect.com/science/article/abs/pii/S0927537113001061){: .button}{:target="_blank"}
 <details>
   <summary>Abstract</summary>
 
