@@ -46,12 +46,13 @@ We find that the presence of workers with temporary contracts in Europe’s labo
 ### Journal Publications
 <p> </p>
 
-4) **Capturing the COVID-19 Crisis through Public Health and Social Measures Data Science**, *Scientific Data*, forthcoming. \
-(joint with Cindy Cheng, Amélie Desvars-Larrive, Bernhard Ebbinghaus, Thomas Hale, Alex Howes, Luca Messerschmidt, Angeliki Nika, Steve Penson, Anna Petherick, Hanmeng Xu, Alexander John Zapf, Yuxi Zhang, and Sophia Alison Zweig)
+4) **[The Gender Gap in Support for Governments During the COVID Crisis](https://www.tandfonline.com/doi/full/10.1080/13501763.2022.2027503?src=){:target="_blank"}**, *Journal of European Public Policy*, forthcoming. \
+(joint with [Marco Scipioni](https://scholar.google.com/citations?user=WuJGLH0AAAAJ&hl=en){:target="_blank"})
+**Open Access**
 <details>
   <summary>Abstract</summary>
 
-In response to COVID-19, governments worldwide are implementing public health and social measures (PHSMs) that substantially impact many areas beyond public health. The new field of PHSM data science collects, structures, and disseminates data on PHSM; here, we report the main achievements, challenges, and focus areas of this novel field of research.
+Using data covering most European Union Member States, we study how the support for national governments has unravelled in the first months of the COVID pandemic. Motivated by the growing evidence on the uneven economic impact of this crisis across genders, we study if such unequal economic burden is related to differences in support for public authorities between men and women. While the support for national governments has overall faded in the period considered, the decline has been more pronounced for women, and working women in particular. We find indication that the decline in support signals a shift in concerns among Europeans, and women in particular, from the health emergency to the economic consequences of the pandemic. We impute up to a third of the widening gender gap in support for government to the shift of emphasis from the health to the economic dimension of the crisis.
 </details>
 <p> </p>
 
@@ -60,7 +61,7 @@ In response to COVID-19, governments worldwide are implementing public health an
 *Coverage:* [Resolution Foundation](https://www.resolutionfoundation.org/comment/try-your-hand-at-levelling-up-the-country/){:target="_blank"}
 <details>
   <summary>Abstract</summary>
-  
+
 Our analysis asks whether the pandemic situation affects welfare state support in Germany. The pandemic has increased the health and income risks calling for welfare state intervention. While increased needs, more deservingness, and higher state responsibility during such a crisis would suggest augmented support generally and among those at risk, this might be a short-term effect and cost considerations could reverse this trend. We study public attitudes towards four key social policy areas based on the German Internet Panel (GIP). We use three waves prior and further three waves since the pandemic had been declared in March 2020. The analysis shows both continuity in the popularity of social policies, in particular health and pensions, and some short-term increase in support for unemployment and family policies. The results after nearly 2 years suggest rather continuation with some thermostatic short-term boosts in support instead of any long-lasting change.
 </details>
 <p> </p>
@@ -75,7 +76,7 @@ Europe faces multiple challenges during the Covid-19 pandemic, including the pro
 </details>
 <p> </p>
 
-*Pre-PhD* 
+*Pre-PhD*
 
 1) **[A Reversing Case within Trajectories of Liberalisation: The revival of neo-corporatism in Austria since 2008](https://www.momentum-quarterly.org/ojs2/index.php/momentum/article/view/2476){:target="_blank"}**, *Momentum Quarterly - Journal for Societal Progress*, 2017, 6(4), 210-229. \
 *Summary:* [LSE NETUF Blog](http://blogs.lse.ac.uk/netuf/2018/01/02/has-austrias-decade-long-revival-of-neo-corporatism-come-to-an-end/?subscribe=success#blog_subscription-2){:target="_blank"}, [Arbeit und Wirtschaft Blog](https://www.awblog.at/ist-oesterreichs-revival-der-sozialpartner-nach-einem-jahrzehnt-am-ende/){:target="_blank"}.
