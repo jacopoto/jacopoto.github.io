@@ -31,7 +31,7 @@ the [UC Berkeley Fellowship 2022/23](https://www.marshallplan.at/discover/the-uc
 
 **Make Your Own Luck: The Wage Gains from Starting College in a Bad Economy**,
 (joint with [Alena Bicáková](http://home.cerge-ei.cz/Alena/){:target="_blank"} and [Matias Cortes](https://www.sites.google.com/site/gmatiascortes/home){:target="_blank"}) \
-[presentation](https://jacopoto.github.io/assets/Marienthal/){: .button}{:target="_blank"}
+[presentation](https://jacopoto.github.io/assets/make-luck_pres.pdf){: .button}{:target="_blank"}
 <details>
   <summary>Abstract</summary>
 
@@ -56,7 +56,7 @@ Using data covering most European Union Member States, we study how the support 
 
 3) **[Caught in the Cycle: Timing of Enrolment and Labour Market Performance of University Graduates](https://jacopoto.github.io/jacopomazza.com/cycle_college_uk.pdf){:target="_blank"}**, *The Economic Journal*, (2021), vol. 131(638), pp. 2383–2412. \
 (joint with [Alena Bicáková](http://home.cerge-ei.cz/Alena/){:target="_blank"} and [Matias Cortes](https://www.sites.google.com/site/gmatiascortes/home){:target="_blank"}) \
-[Link to published version](https://academic.oup.com/ej/advance-article-abstract/doi/10.1093/ej/ueab003/6095717?redirectedFrom=fulltext){:target="_blank"}
+[Link to published version](https://academic.oup.com/ej/advance-article-abstract/doi/10.1093/ej/ueab003/6095717?redirectedFrom=fulltext){: .button}{:target="_blank"}
 <details>
   <summary>Abstract</summary>
 
