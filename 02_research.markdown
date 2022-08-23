@@ -17,7 +17,7 @@ permalink: /research/
 ### Under Review
 <p> </p>
 
-**Make Your Own Luck: The Wage Gains from Starting College in a Bad Economy**, \
+**Make Your Own Luck: The Wage Gains from Starting College in a Bad Economy(https://jacopoto.github.io/assets/make-luck_paper.pdf)**, \
 (joint with [Alena Bicáková](http://home.cerge-ei.cz/Alena/){:target="_blank"} and [Matias Cortes](https://www.sites.google.com/site/gmatiascortes/home){:target="_blank"}) \
 [slides](https://jacopoto.github.io/assets/make-luck_pres.pdf){: .button}{:target="_blank"}
 <details>
