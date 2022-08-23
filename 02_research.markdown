@@ -29,15 +29,12 @@ the [UC Berkeley Fellowship 2022/23](https://www.marshallplan.at/discover/the-uc
 ### Under Review
 <p> </p>
 
-**[Begging thy coworker - Labor market dualization and the slow-down of wage growth in Europe](https://www.inet.ox.ac.uk/publications/no-2022-04-begging-thy-coworker-labor-market-dualization-and-the-slow-down-of-wage-growth-in-europe/){:target="_blank"}**, INET Oxford Working Paper No. 2022-04 \
-(joint with Paul Ramskogler and Aleksandra Riedl) \
-Awarded the [Barnett Prize for the best paper of the year](https://www.spi.ox.ac.uk/article/barnett-prize-winners-2021){:target="_blank"} by a research student at the Department of Social Policy and Intervention, University of Oxford and the [SASE / Digit 2022 Early Career Workshop Award](https://sase.org/workshop/2022-sase-digit-early-career-workshop/).
+**Make Your Own Luck: The Wage Gains from Starting College in a Bad Economy**,
+(joint with [Alena Bicáková](http://home.cerge-ei.cz/Alena/){:target="_blank"} and [Matias Cortes](https://www.sites.google.com/site/gmatiascortes/home){:target="_blank"}) \
 <details>
   <summary>Abstract</summary>
 
-Does the structure of labor markets – and the possibility to employ temporary workers – affect aggregate wage growth? After the global financial crisis (GFC) a rich debate had ensued about the reasons for the delayed pick up of wage growth. However, structural labor market aspects remained strangely absent from this discussion. We contribute by incorporating labor market dualization into the standard Phillips curve model to explain wage growth in 30 European countries in the period 2004-2017.
-
-We find that the presence of workers with temporary contracts in Europe’s labor markets slows down aggregate wage growth due to the competition that temporary workers exert on permanent workers. This competition effect is most pronounced in countries, where trade union density is low. Moreover, we establish that labor market dualization has been at least as important in slowing wage growth since the GFC as unemployment, i.e. the observed flattening of the Phillips curve.
+Using data for nearly 40 cohorts of American college graduates and exploiting regional variation in economic conditions, we show robust evidence of a positive relationship between the unemployment rate at the time of college enrollment and subsequent annual earnings, particularly for women. This positive relationship cannot be explained by selection into employment or by economic conditions at the time of labor market entry. Up to one quarter of the effect is accounted for by changes in field of study choices and by sorting towards more remunerative locations. The results are consistent with a behavioral change that induces individuals who experience bad economic times at the beginning of their studies to exert more effort towards obtaining higher-paying jobs.
 </details>
 <p> </p>
 
@@ -47,7 +44,7 @@ We find that the presence of workers with temporary contracts in Europe’s labo
 <p> </p>
 
 4) **[The Gender Gap in Support for Governments During the COVID Crisis](https://www.tandfonline.com/doi/full/10.1080/13501763.2022.2027503?src=){:target="_blank"}**, *Journal of European Public Policy*, forthcoming. \
-(joint with [Marco Scipioni](https://scholar.google.com/citations?user=WuJGLH0AAAAJ&hl=en){:target="_blank"})
+(joint with [Marco Scipioni](https://scholar.google.com/citations?user=WuJGLH0AAAAJ&hl=en){:target="_blank"}) \
 **Open Access**
 <details>
   <summary>Abstract</summary>
@@ -56,32 +53,34 @@ Using data covering most European Union Member States, we study how the support 
 </details>
 <p> </p>
 
-3) **[Welfare state support during the COVID-19 pandemic: Change and continuity in public attitudes towards social policies in Germany](https://doi.org/10.1002/epa2.1152){:target="_blank"}**, *European Policy Analysis*, forthcoming. \
-(joint with Bernhard Ebbinghaus and Elias Naumann) \
-*Coverage:* [Resolution Foundation](https://www.resolutionfoundation.org/comment/try-your-hand-at-levelling-up-the-country/){:target="_blank"}
+3) **[Caught in the Cycle: Timing of Enrolment and Labour Market Performance of University Graduates](https://jacopoto.github.io/jacopomazza.com/cycle_college_uk.pdf){:target="_blank"}**, *The Economic Journal*, (2021), vol. 131(638), pp. 2383–2412. \
+(joint with [Alena Bicáková](http://home.cerge-ei.cz/Alena/){:target="_blank"} and [Matias Cortes](https://www.sites.google.com/site/gmatiascortes/home){:target="_blank"}) \
+[Link to published version](https://academic.oup.com/ej/advance-article-abstract/doi/10.1093/ej/ueab003/6095717?redirectedFrom=fulltext){:target="_blank"}
 <details>
   <summary>Abstract</summary>
 
-Our analysis asks whether the pandemic situation affects welfare state support in Germany. The pandemic has increased the health and income risks calling for welfare state intervention. While increased needs, more deservingness, and higher state responsibility during such a crisis would suggest augmented support generally and among those at risk, this might be a short-term effect and cost considerations could reverse this trend. We study public attitudes towards four key social policy areas based on the German Internet Panel (GIP). We use three waves prior and further three waves since the pandemic had been declared in March 2020. The analysis shows both continuity in the popularity of social policies, in particular health and pensions, and some short-term increase in support for unemployment and family policies. The results after nearly 2 years suggest rather continuation with some thermostatic short-term boosts in support instead of any long-lasting change.
+We show that cohorts of male graduates who start college during worse economic times earn higher average wages than those who start during better times. This is not explained by differences in selection into employment, economic conditions at graduation, or field of study choices. Graduates who enrol in bad times are not more positively selected based on their high-school outcomes, but they achieve higher college grades and earn higher wages conditional on their grades. Patterns for female graduates are similar, though less robust. Our results suggest that individuals who enrol during downturns exert more effort during their studies.
 </details>
 <p> </p>
 
-2) **[Europe’s Social Model facing the Covid-19 Employment Crisis: Innovating Job Retention Policies to Avoid Mass Unemployment](https://doi.org/10.1177/10242589221079151){:target="_blank"}**, *Transfer: European Review of Labour and Research*, forthcoming. \
-(joint with Bernhard Ebbinghaus) \
-*Summary:* [LSE EUROPP Blog](https://blogs.lse.ac.uk/europpblog/2021/06/01/labour-hoarding-during-the-pandemic-assessing-the-impact-of-job-retention-schemes-in-europe/){:target="_blank"}, [Social Europe](https://socialeurope.eu/short-time-working-lessons-for-the-next-recession){:target="_blank"}. [replication data](https://doi.org/10.7910/DVN/9D9F5M){: .button}{:target="_blank"}
+2) **[Separating Risk in Education from Heterogeneity: a Semiparametric Approach](https://jacopoto.github.io/jacopomazza.com/edu_risk_semipar.pdf){:target="_blank"}**, *Journal of the Royal Statistical Society: Series A*, (2018), vol. 181(1), pp. 249-275. \
+(joint with [Hans van Ophem](https://www.uva.nl/en/profile/o/p/j.c.m.vanophem/j.c.m.van-ophem.html){:target="_blank"}) \
+[Link to published version](https://rss.onlinelibrary.wiley.com/doi/abs/10.1111/rssa.12253){:target="_blank"}
 <details>
   <summary>Abstract</summary>
 
-Europe faces multiple challenges during the Covid-19 pandemic, including the problem of how to secure jobs and earnings. In our comparative analysis, we explore to what degree European welfare states were capable to respond to this crisis by stabilizing employment and income for working people. While short-time work was a policy tool already partly used in the Great Recession, job retention policies were further expanded or newly introduced across Europe due to the pandemic in 2020. However, cross-national variations persist in the way in which these schemes were designed and implemented across European welfare states, aiming more or less towards labour hoarding to avoid mass dismissal throughout the employment crisis. We distinguish between business support and labour support logics in explaining the variation in job retention policies across Europe. Continental, Mediterranean and Liberal welfare states fostered more labour hoarding than Nordic or Central and Eastern European countries.
+Returns to education are variable both within and between educational group. If uncertain payoffs are a concern to individuals when selecting an education, wage variance is relevant. The variation is a combination of unobserved heterogeneity and pure uncertainty or risk. The first element is known to the individual, but unknown to the researcher, the second is unknown to both. As a result, the variance of wages observed in the data will overestimate
+the real magnitude of educational uncertainty and the impact that risk has on educational decisions. In this paper we apply a semiparametric estimation technique to tackle the selectivity issues. This method does not rely on distributional assumptions of the errors in the schooling choice and wage equations. Our results suggest that risk is decreasing in schooling. Private information accounts for a share varying between 0% and 13% of total wage variance observed depending on the educational level. Finally, we conclude that the estimation results are very sensitive to the functional relation imposed on the error structure.
 </details>
 <p> </p>
 
-*Pre-PhD*
-
-1) **[A Reversing Case within Trajectories of Liberalisation: The revival of neo-corporatism in Austria since 2008](https://www.momentum-quarterly.org/ojs2/index.php/momentum/article/view/2476){:target="_blank"}**, *Momentum Quarterly - Journal for Societal Progress*, 2017, 6(4), 210-229. \
-*Summary:* [LSE NETUF Blog](http://blogs.lse.ac.uk/netuf/2018/01/02/has-austrias-decade-long-revival-of-neo-corporatism-come-to-an-end/?subscribe=success#blog_subscription-2){:target="_blank"}, [Arbeit und Wirtschaft Blog](https://www.awblog.at/ist-oesterreichs-revival-der-sozialpartner-nach-einem-jahrzehnt-am-ende/){:target="_blank"}.
+1) **[Unobserved Heterogeneity and Risk in Wage Variance: Does Schooling Provide Earnings Insurance?](https://jacopoto.github.io/jacopomazza.com/edu_risk.pdf){:target="_blank"}** \
+*Labour Economics*, (2013), vol. 24(C), pp. 323-338. \
+(joint with [Hans van Ophem](https://www.uva.nl/en/profile/o/p/j.c.m.vanophem/j.c.m.van-ophem.html){:target="_blank"} and Joop Hartog) \
+[Link to published version](https://www.sciencedirect.com/science/article/abs/pii/S0927537113001061){:target="_blank"}
 <details>
   <summary>Abstract</summary>
 
-The overall dominating trend of liberalisation, deregulation and privatisation has accelerated since the global economic crisis in 2008. Under the paradigm of competitiveness, a major policy goal has been the implementation of ‘structural reforms’ replacing neo-corporatist practices with market coordination. However, Austria’s coordinating institutions have been strengthened since 2008, contrasting the EU-wide liberalising trend. To explain this puzzle, government members’ biographies since 1983 were analysed, seven elite interviews conducted and official government documents evaluated. Under the logic of access, social partner organisations made active use of a ‘revolving door effect’, placing their employees as ‘interlocking directorates’ in government positions to gain influence on policies. For this ‘power-policy exchange’ social partners defended political compromises of the government and supported the weakened social democratic (SPÖ) and the conservative (ÖVP) party leadership. Such a ‘tactical alliance’ is fragile, as it depends on the interest constellation of actors involved, but outlines the remaining scope for domestic politics in an age of increased liberalising pressures from globalisation and EU integration.
+We apply a recently proposed method to disentangle unobserved heterogeneity from risk in returns to education to data for the USA, the UK and Germany. We find that in residual wage variation, uncertainty by far dominates unobserved heterogeneity. The relation between uncertainty and level of education is not monotonic and differs among countries.
 </details>
+<p> </p>
