@@ -9,7 +9,7 @@ permalink: /research/
 ### Work in Progress
 <p> </p>
 **Do economic condition at enrollment affect performance in college?** \
-(joint with [Alena Bicáková](http://home.cerge-ei.cz/Alena/){:target="_blank"}, [Matias Cortes](https://www.sites.google.com/site/gmatiascortes/home){:target="_blank"}, [Kelly Foley](https://www.kellyfoley.org/){:target="_blank"} and [Peter McHenry](https://www.wm.edu/as/economics/faculty-directory/mchenry_p.php){:target="_blank"}) \
+(joint with [Alena Bicáková](http://home.cerge-ei.cz/Alena/){:target="_blank"}, [Matias Cortes](https://www.sites.google.com/site/gmatiascortes/home){:target="_blank"}, [Kelly Foley](https://www.kellyfoley.org/){:target="_blank"} and [Peter McHenry](https://www.wm.edu/as/economics/faculty-directory/mchenry_p.php){:target="_blank"})
 
 
 <hr style="border:.25px solid grey">
@@ -27,7 +27,7 @@ Using data for nearly 40 cohorts of American college graduates and exploiting re
 </details>
 <p> </p>
 
-**[The Fiscal Impact of Immigration in the EU](https://jacopoto.github.io/jacopomazza.com/fiscal_impact_wp.pdf){:target="_blank"}**, (*R&R Fiscal Studies). \
+**[The Fiscal Impact of Immigration in the EU](https://jacopoto.github.io/jacopomazza.com/fiscal_impact_wp.pdf){:target="_blank"}**, (*R&R Fiscal Studies*). \
 (joint with  [Michael Christl](https://sites.google.com/view/michael-christl/about-me){:target="_blank"}, Alain Bélanger, Alessandra Conte and Edlira Narazani) \
 Working paper version: [JRC](https://joint-research-centre.ec.europa.eu/system/files/2021-04/jrc124744.pdf){:target="_blank"}; [GLO](https://www.econstor.eu/bitstream/10419/232517/1/GLO-DP-0814.pdf){:target="_blank"}
 <details>
@@ -38,10 +38,10 @@ The increasing flows of immigrants in Europe over the last decade has generated 
 </details>
 <p> </p>
 
-**[Being on the Frontline? Immigrant Workers in Europe and the COVID-19 Pandemic](https://jacopoto.github.io/jacopomazza.com/COVID_paper_migrants_Resubmission_ILRR.pdf){:target="_blank"}**, (*R&R ILR Review). \
+**[Being on the Frontline? Immigrant Workers in Europe and the COVID-19 Pandemic](https://jacopoto.github.io/jacopomazza.com/COVID_paper_migrants_Resubmission_ILRR.pdf){:target="_blank"}**, (*R&R ILR Review*). \
 (joint with [Francesco Fasani](https://sites.google.com/site/fasani2010/){:target="_blank"}) \
 Working paper version: [CEPR](https://cepr.org/publications/dp15590){:target="_blank"}; [CReAM](https://www.cream-migration.org/publ_uploads/CDP_01_21.pdf){:target="_blank"}; ; [IZA](https://www.iza.org/publications/dp/13963/being-on-the-frontline-immigrant-workers-in-europe-and-the-covid-19-pandemic){:target="_blank"}; [QMUL](https://www.qmul.ac.uk/sef/research/workingpapers/2020/items/918.html){:target="_blank"} \
-*Media Covearge*:[Le Temps](https://www.letemps.ch/economie/chomage-menace-9-millions-dimmigres-europe){:target="_blank"} (In French); []
+*Media Covearge*: [Le Temps](https://www.letemps.ch/economie/chomage-menace-9-millions-dimmigres-europe){:target="_blank"} (In French);
 <details>
   <summary>Abstract</summary>
 
