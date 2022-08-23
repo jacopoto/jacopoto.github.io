@@ -31,6 +31,7 @@ the [UC Berkeley Fellowship 2022/23](https://www.marshallplan.at/discover/the-uc
 
 **Make Your Own Luck: The Wage Gains from Starting College in a Bad Economy**,
 (joint with [Alena Bicáková](http://home.cerge-ei.cz/Alena/){:target="_blank"} and [Matias Cortes](https://www.sites.google.com/site/gmatiascortes/home){:target="_blank"}) \
+[presentation](https://jacopoto.github.io/assets/Marienthal/){: .button}{:target="_blank"}
 <details>
   <summary>Abstract</summary>
 
