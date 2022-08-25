@@ -88,7 +88,7 @@ Using data covering most European Union Member States, we study how the support 
 <p> </p>
 
 
-3) <img src="https://jacopoto.github.io/assets/img/ej.jpeg" width="150">{: .image-left} **[Caught in the Cycle: Timing of Enrolment and Labour Market Performance of University Graduates](https://jacopoto.github.io/jacopomazza.com/cycle_college_uk.pdf){:target="_blank"}**, *The Economic Journal*, (2021), vol. 131(638), pp. 2383–2412. \
+3) <img src="https://jacopoto.github.io/assets/img/ej.jpeg" width="140">{: .image-left} **[Caught in the Cycle: Timing of Enrolment and Labour Market Performance of University Graduates](https://jacopoto.github.io/jacopomazza.com/cycle_college_uk.pdf){:target="_blank"}**, *The Economic Journal*, (2021), vol. 131(638), pp. 2383–2412. \
 (joint with [Alena Bicáková](http://home.cerge-ei.cz/Alena/){:target="_blank"} and [Matias Cortes](https://www.sites.google.com/site/gmatiascortes/home){:target="_blank"}) \
 [Link to published version](https://academic.oup.com/ej/advance-article-abstract/doi/10.1093/ej/ueab003/6095717?redirectedFrom=fulltext){: .button}{:target="_blank"}
 <details>
@@ -98,7 +98,7 @@ We show that cohorts of male graduates who start college during worse economic t
 </details>
 <p> </p>
 
-2) **[Separating Risk in Education from Heterogeneity: a Semiparametric Approach](https://jacopoto.github.io/jacopomazza.com/edu_risk_semipar.pdf){:target="_blank"}**, *Journal of the Royal Statistical Society: Series A*, (2018), vol. 181(1), pp. 249-275. \
+2) <img src="https://jacopoto.github.io/assets/img/rssa.jpg" width="180">{: .image-left} **[Separating Risk in Education from Heterogeneity: a Semiparametric Approach](https://jacopoto.github.io/jacopomazza.com/edu_risk_semipar.pdf){:target="_blank"}**, *Journal of the Royal Statistical Society: Series A*, (2018), vol. 181(1), pp. 249-275. \
 (joint with [Hans van Ophem](https://www.uva.nl/en/profile/o/p/j.c.m.vanophem/j.c.m.van-ophem.html){:target="_blank"}) \
 [Link to published version](https://rss.onlinelibrary.wiley.com/doi/abs/10.1111/rssa.12253){: .button}{:target="_blank"}
 <details>
@@ -109,7 +109,7 @@ the real magnitude of educational uncertainty and the impact that risk has on ed
 </details>
 <p> </p>
 
-1) **[Unobserved Heterogeneity and Risk in Wage Variance: Does Schooling Provide Earnings Insurance?](https://jacopoto.github.io/jacopomazza.com/edu_risk.pdf){:target="_blank"}** \
+1) <img src="https://jacopoto.github.io/assets/img/le.jpg" width="140">{: .image-left} **[Unobserved Heterogeneity and Risk in Wage Variance: Does Schooling Provide Earnings Insurance?](https://jacopoto.github.io/jacopomazza.com/edu_risk.pdf){:target="_blank"}** \
 *Labour Economics*, (2013), vol. 24(C), pp. 323-338. \
 (joint with [Hans van Ophem](https://www.uva.nl/en/profile/o/p/j.c.m.vanophem/j.c.m.van-ophem.html){:target="_blank"} and Joop Hartog) \
 [Link to published version](https://www.sciencedirect.com/science/article/abs/pii/S0927537113001061){: .button}{:target="_blank"}
