@@ -98,7 +98,7 @@ We show that cohorts of male graduates who start college during worse economic t
 </details>
 <p> </p>
 
-2) <img src="https://jacopoto.github.io/assets/img/rssa.jpg" width="130">{: .image-left} **[Separating Risk in Education from Heterogeneity: a Semiparametric Approach](https://jacopoto.github.io/jacopomazza.com/edu_risk_semipar.pdf){:target="_blank"}**, *Journal of the Royal Statistical Society: Series A*, (2018), vol. 181(1), pp. 249-275. \
+2) <img src="https://jacopoto.github.io/assets/img/rssa.jpg" width="135">{: .image-left} **[Separating Risk in Education from Heterogeneity: a Semiparametric Approach](https://jacopoto.github.io/jacopomazza.com/edu_risk_semipar.pdf){:target="_blank"}**, *Journal of the Royal Statistical Society: Series A*, (2018), vol. 181(1), pp. 249-275. \
 (joint with [Hans van Ophem](https://www.uva.nl/en/profile/o/p/j.c.m.vanophem/j.c.m.van-ophem.html){:target="_blank"}) \
 [Link to published version](https://rss.onlinelibrary.wiley.com/doi/abs/10.1111/rssa.12253){: .button}{:target="_blank"}
 <details>
