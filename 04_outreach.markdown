@@ -11,7 +11,8 @@ permalink: /outreach/
 <p> </p>
 
 - **[A Vulnerable Workforce: Migrant Workers in the
-COVID-19 Pandemic](https://jacopoto.github.io/jacopomazza.com/covid_vulnerability.pdf){:target="_blank"}**, (2020) European Commission, JRC - EUR 30225 (joint with [Francesco Fasani](https://sites.google.com/site/fasani2010/){:target="_blank"}). \
+COVID-19 Pandemic](https://jacopoto.github.io/jacopomazza.com/covid_vulnerability.pdf){:target="_blank"}**, (2020) European Commission, JRC - EUR 30225. \
+(joint with [Francesco Fasani](https://sites.google.com/site/fasani2010/){:target="_blank"}). \
 *Media Coverage*: Open Migration
 
 <details>
@@ -34,7 +35,8 @@ This note describes the contribution of migrant workers to the ongoing effort to
 </details>
 <p> </p>
 
-- **[The likely impact of COVID-19 on education: Reflections based on the existing literature and recent international datasets](https://publications.jrc.ec.europa.eu/repository/handle/JRC121071){:target="_blank"}** (joint with Giorgio Di Pietro, Federico Biagi, Patricia Costa and Zbigniew Karpinski), (2020), JRC Working Papers, JRC121071. \
+- **[The likely impact of COVID-19 on education: Reflections based on the existing literature and recent international datasets](https://publications.jrc.ec.europa.eu/repository/handle/JRC121071){:target="_blank"}**, (2020), JRC Working Papers, JRC121071. \
+(joint with Giorgio Di Pietro, Federico Biagi, Patricia Costa and Zbigniew Karpinski)
 
 <details>
   <summary>Abstract</summary>
