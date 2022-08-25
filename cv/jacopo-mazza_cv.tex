@@ -1,0 +1,285 @@
+\documentclass[11pt]{article}
+\usepackage{lmodern}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage[letterpaper]{geometry}
+\geometry{verbose,tmargin=1.5cm,bmargin=1.5cm,lmargin=1.5cm,rmargin=1.5cm}
+%\usepackage{fancyhdr}
+%\pagestyle{fancy}
+\setlength{\parskip}{\smallskipamount}
+\setlength{\parindent}{0pt}
+\usepackage{color}
+%\usepackage{babel}
+\usepackage{fontawesome}
+\usepackage{array}
+\usepackage{longtable}
+\usepackage{amssymb}
+\usepackage[authoryear]{natbib}
+
+% Hide or show money
+\usepackage{comment}
+\newif\ifshow
+%\showfalse
+\showtrue
+\ifshow
+    \includecomment{money}
+\else
+    \excludecomment{money}
+\fi
+
+
+% Change some distances in bibliography:
+    \setlength{\bibsep}{3pt}
+    \setlength{\bibhang}{7pt}
+\usepackage[unicode=true,pdfusetitle,
+ bookmarks=false,
+ breaklinks=true,pdfborder={0 0 0},pdfborderstyle={},backref=false,colorlinks=true]
+ {hyperref}
+\hypersetup{urlcolor=blue}
+\usepackage{breakurl}
+%Tweaking lists:
+\usepackage{enumitem}
+
+\usepackage{lastpage}
+%\headsep 10pt
+\definecolor{blue}{RGB}{12, 8, 129}
+% \usepackage{titlesec}
+
+\begin{document}
+
+\begin{center}
+\Large \sc Jacopo Mazza \hfill Utrecht University, School of Economics \\
+\end{center}
+\vspace{-.3cm}
+\noindent\rule{\textwidth}{1pt}
+\parbox[t]{.45\textwidth}{\begin{flushleft}
+    \vspace{-.5cm}
+    \begin{footnotesize}
+    \href{https://sites.google.com/site/jacmazza}{\faGlobe\enspace Website} \\
+    \href{github.com/jacopoto} {\faGithub\enspace jacopoto} \\
+    \href{mailto:jacmazza@gmail.com}{\faEnvelopeO\enspace jacmazza@gmail.com} \\
+%    \href{\faGithub\enspace github.com/jacopoto} \\
+    \vspace{.35cm}
+    Last updated on: \today \\
+    \end{footnotesize}
+\end{flushleft}} \hfill
+\parbox[t]{.45\textwidth}{\begin{flushright}
+    \begin{footnotesize}
+    \vspace{-.5cm}
+    Utrecht School of Economics \\
+    Adam Smith Hall, \\
+    Kriekenpitplein 21-22, \\
+    3584 EC Utrecht, \\
+    The Netherlands \\
+    \end{footnotesize}
+\end{flushright}} \\
+\noindent\rule{\textwidth}{1pt}
+
+\subsection*{\sc Employment}
+
+\hspace{20pt}\textbf{Utrecht University, Utrecht (The Netherlands)}\\
+\hspace*{27pt}Assistant Professor, School of Economics \emph{(2022\textendash)}\\
+\hspace*{20pt}\textbf{European Commission, Joint Research Centre}\\
+\hspace*{27pt}Scientific Officer, Knowledge Centre for Migration and Demography \emph{(2018\textendash2022)}\\
+\hspace*{20pt}\textbf{University of Essex, Colchester (U.K.)}\\
+\hspace*{27pt}Lecturer, Department of Economics \emph{(2016\textendash2018)}\\
+\hspace*{20pt}\textbf{University of Manchester, Manchester (U.K.)}\\
+\hspace*{27pt}Lecturer, Department of Economics \emph{(2012\textendash2016)}
+
+\subsection*{\sc Other Affiliations}
+\hspace{20pt}\textbf{University of Essex, Colchester (U.K.)}\\
+\hspace*{27pt}Research Associate, Department of Economics \emph{(2019\textendash )}
+
+\subsection*{\sc Education}
+
+\hspace*{20pt}\textbf{Ph.D. University of Amsterdam}, Economics, \emph{(2012)} \\
+\hspace*{20pt}\textbf{M.Sc. University of Amsterdam}, Economics,  \emph{(2006)} \\
+\hspace*{20pt}\textbf{Laurea Bocconi University}, Economics, \emph{ (2004)}
+
+\subsection*{\sc Journal publications}
+
+\nocite{mazza_scipioni_jepp}
+\nocite{bicakova_cortes_mazza_ej}
+\nocite{mazza_vohpem_hartog_le}
+\nocite{mazza_vophem_jrssa}
+
+\hspace*{20pt}%
+\begin{minipage}[t]{0.9\textwidth}%
+\vspace{-.9cm}
+    \centering
+    \renewcommand\refname{}
+        \bibliographystyle{ecta_YEAR}
+        \bibliography{my_pubs}
+\end{minipage}
+
+\vspace{-.3cm}
+
+\subsection*{\sc Working papers}
+
+\begin{itemize}[itemsep=0pt, leftmargin=20pt]
+\item [-]{Make Your Own Luck: The Wage Gains from Starting College in a Bad Economy}\\
+\emph{with Alena Bi\v{c}\'{a}kov\'{a} and Matias Cortes}
+\item [-]The Fiscal Impact of Immigration in the EU\\
+\emph{with Michael Christl, Alain Bélanger, Alessandra Conte and Edlira Narazani} (\textbf{R\&R at Fiscal Studies}) \\
+JRC Working Papers on Taxation and Structural Reforms No 01/2021; GLO Discussion Paper, No. 814.
+\item [-]Being on the Frontline? Immigrant Workers in Europe and the COVID-19 Pandemic\\
+\emph{with Francesco Fasani} (\textbf{R\&R at ILR Review})\\
+CEPR Discussion Paper 15590; CReAM Discussion Paper 01/21; IZA Discussion Paper 13963; Queen Mary University Working Paper 918.
+\item [-]Educational Choice, Initial Wage, and Wage Growth\\
+\emph{with Hans van Ophem}\\
+Tinbergen Institute Discussion Paper 2020-030/III
+\item [-]Does Risk Matter? A Semiparametric Model for Educational Choices in the Presence of Uncertainty \\
+University of Manchester Working Paper 1225
+
+\end{itemize}
+
+\subsection*{\sc Work in progress}
+
+\begin{itemize}[itemsep=0pt, leftmargin=20pt]
+\item [-]{The Wage Effects of Grade Inflation in College}\\
+\emph{with Peter Backus and Arnaud Chevalier}
+\item [-]College Participation Over the Business Cycle: Composition and Behavioral Changes\\
+\emph{with Alena Bi\v{c}\'{a}kov\'{a}, Matias Cortes, Kelly Foley and Peter McHenry}
+\item [-]{The Long Run Effects of Migration Exposure on Attitudes Towards Migration}\\
+\emph{with Mariapia Mendola and Marco Scipioni}
+%\item [-]When intentions matter\textendash identifying the prevalence and source of poor-quality inputs in Kenya\\
+%\emph{with Jose Clavijo and Travis Lybbert}
+%\item[-] Income Volatility and Technology Choice \\
+%\textit{with Rachel Hern\'{a}ndez  Frattarola}
+\end{itemize}
+
+\subsection*{\sc Other publications \& reports}
+
+\begin{itemize}[itemsep=0pt, leftmargin=20pt]
+\item [-]B\'elanger, A., M. Christl, A. Conte, J. Mazza and E. Narazani, 2020. {``Projecting the net fiscal impact of immigration in the EU.''}
+European Commission, JRC\textendash EUR 30407.
+\item [-]Fasani, F. and J. Mazza, 2020. {``A Vulnerable Workforce: Migrant Workers in the COVID-19 Pandemic.''}
+European Commission, JRC\textendash EUR 30225.
+\item [-]Fasani, F. and J. Mazza. 2020, {``Immigrant Key Workers: Their Contribution to Europe's COVID-19 Response.''} IZA Policy Paper No. 155.
+\item [-]Di Pietro, G., F. Biagi, P. Costa, Z. Karpinski and J. Mazza, 2020. {``The likely impact of COVID-19 on education: Reflections based on the existing literature and recent international datasets''}. JRC Working Papers JRC121071.
+\item [-]Mazza, J., 2019. ``{The Effect of Non-Native Pupils on Natives' Learning: Evidence from the EU}.''
+J.R.C. Technical Report, Publication Office of the European Union.
+\item [-]Conte, A. and J. Mazza, 2019. ``{Migrants and Welfare Dependency: Evidence from the EU}.''
+J.R.C. Technical Report, Publication Office of the European Union
+\item [-]Biagi, F., S. Grubanov-Boskovic and J. Mazza,
+2019. ``Over-education of migrants: Evidence from the EU'' J.R.C. Technical Report, Publication Office of the European Union
+\item [-]Sulla, V., R. Munoz Moreno, C. Da Maia, L. Klapper, P. Van Oudheusden, M. U. Guven, J. Mazza, D. Nikitin, V. Polodoo, P. L. Randriankolona and T. E. Heleniak, 2016.
+``{Mauritius \textendash Inclusiveness of growth and shared prosperity}.'' World Bank WP 90006.
+
+\end{itemize}
+
+\subsection*{\sc Grants }
+
+\begin{itemize}[itemsep=0pt, leftmargin=20pt]
+\item [-]2016-2018: The British Academy Small Grant \#R119450
+\begin{money}
+(\pounds10,000)
+\end{money}
+with Matias Cortes \\
+\emph{Caught in the cycle: the long term consequences of college major selection in a recession}
+
+\end{itemize}
+
+%\subsection*{\sc Awards \& Fellowships}
+
+%\begin{itemize}[itemsep=-.1cm, leftmargin=20pt]
+%\item [-]Association for Public Policy Analysis and Management, 40 for 40 Fellowship, 2018
+%\item [-]Taylor Hibbard award for Excellence in Graduate Teaching, 2018 (based on student vote)
+%\item [-]Gordon A. King Best Dissertation Award, UC Davis Agricultural \& Resource Economics (2015)
+%\item [-]Henry A. Jastro Graduate Research Fellowship, UC Davis (2012-2013)
+%\item [-]Departmental Fellowship, Agricultural and Resource Economics, UC Davis (2009-2010)
+%\item [-]Phi Beta Kappa, Colby College (2016)
+%\end{itemize}
+
+\subsection*{\sc Invited seminars \& panels}
+\textit{Planned indicated with *}
+\begin{itemize}[itemsep=.9pt, leftmargin=20pt]
+    \item[]\textbf{2021:} Centro Studi Luca D'Agliano: 5th Annual Conference; DG EMPL\textendash European Commission; Jean Monnet Workshop\textendash University of Pisa; Central Bank of Romania.
+    \item[]\textbf{2020:} Migration Policy Institute.
+    \item[]\textbf{2017:} University of Utrecht (Economics); University of the Balearic Islands (Economics).
+    \item[]\textbf{2013:} Institute for Fiscal Studies.
+    \item[]\textbf{2012:} CERGE-EI - Prague (Economics); Ludwig Maximilians University, M\"unich (Economics).
+
+\end{itemize}
+
+\subsection*{\sc Conferences \& workshops}
+\begin{itemize}[itemsep=.9pt, leftmargin=20pt]
+    \item[]\textbf{2022:} EEA-ESEM Congress.
+    \item[]\textbf{2019:} ZEW workshop on the Economics of Higher Education; 24th Annual SOLE Meeting.
+    \item[]\textbf{2018:} 30th EALE Conference; Royal Economic Society Conference.
+    \item[]\textbf{2015:} SOLE/EALE World Conference.
+    \item[]\textbf{2013:} Royal Economic Society Conference.
+    \item[]\textbf{2011:} Tinbergen Institute - Amsterdam; 4th Italian Congress of Econometrics and Empirical Economics.
+    \item[]\textbf{2010:} IX “Brucchi Luchino” Labour Economics Workshop, University of Padua.
+    \item[]\textbf{2008:} 20th EALE Conference.
+    \item[]\textbf{2005:} ASSA meeting.
+\end{itemize}
+
+\subsection*{\sc Media Coverage}
+{\emph{BBC; The Guardian; Newsweek; Il Corriere della Sera; La Repubblica; Algmeen Dagblad; De Pers; Rtl 4; The Times Higher Education}.
+
+\subsection*{\sc Work experience}
+\begin{itemize}[leftmargin=20pt]
+    \itemsep-.1cm
+    \item[] Consultant, The World Bank (2014)
+    \item[] Intern, Central Planning Bureau\textendash The Hague, The Netherlands (2006)
+\end{itemize}
+
+\subsection*{\sc Teaching}
+\begin{itemize}[leftmargin=20pt]
+    \itemsep0cm
+    \item[-]\textbf{University of Essex, Department of Economics}
+    \itemsep-.1cm
+    \item[] Applied Econometrics. Ph.D. level. 2018
+    \item[] Labour Economics. Undergraduate level. 2017, 2018
+    \item[] Economics for Business. Undergraduate level. 2016, 2017
+    \itemsep.1cm
+    \item[-]\textbf{University of Manchester, Department of Economics}
+    \itemsep-.1cm
+    \item[] Introduction to Econometrics. Master level. 2013, 2014, 2015
+    \item[] Further Econometrics. Master level. 2013
+    \item[] Labour Economics. Undergraduate level. 2012, 2013, 2014, 2015
+    \item[] Introduction to Statistics. 2013
+    \itemsep.1cm
+    \item[-]\textbf{University of Amsterdam, Department of Economics and Business}
+    \itemsep-.10cm
+    \item[] Labour Economics. Undergraduate level. 2009
+
+\end{itemize}
+
+%\subsection*{\sc Advising}
+
+%\begin{itemize}[leftmargin=20pt]
+%    \itemsep-.1cm
+%    \item[] Rachel Frattarola, PhD AAE (2018) Dissertation committee member
+%    \item[] Justin Delorit, PhD Civil \& Environmental Engineering (2018) Dissertation committee member
+%    \item[] Norihiko Matsuda, PhD AAE (2018) Dissertation committee member
+%    \item[] Jessica Zhu, PhD AAE (2019) Dissertation committee member
+%    \item[]	Jens Engelmann, PhD AAE (2019) Dissertation committee member
+%    \item[] Naoki Nishimura, PhD AAE, Dissertation committee member
+%    \item[]	Evan Morier, PhD Political Science, Dissertation committee member
+%    \item[]	Joshua Deutschmann, PhD AAE Dissertation committee member
+%    \item[]	Eduardo Cenci, PhD AAE, Dissertation committee member
+%\end{itemize}
+
+
+\subsection*{\sc University service}
+\begin{itemize}[leftmargin=20pt]
+    \itemsep-.1cm
+    \item[] Econometrics \& Applied Economics workshop coordinator, Department of Economics, University of Manchester (2012\textendash 2016)
+    \item[] Brownbag workshop coordinator, Department of Economics and Business, University of Amsterdam (2007\textendash 2010)
+\end{itemize}
+
+\subsection*{\sc Outside service}
+
+\begin{itemize}[itemsep=.9pt, leftmargin=20pt]
+    \item[]\textbf{Journal refereeing:} American Economic Journal: Economic Policy; The Economic Journal; European Economic Review; Labour Economics; Regional Science and Urban Economics; Oxford Economic Papers; The B.E. Journal of Economic Analysis and Policy; The Manchester School.
+\end{itemize}
+
+\subsection*{\sc Other information}
+\begin{itemize}[itemsep=.9pt, leftmargin=20pt]
+    \item[]\textbf{Languages:} Italian (Native), English (Fluent), French, Spanish (Proficient), Dutch (Basic).
+%    \item[]\textbf{Associations:} American Economic Association, Agricultural and Applied Economics Association, Economic Science Association, Australasian Agricultural and Natural Resource Association
+\end{itemize}
+
+\end{document}
