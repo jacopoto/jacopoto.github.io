@@ -10,7 +10,7 @@ permalink: /research/
       display: block;
       margin-left: auto;
       margin-right: auto;
-      float: right;
+      float: left;
     }
     </style>
 
@@ -77,7 +77,7 @@ We investigate the major choice of college graduates where we make choice depend
 ### Journal Publications
 <p> </p>
 
-4) [![Book logo](https://jacopoto.github.io/assets/img/jepp.jpg){: .image-left }**[The Gender Gap in Support for Governments During the COVID Crisis](https://www.tandfonline.com/doi/full/10.1080/13501763.2022.2027503?src=){:target="_blank"}**, *Journal of European Public Policy*, forthcoming. \
+4) ![Book logo](https://jacopoto.github.io/assets/img/jepp.jpg){: .image-left}**[The Gender Gap in Support for Governments During the COVID Crisis](https://www.tandfonline.com/doi/full/10.1080/13501763.2022.2027503?src=){:target="_blank"}**, *Journal of European Public Policy*, forthcoming. \
 (joint with [Marco Scipioni](https://scholar.google.com/citations?user=WuJGLH0AAAAJ&hl=en){:target="_blank"}) \
 **Open Access**
 <details>
@@ -86,7 +86,7 @@ We investigate the major choice of college graduates where we make choice depend
 Using data covering most European Union Member States, we study how the support for national governments has unravelled in the first months of the COVID pandemic. Motivated by the growing evidence on the uneven economic impact of this crisis across genders, we study if such unequal economic burden is related to differences in support for public authorities between men and women. While the support for national governments has overall faded in the period considered, the decline has been more pronounced for women, and working women in particular. We find indication that the decline in support signals a shift in concerns among Europeans, and women in particular, from the health emergency to the economic consequences of the pandemic. We impute up to a third of the widening gender gap in support for government to the shift of emphasis from the health to the economic dimension of the crisis.
 </details>
 <p> </p>
-]
+
 
 3) **[Caught in the Cycle: Timing of Enrolment and Labour Market Performance of University Graduates](https://jacopoto.github.io/jacopomazza.com/cycle_college_uk.pdf){:target="_blank"}**, *The Economic Journal*, (2021), vol. 131(638), pp. 2383–2412. \
 (joint with [Alena Bicáková](http://home.cerge-ei.cz/Alena/){:target="_blank"} and [Matias Cortes](https://www.sites.google.com/site/gmatiascortes/home){:target="_blank"}) \
