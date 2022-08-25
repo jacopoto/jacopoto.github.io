@@ -5,6 +5,16 @@ menu: main
 permalink: /research/
 ---
 
+<style type="text/css">
+    .image-left {
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      float: right;
+    }
+    </style>
+
+
 ## Research
 ### Work in Progress
 <p> </p>
