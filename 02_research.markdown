@@ -77,7 +77,7 @@ We investigate the major choice of college graduates where we make choice depend
 ### Journal Publications
 <p> </p>
 
-4) ![jepp logo](https://jacopoto.github.io/assets/img/jepp.jpg){: .image-left}**[The Gender Gap in Support for Governments During the COVID Crisis](https://www.tandfonline.com/doi/full/10.1080/13501763.2022.2027503?src=){:target="_blank"}**, *Journal of European Public Policy*, forthcoming. \
+4) <img src="https://jacopoto.github.io/assets/img/jepp.jpg width="100">{: .image-left}**[The Gender Gap in Support for Governments During the COVID Crisis](https://www.tandfonline.com/doi/full/10.1080/13501763.2022.2027503?src=){:target="_blank"}**, *Journal of European Public Policy*, forthcoming. \
 (joint with [Marco Scipioni](https://scholar.google.com/citations?user=WuJGLH0AAAAJ&hl=en){:target="_blank"}) \
 **Open Access**
 <details>
@@ -88,7 +88,7 @@ Using data covering most European Union Member States, we study how the support 
 <p> </p>
 
 
-3) <img src="https://jacopoto.github.io/assets/img/ej.jpeg" width="200">{: .image-left}**[Caught in the Cycle: Timing of Enrolment and Labour Market Performance of University Graduates](https://jacopoto.github.io/jacopomazza.com/cycle_college_uk.pdf){:target="_blank"}**, *The Economic Journal*, (2021), vol. 131(638), pp. 2383–2412. \
+3) <img src="https://jacopoto.github.io/assets/img/ej.jpeg" width="100">{: .image-left}**[Caught in the Cycle: Timing of Enrolment and Labour Market Performance of University Graduates](https://jacopoto.github.io/jacopomazza.com/cycle_college_uk.pdf){:target="_blank"}**, *The Economic Journal*, (2021), vol. 131(638), pp. 2383–2412. \
 (joint with [Alena Bicáková](http://home.cerge-ei.cz/Alena/){:target="_blank"} and [Matias Cortes](https://www.sites.google.com/site/gmatiascortes/home){:target="_blank"}) \
 [Link to published version](https://academic.oup.com/ej/advance-article-abstract/doi/10.1093/ej/ueab003/6095717?redirectedFrom=fulltext){: .button}{:target="_blank"}
 <details>
