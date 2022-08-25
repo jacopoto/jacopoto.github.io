@@ -40,7 +40,7 @@ The increasing flows of immigrants in Europe over the last decade has generated 
 
 **[Being on the Frontline? Immigrant Workers in Europe and the COVID-19 Pandemic](https://jacopoto.github.io/jacopomazza.com/COVID_paper_migrants_Resubmission_ILRR.pdf){:target="_blank"}**, (*R&R ILR Review*). \
 (joint with [Francesco Fasani](https://sites.google.com/site/fasani2010/){:target="_blank"}) \
-Working paper version: [CEPR](https://cepr.org/publications/dp15590){:target="_blank"}; [CReAM](https://www.cream-migration.org/publ_uploads/CDP_01_21.pdf){:target="_blank"}; ; [IZA](https://www.iza.org/publications/dp/13963/being-on-the-frontline-immigrant-workers-in-europe-and-the-covid-19-pandemic){:target="_blank"}; [QMUL](https://www.qmul.ac.uk/sef/research/workingpapers/2020/items/918.html){:target="_blank"} \
+Working paper version: [CEPR](https://cepr.org/publications/dp15590){:target="_blank"}; [CReAM](https://www.cream-migration.org/publ_uploads/CDP_01_21.pdf){:target="_blank"}; [IZA](https://www.iza.org/publications/dp/13963/being-on-the-frontline-immigrant-workers-in-europe-and-the-covid-19-pandemic){:target="_blank"}; [QMUL](https://www.qmul.ac.uk/sef/research/workingpapers/2020/items/918.html){:target="_blank"} \
 *Media Covearge*: [Le Temps](https://www.letemps.ch/economie/chomage-menace-9-millions-dimmigres-europe){:target="_blank"} (In French);
 <details>
   <summary>Abstract</summary>
