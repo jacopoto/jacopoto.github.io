@@ -90,7 +90,7 @@ Using data covering most European Union Member States, we study how the support 
 
 3) <img src="https://jacopoto.github.io/assets/img/ej.jpeg" width="135">{: .image-left} **[Caught in the Cycle: Timing of Enrolment and Labour Market Performance of University Graduates](https://jacopoto.github.io/jacopomazza.com/cycle_college_uk.pdf){:target="_blank"}**, *The Economic Journal*, (2021), vol. 131(638), pp. 2383–2412. \
 (joint with [Alena Bicáková](http://home.cerge-ei.cz/Alena/){:target="_blank"} and [Matias Cortes](https://www.sites.google.com/site/gmatiascortes/home){:target="_blank"}) \
-[Link to published version](https://academic.oup.com/ej/advance-article-abstract/doi/10.1093/ej/ueab003/6095717?redirectedFrom=fulltext){: .button}{:target="_blank"}[Download bibtex citation](https://jacopoto.github.io/assets/bibtex_cite/bcm_ej.bib){:.button}{:target="_blank"}
+[Link to published version](https://academic.oup.com/ej/advance-article-abstract/doi/10.1093/ej/ueab003/6095717?redirectedFrom=fulltext){: .button}{:target="_blank"} [Download bibtex citation](https://jacopoto.github.io/assets/bibtex_cite/bcm_ej.bib){:.button}
 <details>
   <summary>Abstract</summary>
 
