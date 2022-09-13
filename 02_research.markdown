@@ -80,6 +80,7 @@ We investigate the major choice of college graduates where we make choice depend
 4) <img src="https://jacopoto.github.io/assets/img/jepp.jpg" width="120">{: .image-left} **[The Gender Gap in Support for Governments During the COVID Crisis](https://www.tandfonline.com/doi/full/10.1080/13501763.2022.2027503?src=){:target="_blank"}**, *Journal of European Public Policy*, forthcoming. \
 (joint with [Marco Scipioni](https://scholar.google.com/citations?user=WuJGLH0AAAAJ&hl=en){:target="_blank"}) \
 **Open Access**
+[Download bibtex citation](https://jacopoto.github.io/assets/bibtex_cite/bcm_ej.bib){:.button}
 <details>
   <summary>Abstract</summary>
 
@@ -100,7 +101,7 @@ We show that cohorts of male graduates who start college during worse economic t
 
 2) <img src="https://jacopoto.github.io/assets/img/rssa.jpg" width="135">{: .image-left} **[Separating Risk in Education from Heterogeneity: a Semiparametric Approach](https://jacopoto.github.io/jacopomazza.com/edu_risk_semipar.pdf){:target="_blank"}**, *Journal of the Royal Statistical Society: Series A*, (2018), vol. 181(1), pp. 249-275. \
 (joint with [Hans van Ophem](https://www.uva.nl/en/profile/o/p/j.c.m.vanophem/j.c.m.van-ophem.html){:target="_blank"}) \
-[Link to published version](https://rss.onlinelibrary.wiley.com/doi/abs/10.1111/rssa.12253){: .button}{:target="_blank"}
+[Link to published version](https://rss.onlinelibrary.wiley.com/doi/abs/10.1111/rssa.12253){: .button}{:target="_blank"} [Download bibtex citation](https://jacopoto.github.io/assets/bibtex_cite/bcm_ej.bib){:.button}
 <details>
   <summary>Abstract</summary>
 
@@ -112,7 +113,7 @@ the real magnitude of educational uncertainty and the impact that risk has on ed
 1) <img src="https://jacopoto.github.io/assets/img/le.jpg" width="140">{: .image-left} **[Unobserved Heterogeneity and Risk in Wage Variance: Does Schooling Provide Earnings Insurance?](https://jacopoto.github.io/jacopomazza.com/edu_risk.pdf){:target="_blank"}** \
 *Labour Economics*, (2013), vol. 24(C), pp. 323-338. \
 (joint with [Hans van Ophem](https://www.uva.nl/en/profile/o/p/j.c.m.vanophem/j.c.m.van-ophem.html){:target="_blank"} and Joop Hartog) \
-[Link to published version](https://www.sciencedirect.com/science/article/abs/pii/S0927537113001061){: .button}{:target="_blank"}
+[Link to published version](https://www.sciencedirect.com/science/article/abs/pii/S0927537113001061){: .button}{:target="_blank"} [Download bibtex citation](https://jacopoto.github.io/assets/bibtex_cite/bcm_ej.bib){:.button}
 <details>
   <summary>Abstract</summary>
 
