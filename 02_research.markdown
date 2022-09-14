@@ -80,7 +80,7 @@ We investigate the major choice of college graduates where we make choice depend
 4) <img src="https://jacopoto.github.io/assets/img/jepp.jpg" width="120">{: .image-left} **[The Gender Gap in Support for Governments During the COVID Crisis](https://www.tandfonline.com/doi/full/10.1080/13501763.2022.2027503?src=){:target="_blank"}**, *Journal of European Public Policy*, forthcoming. \
 (joint with [Marco Scipioni](https://scholar.google.com/citations?user=WuJGLH0AAAAJ&hl=en){:target="_blank"}) \
 **Open Access** \
-[Download bibtex citation](https://jacopoto.github.io/assets/bibtex_cite/bcm_ej.bib){:.button}{:target="popup"}
+[Download bibtex citation](https://jacopoto.github.io/assets/bibtex_cite/bcm_ej.bib){:.button}
 <details>
   <summary>Abstract</summary>
 
