@@ -15,12 +15,12 @@ COVID-19 Pandemic](https://jacopoto.github.io/jacopomazza.com/covid_vulnerabilit
 (joint with [Francesco Fasani](https://sites.google.com/site/fasani2010/){:target="_blank"}). \
 *Media Coverage:* OpenMigration
 
-<details>
-  <summary>Abstract</summary>
-This report analyses the labour conditions of migrant workers in the EU in the context of the COVID-19 epidemic. By looking at the prevalence of temporary contracts, the position in the income distribution and the likelihood that jobs can be conducted from home for both key and non-key migrant workers, it highlights the potential and distinct vulnerabilities for these two groups. Foreign born workers - especially Extra-EU migrants - are at a disadvantage in all three dimensions: they are more likely to be in temporary employment, earn lower wages and have jobs that are less amenable to teleworking. The report concludes by identifying possible areas of policy intervention to address these vulnerabilities.
+  <details>
+    <summary>Abstract</summary>
+    This report analyses the labour conditions of migrant workers in the EU in the context of the COVID-19 epidemic. By looking at the prevalence of temporary contracts, the position in the income distribution and the likelihood that jobs can be conducted from home for both key and non-key migrant workers, it highlights the potential and distinct vulnerabilities for these two groups. Foreign born workers - especially Extra-EU migrants - are at a disadvantage in all three dimensions: they are more likely to be in temporary employment, earn lower wages and have jobs that are less amenable to teleworking. The report concludes by identifying possible areas of policy intervention to address these vulnerabilities.
 
-</details>
-<p> </p>
+  </details>
+  <p> </p>
 
 - **[Immigrant Key Workers: Their Contribution to Europe's COVID-19 Response](https://jacopoto.github.io/jacopomazza.com/covid_key_workers.pdf){:target="_blank"}** \
 (joint with [Francesco Fasani](https://sites.google.com/site/fasani2010/){:target="_blank"}). \
@@ -28,12 +28,12 @@ Working paper version: [IZA](https://www.iza.org/publications/pp/155/immigrant-k
 *Media Coverage:* OpenMigration; La Libre (in French); The Guardian; Corriere Della Sera (in Italian); Brookings.edu; European Business Review; fanpage.it (in Italian); [Newsweek](https://www.newsweek.com/covid-vulnerable-groups-dealt-setback-vaccine-europe-largely-halts-johnson-johnson-shot-1583639){:target="_blank"}. \
 [Data](https://github.com/jacopoto/fm-migrant-key-workers){: .button}{:target="_blank"}
 
-<details>
-  <summary>Abstract</summary>
-This note describes the contribution of migrant workers to the ongoing effort to keep basic services running in the Union during the COVID-19 epidemic. We quantify the prevalence of migrant workers in the so called "key professions" that the Commission and Member States have identified using the most recent wave of the EU Labour Force Survey. Our results show that migrant "key workers" are essential for critical functions in European societies.
+  <details>
+    <summary>Abstract</summary>
+    This note describes the contribution of migrant workers to the ongoing effort to keep basic services running in the Union during the COVID-19 epidemic. We quantify the prevalence of migrant workers in the so called "key professions" that the Commission and Member States have identified using the most recent wave of the EU Labour Force Survey. Our results show that migrant "key workers" are essential for critical functions in European societies.
 
-</details>
-<p> </p>
+  </details>
+  <p> </p>
 
 - **[The likely impact of COVID-19 on education: Reflections based on the existing literature and recent international datasets](https://publications.jrc.ec.europa.eu/repository/handle/JRC121071){:target="_blank"}**, (2020), JRC Working Papers, JRC121071. \
 (joint with Giorgio Di Pietro, Federico Biagi, Patricia Costa and Zbigniew Karpinski)
