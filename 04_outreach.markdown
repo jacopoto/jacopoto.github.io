@@ -45,7 +45,7 @@ Working paper version: [IZA](https://www.iza.org/publications/pp/155/immigrant-k
   </details>
   <p> </p>
 
-<hr style="border:.25px solid grey">
+<hr style="border:.25px solid blue">
 
 ### Columns and Blogs
 <p> </p>
