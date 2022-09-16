@@ -81,7 +81,7 @@ strong{
 }
 
  /* Popup container */
-#top .popup {
+.popup {
   position: relative;
   display: inline-block;
   cursor: pointer;
@@ -132,3 +132,4 @@ strong{
   from {opacity: 0;}
   to {opacity:1 ;}
 } 
+
