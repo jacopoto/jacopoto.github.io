@@ -11,3 +11,7 @@ permalink: /teaching/
 
 Coming soon!
 <p> </p>
+
+ <div class="popup" onclick="myFunction()">Click me!
+  <span class="popuptext" id="myPopup">Popup text...</span>
+</div> 
