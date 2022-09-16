@@ -4,13 +4,11 @@ title: Teaching
 menu: main
 permalink: /teaching/
 ---
-<script>
-// When the user clicks on div, open the popup
-function myFunction() {
-  var popup = document.getElementById("myPopup");
-  popup.classList.toggle("show");
-}
-</script>
+
+<a href="#" class="btn btn-outline-primary btn-page-header js-cite-modal"
+        data-filename="https://jacopoto.github.io/assets/bibtex_cite/bcm_ej.bib">
+  Cite
+</a>
 
 ## Teaching
 
@@ -18,9 +16,27 @@ function myFunction() {
 
 Coming soon!
 <p> </p>
-
- <div class="popup" onclick="myFunction()">Click me!
-  <span class="popuptext" id="myPopup">Popup text...</span>
-</div> 
-
-[Download bibtex citation](https://jacopoto.github.io/assets/bibtex_cite/bcm_ej.bib){:.popup}
+<div id="modal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Cite</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <pre><code class="tex hljs"></code></pre>
+      </div>
+      <div class="modal-footer">
+        <a class="btn btn-outline-primary my-1 js-copy-cite" href="#" target="_blank">
+          <i class="fas fa-copy"></i> Copy
+        </a>
+        <a class="btn btn-outline-primary my-1 js-download-cite" href="#" target="_blank">
+          <i class="fas fa-download"></i> Download
+        </a>
+        <div id="modal-error"></div>
+      </div>
+    </div>
+  </div>
+</div>
