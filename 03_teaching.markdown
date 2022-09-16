@@ -5,7 +5,7 @@ menu: main
 permalink: /teaching/
 ---
 
-<a href="#" class="btn btn-outline-primary btn-page-header js-cite-modal"
+<a href="#" class="button"
         data-filename="https://jacopoto.github.io/assets/bibtex_cite/bcm_ej.bib">
   Cite
 </a>
