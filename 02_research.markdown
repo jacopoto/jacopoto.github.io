@@ -18,8 +18,14 @@ permalink: /research/
 ## Research
 ### Work in Progress
 <p> </p>
-**Do economic conditions at enrollment affect performance in college?** \
+**[Enrolling in Bad Times: College Persistence and Labor Market Outcomes](https://jacopoto.github.io/assets/can_late_finish-1.pdf){:target="_blank"}** \
 (joint with [Alena Bicáková](http://home.cerge-ei.cz/Alena/){:target="_blank"}, [Matias Cortes](https://www.sites.google.com/site/gmatiascortes/home){:target="_blank"}, [Kelly Foley](https://www.kellyfoley.org/){:target="_blank"} and [Peter McHenry](https://www.wm.edu/as/economics/faculty-directory/mchenry_p.php){:target="_blank"})
+<details>
+  <summary>Abstract</summary>
+
+Using administrative data covering the universe of student enrollments in public universities in Canada since 2009, we show that individuals who start an undergraduate degree when unemployment is high are less likely to graduate within five years. Compositional changes along observable student characteristics including gender, age at enrollment, and parental income do not account for this result, nor does sorting across universities or fields of study. While a simple model of negative selection into university during downturns can account for the decline in graduation rates, it would imply that post-schooling earnings should be lower among non-completers who enroll during high unemployment periods compared to those who enroll when unemployment is lower. Using a panel of administrative tax data linked to the student enrollment records, we show that higher unemployment rates at enrollment are not associated with lower annual earnings among non-completers. A model that features heterogeneity in the idiosyncratic costs of post-secondary education can rationalize this result.
+</details>
+<p> </p>
 
 
 <hr style="border:.25px solid grey">
@@ -27,7 +33,7 @@ permalink: /research/
 ### Under Review
 <p> </p>
 
-**[Make Your Own Luck: The Wage Gains from Starting College in a Bad Economy](https://jacopoto.github.io/assets/make-luck_paper.pdf){:target="_blank"}**, \
+**[Make Your Own Luck: The Wage Gains from Starting College in a Bad Economy](https://jacopoto.github.io/assets/make-luck_paper.pdf){:target="_blank"}**, (*R&R Labour Economics*).\
 (joint with [Alena Bicáková](http://home.cerge-ei.cz/Alena/){:target="_blank"} and [Matias Cortes](https://www.sites.google.com/site/gmatiascortes/home){:target="_blank"}) \
 [slides](https://jacopoto.github.io/assets/make-luck_pres.pdf){: .button}{:target="_blank"}
 <details>
