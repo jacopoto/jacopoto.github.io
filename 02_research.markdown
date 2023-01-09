@@ -72,9 +72,10 @@ We investigate the major choice of college graduates where we make choice depend
 ### Journal Publications
 <p> </p>
 
-5) <img src="https://jacopoto.github.io/assets/img/fs.cover.jpg" width="120">{: .image-left} **[Projecting the fiscal impact of immigration in the European Union](https://jacopoto.github.io/assets/fs_migration.pdf){:target="_blank"}**, *Fiscal Studies*, forthcoming. \
+5) <img src="https://jacopoto.github.io/assets/img/fs.cover.jpg" width="120">{: .image-left} **[Projecting the fiscal impact of immigration in the European Union](https://jacopoto.github.io/assets/fs_migration.pdf){:target="_blank"}**, *Fiscal Studies*, 2022. \
 (joint with  [Michael Christl](https://sites.google.com/view/michael-christl/about-me){:target="_blank"}, Alain Bélanger, Alessandra Conte and Edlira Narazani) \
-[Link to published version](https://onlinelibrary.wiley.com/doi/full/10.1111/1475-5890.12314){: .button}{:target="_blank"} [Download bibtex citation](https://jacopoto.github.io/assets/bibtex_cite/cbcmn_fs.bib){:.button}
+**Open Access** \
+ [Download bibtex citation](https://jacopoto.github.io/assets/bibtex_cite/cbcmn_fs.bib){:.button}
 <details>
   <summary>Abstract</summary>
 
