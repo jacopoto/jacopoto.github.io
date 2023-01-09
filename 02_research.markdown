@@ -72,18 +72,7 @@ We investigate the major choice of college graduates where we make choice depend
 ### Journal Publications
 <p> </p>
 
-5) <img src="https://jacopoto.github.io/assets/img/fs.cover.jpg" width="120">{: .image-left} **[Projecting the fiscal impact of immigration in the European Union](https://onlinelibrary.wiley.com/doi/full/10.1111/1475-5890.12314){:target="_blank"}**, *Fiscal Studies*, 2022. \
-(joint with  [Michael Christl](https://sites.google.com/view/michael-christl/about-me){:target="_blank"}, Alain Bélanger, Alessandra Conte and Edlira Narazani) \
-**Open Access** \
- [Download bibtex citation](https://jacopoto.github.io/assets/bibtex_cite/cbcmn_fs.bib){:.button}
-<details>
-  <summary>Abstract</summary>
-
-The increasing flow of immigrants into Europe over the last decade has generated a range of considerations in the policy agenda of many receiving countries. One of the main considerations for policy makers and public opinion alike is whether immigrants contribute their ``fair'' share to their host country's tax and welfare system. In this paper, we assess the net fiscal impact of intra- and extra-EU migration in 27 EU Member States. We find that migrants in the EU, on average, contribute more than natives to welfare states. However, when we take an age-specific life-cycle perspective, we find that natives generally show a higher net fiscal contribution than both groups of migrants. Among migrants, extra-EU migrants contribute less than intra-EU migrants. We then use a demographic micro-simulation model to project the potential net fiscal impact of migration in the EU into the future. We show that despite the fact that intra-EU migration contributes to reducing the strong negative impact of population ageing, its contribution is not sufficient to offset the negative fiscal consequences.
-</details>
-<p> </p>
-
-4) <img src="https://jacopoto.github.io/assets/img/jepp.jpg" width="120">{: .image-left} **[The Gender Gap in Support for Governments During the COVID Crisis](https://www.tandfonline.com/doi/full/10.1080/13501763.2022.2027503?src=){:target="_blank"}**, *Journal of European Public Policy*, forthcoming. \
+5) <img src="https://jacopoto.github.io/assets/img/jepp.jpg" width="120">{: .image-left} **[The Gender Gap in Support for Governments During the COVID Crisis](https://www.tandfonline.com/doi/full/10.1080/13501763.2022.2027503?src=){:target="_blank"}**, *Journal of European Public Policy*, forthcoming. \
 (joint with [Marco Scipioni](https://scholar.google.com/citations?user=WuJGLH0AAAAJ&hl=en){:target="_blank"}) \
 **Open Access** \
 [Download bibtex citation](https://jacopoto.github.io/assets/bibtex_cite/bcm_ej.bib){:.button}
@@ -94,6 +83,16 @@ Using data covering most European Union Member States, we study how the support 
 </details>
 <p> </p>
 
+4) <img src="https://jacopoto.github.io/assets/img/fs.cover.jpg" width="120">{: .image-left} **[Projecting the fiscal impact of immigration in the European Union](https://onlinelibrary.wiley.com/doi/full/10.1111/1475-5890.12314){:target="_blank"}**, *Fiscal Studies*, (2022), vol. 43(4), pp. 365–385. \
+(joint with  [Michael Christl](https://sites.google.com/view/michael-christl/about-me){:target="_blank"}, Alain Bélanger, Alessandra Conte and Edlira Narazani) \
+**Open Access** \
+ [Download bibtex citation](https://jacopoto.github.io/assets/bibtex_cite/cbcmn_fs.bib){:.button}
+<details>
+  <summary>Abstract</summary>
+
+The increasing flow of immigrants into Europe over the last decade has generated a range of considerations in the policy agenda of many receiving countries. One of the main considerations for policy makers and public opinion alike is whether immigrants contribute their ``fair'' share to their host country's tax and welfare system. In this paper, we assess the net fiscal impact of intra- and extra-EU migration in 27 EU Member States. We find that migrants in the EU, on average, contribute more than natives to welfare states. However, when we take an age-specific life-cycle perspective, we find that natives generally show a higher net fiscal contribution than both groups of migrants. Among migrants, extra-EU migrants contribute less than intra-EU migrants. We then use a demographic micro-simulation model to project the potential net fiscal impact of migration in the EU into the future. We show that despite the fact that intra-EU migration contributes to reducing the strong negative impact of population ageing, its contribution is not sufficient to offset the negative fiscal consequences.
+</details>
+<p> </p>
 
 3) <img src="https://jacopoto.github.io/assets/img/ej.jpeg" width="135">{: .image-left} **[Caught in the Cycle: Timing of Enrolment and Labour Market Performance of University Graduates](https://jacopoto.github.io/jacopomazza.com/cycle_college_uk.pdf){:target="_blank"}**, *The Economic Journal*, (2021), vol. 131(638), pp. 2383–2412. \
 (joint with [Alena Bicáková](http://home.cerge-ei.cz/Alena/){:target="_blank"} and [Matias Cortes](https://www.sites.google.com/site/gmatiascortes/home){:target="_blank"}) \
