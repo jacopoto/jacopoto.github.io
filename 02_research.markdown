@@ -61,7 +61,7 @@ We investigate the major choice of college graduates where we make choice depend
 ### Journal Publications
 <p> </p>
 
-6) <img src="https://jacopoto.github.io/assets/img/ilrr.jpg" width="120">{: .image-left}**[Being on the Frontline? Immigrant Workers in Europe and the COVID-19 Pandemic](https://github.com/jacopoto/jacopomazza.com/blob/95716b077e07eb42d46f66fab91d5f8a97d48fb2/COVID_paper_migrants_ILLR%20(1).pdf){:target="_blank"}**, *ILR Review*, (Forthcoming). \
+6) <img src="https://jacopoto.github.io/assets/img/ilrr.jpg" width="120">{: .image-left}**[Being on the Frontline? Immigrant Workers in Europe and the COVID-19 Pandemic](https://jacopoto.github.io/assets/COVID_paper_migrants_ilrr.pdf){:target="_blank"}**, *ILR Review*, (Forthcoming). \
 (joint with [Francesco Fasani](https://sites.google.com/site/fasani2010/){:target="_blank"}) 
 
 *Media Covearge*: [Le Temps](https://www.letemps.ch/economie/chomage-menace-9-millions-dimmigres-europe){:target="_blank"} (In French);
