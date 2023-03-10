@@ -43,17 +43,6 @@ Using data for nearly 40 cohorts of American college graduates and exploiting re
 </details>
 <p> </p>
 
-**[Being on the Frontline? Immigrant Workers in Europe and the COVID-19 Pandemic](https://jacopoto.github.io/jacopomazza.com/COVID_paper_migrants_Resubmission_ILRR.pdf){:target="_blank"}**, (*R&R ILR Review*). \
-(joint with [Francesco Fasani](https://sites.google.com/site/fasani2010/){:target="_blank"}) \
-Working paper version: [CEPR](https://cepr.org/publications/dp15590){:target="_blank"}; [CReAM](https://www.cream-migration.org/publ_uploads/CDP_01_21.pdf){:target="_blank"}; [IZA](https://www.iza.org/publications/dp/13963/being-on-the-frontline-immigrant-workers-in-europe-and-the-covid-19-pandemic){:target="_blank"}; [QMUL](https://www.qmul.ac.uk/sef/research/workingpapers/2020/items/918.html){:target="_blank"} \
-*Media Covearge*: [Le Temps](https://www.letemps.ch/economie/chomage-menace-9-millions-dimmigres-europe){:target="_blank"} (In French);
-<details>
-  <summary>Abstract</summary>
-
-We provide a first systematic assessment of the labor market impact of COVID-19 on immigrant workers in Europe. In the first year of the pandemic, we estimate that Extra EU migrants were twice as likely to have their job terminated relative to comparable natives, while for EU migrants this probability was 1.6 times larger. To understand the determinants of these large gaps, we focus on three job characteristics: essentiality, temporariness and teleworkability. After documenting differential migrant-native distribution along these three dimensions, we estimate that this pre-pandemic occupational sorting accounts for around 50% of the explained native-migrants gaps in the risk of employment termination; sorting into industries accounts for the other half. Further, we estimate a larger penalty for migrants from being employed in low-teleworkable occupations. Even within narrow occupation/industry cells, however, more than half of the migrant-native gap in job separation probability remains unexplained.
-
-</details>
-<p> </p>
 
 **[Educational Choice, Initial Wage
 and Wage Growth](https://jacopoto.github.io/jacopomazza.com/college_wage_growth.pdf){:target="_blank"}** \
@@ -70,6 +59,19 @@ We investigate the major choice of college graduates where we make choice depend
 <hr style="border:.25px solid grey">
 
 ### Journal Publications
+<p> </p>
+
+6) **[Being on the Frontline? Immigrant Workers in Europe and the COVID-19 Pandemic](https://github.com/jacopoto/jacopomazza.com/blob/95716b077e07eb42d46f66fab91d5f8a97d48fb2/COVID_paper_migrants_ILLR%20(1).pdf){:target="_blank"}**, *ILR Review*, (Forthcoming). \
+(joint with [Francesco Fasani](https://sites.google.com/site/fasani2010/){:target="_blank"}) \
+
+*Media Covearge*: [Le Temps](https://www.letemps.ch/economie/chomage-menace-9-millions-dimmigres-europe){:target="_blank"} (In French);
+<details>
+  <summary>Abstract</summary>
+
+We provide the first systematic assessment of the impact of COVID-19 on the labor market for immigrant workers in Europe. In 2020, we estimate that extra-EU migrants were twice as likely to experience employment loss relative to comparable natives, while this probability was 1.6 times higher for EU migrants. To understand the determinants of these large gaps, we focus on three job characteristics - \textit{essentiality}, \textit{temporariness}, and \textit{teleworkability} - and document that migrants were overrepresented among essential, temporary, and low teleworkable occupations at the onset of the pandemic. We estimate that prepandemic occupational sorting accounts for 25-35\% of the explained native-migrant gaps in the risk of employment termination while sorting into industries accounts for the rest of the explained part. Yet, more than half of the migrant-native gap in job separation probability remains unexplained, even when controlling for occupational characteristics and industry fixed effects. According to our estimates, migrants face a disproportionately large penalty for being employed in low-teleworkable occupations. Although major employment losses were averted thanks to the massive use of short-time work programs in Europe, migrant workers and extra-EU migrants, in particular, still suffered from high economic vulnerability during the pandemic. 
+
+</details>
+
 <p> </p>
 
 5) <img src="https://jacopoto.github.io/assets/img/jepp.jpg" width="120">{: .image-left} **[The Gender Gap in Support for Governments During the COVID Crisis](https://www.tandfonline.com/doi/full/10.1080/13501763.2022.2027503?src=){:target="_blank"}**, *Journal of European Public Policy*, (2023), vol. 30(2), pp. 254–270. \
