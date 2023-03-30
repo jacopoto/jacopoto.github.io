@@ -1,0 +1,264 @@
+---
+title: "U.S.E. PhDs Job Market Workshop"
+author: "Jacopo Mazza"
+institute: "Utrecht School of Economics"
+date: 03/29/2023
+date-format: long
+
+format: 
+    revealjs:
+        transition: slide
+        slide-number: c
+        navigation: horizontal
+        footer: <https://jacopoto.github.io/>
+        preview-links: auto
+
+logo: uu-use-yellow.png
+css: logo.css
+
+output:
+  quarto::quarto_html:
+    self_contained: true
+    toc: false
+
+title-slide-attributes:
+    data-background-image: "./4578.jpg"
+    data-background-opacity: "0.4"
+---
+
+## Job markets, plural
+
+::: {.fragment .semi-fade-out fragment-index="1"}
+-   Government jobs
+:::
+
+::: {.fragment .semi-fade-out fragment-index="1"}
+-   Private sector
+:::
+
+::: {.fragment .semi-fade-out fragment-index="1"}
+-   Non-academic research
+:::
+
+::: {.fragment .highlight-red fragment-index="1"}
+-   Academic research
+:::
+
+## So What is This Job Market?
+
+Standardized job opening and search system in terms of:
+
+::: incremental
+-   Timing
+
+-   Applications
+
+-   Staging
+:::
+
+## The Job Market Timeline
+
+```{r}
+#
+library(ggplot2)
+library(vistime)
+
+data <- read.csv(text="event,start,end
+                       Job openings,    2023-09-30,2023-12-15
+                       Interviews,      2023-12-15,2024-01-10
+                       Flyouts,         2024-01-10,2024-02-28
+                       Secondary Market,2024-03-15,2024-05-01")
+        
+p <- vistime(data, optimize_y = TRUE, linewidth = 40)
+
+# step 1: transform into a list
+pp <- plotly::plotly_build(p)
+
+# step 2: loop over pp$x$data, and change the font size of all text elements to 28
+for(i in seq_along(pp$x$data)){
+    if(pp$x$data[[i]]$mode == "text") pp$x$data[[i]]$textfont$size <- 22
+}
+
+pp
+```
+
+## I want to go on the market, now what?
+
+-   By end of September:
+    -   Have Job Market Paper ready;
+    -   Have your online site up and running. How? [Glad you asked](https://kevinhayeswilson.com/website.pdf){preview-link="true" style="text-align: center"};
+    -   Ask for reference letters;
+-   By end of November
+    -   Have presented your JMP multiple times
+
+## Job Openings: where
+
+-   [Econjobmarket](https://econjobmarket.org){target="_blank"} 🌍
+-   [Job Openings for Economists (JOE)](https://www.aeaweb.org/joe/listings){target="_blank"} 🌍
+-   [Inomics](https://inomics.com/){target="_blank"} 🇪🇺
+-   [Academictransfer](https://www.academictransfer.com/en/){target="_blank"} 🇳🇱
+-   [jobs.ac.uk](https://www.jobs.ac.uk/search/economics){target="_blank"} 🇬🇧
+-   Twitter
+
+## Job Openings: when
+
+![](deadline-histogram) *Source: [Alex Albright](https://thelittledataset.com/2022/03/21/job-mkt/){target="_blank"}*
+
+## Job Applications: How many?
+
+![](aea-tab1-5256)
+
+*Source: [AEA webinar on job market](https://www.aeaweb.org/joe/communications/video/2021/webinar-part-1){target="_blank"}*
+
+## My Job Market
+
+![](pulp-fiction-john-travolta.gif){.absolute bottom=0 right=40 width="250" height="250"}
+
+```{r}
+library(waffle)
+library(gganimate)
+
+parts <- c("Ghosted" = 90, Interviews = 5, Flyouts = 2, Offers = 3)
+w1 <- waffle(parts, rows=8)
+w2 <- waffle(parts, rows=8)
+w3 <- waffle(parts, rows=8)
+# print chart
+## iron(w1, w2, w3)
+
+waffle(parts, rows = 10, keep = TRUE, xlab = NULL, title = NULL,
+colors = c("#FFEDA0", "#FEB24C", "#FC4E2A", "#BD0026"), size = 2, flip = FALSE, reverse = FALSE, equal = TRUE,
+pad = 0, use_glyph = FALSE, glyph_size = 12, legend_pos = "right")
+
+
+```
+
+## Interviews {background-color="black" background-image="good-will-hunting-job-interview.jpg" background-opacity="0.4"}
+
+::: {.panel-tabset background-color="black"}
+### **Format**
+
+-   Post-COVID, online. Might change.
+-   30 minutes.
+-   2/3 members of hiring institution.
+
+### **Expect**
+
+-   10/15 minutes pitch of job market paper (JMP);
+-   Questions about fit;
+-   Questions about your future research avenues;
+-   Space for your questions about the Demand Side.
+
+### **Prepare**
+
+-   Short and effective presentation of your JMP;
+-   Check profiles of department. Who could your work with? Why?
+-   Think about your future research agenda;
+-   *Always* ask questions to hiring committee.
+:::
+
+## Flyouts {background-color="black" background-image="terminal.webp" background-opacity="0.4"}
+
+::: {.panel-tabset background-color="black"}
+### Format
+
+-   1-2 days visit on site (campus);
+-   Many 30-minute chats with members of staff;
+-   1-1,5 hour seminar of JMP;
+-   Lunch and/or dinner with members of staff;
+-   Sometimes formal interview.
+
+### Expect
+
+-   Probing questions during seminar;
+-   Seminar usually attended by many members of staff with different background;
+
+### Prepare
+
+-   Know ins and outs of your JMP;
+
+-   Answers to most obvious questions:
+
+    ::: {style="font-size: 70%;"}
+    -   Your instrument is endogenous
+    -   External validity of your experiment
+    -   Using DiD? Oh boy...
+    :::
+
+-   Work hard on the first 10 minutes of the presentation. Ideally, you need to entice all members of staff.
+
+-   Questions for other members of staff: check what they work on.
+:::
+
+## The Application Package
+
+::: panel-tabset
+### The Job Market Paper
+
+::: {style="font-size: 70%;"}
+-   The most important piece of your application;
+-   Generally single-authored (increasingly co-authored, but only if with another student);
+-   Showcases your best effort;
+-   Recommendations:
+    -   Work on your introduction again, and again, and again...and then some more.
+    -   Ask for feedback on it from anyone you can.
+:::
+
+### CV
+
+::: {style="font-size: 70%;"}
+-   Recommendations:
+    -   Pick a clear, clean template, no matter what format (e.g. .tex/.doc/.rmd).
+    -   Ask someone to go through it to check for clarity.
+    -   Carefully select the information to include.
+    -   Go for relevance, not length.
+:::
+
+### Letters of Recommendation
+
+::: {style="font-size: 70%;"}
+-   Generally 2/3
+-   Your main advisor is expected to be one of them
+-   Only academic referees
+-   Recommendations:
+    -   Give ample time to letter writers
+    -   Ask people who know your work well
+    -   If you can, get a letter from someone outside U.S.E.
+:::
+
+### Cover Letter
+
+::: {style="font-size: 70%;"}
+-   1-page letter where you substantiate your interest in the position
+-   Arguably **not** the most important piece of the package
+-   Recommendations:
+    -   Do not repeat the CV
+    -   Fine to have a standard template (but please change Institution and recipient's names)
+    -   Taylor only when you have something specific to say about that specific application
+:::
+
+### Miscellaneous
+
+::: {style="font-size: 70%;"}
+-   Course evaluations
+-   Research statement
+-   Teaching statement
+:::
+:::
+
+## Some Tips
+
+::: incremental
+-   Discuss the implication of going on the market with your partner.
+-   Seriously think through the implication of going on the market.
+-   The market can be brutal. Look after yourself and let others do the same.
+-   The market can also be exhilarating though!
+-   Do not let it define your worth.
+-   Check with us about what we can do for you!
+:::
+
+## Useful Resources
+
+-   [Alex Albright's blog on the Job Market](https://thelittledataset.com/2022/03/21/job-mkt/){target="_blank"}
+-   [EEA Job Market Site](https://www.europeanjobmarketofeconomists.org/){target="_blank"}
+-   [Guide of all guides!](https://sites.google.com/view/ejm-mentalhealth/references-and-links?authuser=0){target="_blank"}
+-   [Job Market application tracker](https://github.com/benjaminvatterj/JobMarketTracker){target="_blank"}
