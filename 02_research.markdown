@@ -34,7 +34,7 @@ Using administrative data covering the universe of student enrollments in public
 <p> </p>
 
 **[Make Your Own Luck: The Wage Gains from Starting College in a Bad Economy](https://jacopoto.github.io/assets/make-luck_paper.pdf){:target="_blank"}**, (*R&R Labour Economics*).\
-(joint with [Alena Bicáková](http://home.cerge-ei.cz/Alena/){:target="_blank"} and [Matias Cortes](https://www.sites.google.com/site/gmatiascortes/home){:target="_blank"}) \
+(joint with [Alena Bicáková](http://home.cerge-ei.cz/Alena/){:target="_blank"} and [Matias Cortes](https://www.sites.google.com/site/gmatiascortes/home){:target="_blank"}), IZA Discussion Paper No. 16087. \
 [slides](https://jacopoto.github.io/assets/make-luck_pres.pdf){: .button}{:target="_blank"}
 <details>
   <summary>Abstract</summary>
