@@ -33,17 +33,6 @@ Using administrative data covering the universe of student enrollments in public
 ### Under Review
 <p> </p>
 
-**[Make Your Own Luck: The Wage Gains from Starting College in a Bad Economy](https://jacopoto.github.io/assets/make-luck_paper.pdf){:target="_blank"}**, (*R&R Labour Economics*).\
-(joint with [Alena Bicáková](http://home.cerge-ei.cz/Alena/){:target="_blank"} and [Matias Cortes](https://www.sites.google.com/site/gmatiascortes/home){:target="_blank"}), IZA Discussion Paper No. 16087. \
-[slides](https://jacopoto.github.io/assets/make-luck_pres.pdf){: .button}{:target="_blank"}
-<details>
-  <summary>Abstract</summary>
-
-Using data for nearly 40 cohorts of American college graduates and exploiting regional variation in economic conditions, we show robust evidence of a positive relationship between the unemployment rate at the time of college enrollment and subsequent annual earnings, particularly for women. This positive relationship cannot be explained by selection into employment or by economic conditions at the time of labor market entry. Up to one quarter of the effect is accounted for by changes in field of study choices and by sorting towards more remunerative locations. The results are consistent with a behavioral change that induces individuals who experience bad economic times at the beginning of their studies to exert more effort towards obtaining higher-paying jobs.
-</details>
-<p> </p>
-
-
 **[Educational Choice, Initial Wage
 and Wage Growth](https://jacopoto.github.io/jacopomazza.com/college_wage_growth.pdf){:target="_blank"}** \
 (joint with [Hans van Ophem](https://www.uva.nl/en/profile/o/p/j.c.m.vanophem/j.c.m.van-ophem.html){:target="_blank"}), Tinbergen Institute Discussion Paper 2020-030/III.
@@ -59,6 +48,17 @@ We investigate the major choice of college graduates where we make choice depend
 <hr style="border:.25px solid grey">
 
 ### Journal Publications
+<p> </p>
+
+7) <img src="https://jacopoto.github.io/assets/img/le.jpg" width="140">{: .image-left}**[Make Your Own Luck: The Wage Gains from Starting College in a Bad Economy](https://jacopoto.github.io/assets/make-luck_paper.pdf){:target="_blank"}**, *Labour Economics*, (Forthcoming). \
+(joint with [Alena Bicáková](http://home.cerge-ei.cz/Alena/){:target="_blank"} and [Matias Cortes](https://www.sites.google.com/site/gmatiascortes/home){:target="_blank"}) \
+[Link to published version](https://www.sciencedirect.com/science/article/abs/pii/S0927537123000866){: .button}{:target="_blank"}
+[slides](https://jacopoto.github.io/assets/make-luck_pres.pdf){: .button}{:target="_blank"}
+<details>
+  <summary>Abstract</summary>
+
+Using data for nearly 40 cohorts of American college graduates and exploiting regional variation in economic conditions, we show robust evidence of a positive relationship between the unemployment rate at the time of college enrollment and subsequent annual earnings, particularly for women. This positive relationship cannot be explained by selection into employment or by economic conditions at the time of labor market entry. Up to one quarter of the effect is accounted for by changes in field of study choices and by sorting towards more remunerative locations. The results are consistent with a behavioral change that induces individuals who experience bad economic times at the beginning of their studies to exert more effort towards obtaining higher-paying jobs.
+</details>
 <p> </p>
 
 6) <img src="https://jacopoto.github.io/assets/img/ilrr.jpg" width="120">{: .image-left}**[Being on the Frontline? Immigrant Workers in Europe and the COVID-19 Pandemic](https://jacopoto.github.io/assets/COVID_paper_migrants_ilrr.pdf){:target="_blank"}**, *ILR Review*, (Forthcoming). \
