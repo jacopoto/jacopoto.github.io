@@ -50,18 +50,7 @@ We investigate the major choice of college graduates where we make choice depend
 ### Journal Publications
 <p> </p>
 
-7) <img src="https://jacopoto.github.io/assets/img/le.jpg" width="140">{: .image-left}**[Make Your Own Luck: The Wage Gains from Starting College in a Bad Economy](https://jacopoto.github.io/assets/make-luck_paper.pdf){:target="_blank"}**, *Labour Economics*, (Forthcoming). \
-(joint with [Alena Bicáková](http://home.cerge-ei.cz/Alena/){:target="_blank"} and [Matias Cortes](https://www.sites.google.com/site/gmatiascortes/home){:target="_blank"}) \
-[Link to published version](https://www.sciencedirect.com/science/article/abs/pii/S0927537123000866){: .button}{:target="_blank"}
-[slides](https://jacopoto.github.io/assets/make-luck_pres.pdf){: .button}{:target="_blank"}
-<details>
-  <summary>Abstract</summary>
-
-Using data for nearly 40 cohorts of American college graduates and exploiting regional variation in economic conditions, we show robust evidence of a positive relationship between the unemployment rate at the time of college enrollment and subsequent annual earnings, particularly for women. This positive relationship cannot be explained by selection into employment or by economic conditions at the time of labor market entry. Up to one quarter of the effect is accounted for by changes in field of study choices and by sorting towards more remunerative locations. The results are consistent with a behavioral change that induces individuals who experience bad economic times at the beginning of their studies to exert more effort towards obtaining higher-paying jobs.
-</details>
-<p> </p>
-
-6) <img src="https://jacopoto.github.io/assets/img/ilrr.jpg" width="120">{: .image-left}**[Being on the Frontline? Immigrant Workers in Europe and the COVID-19 Pandemic](https://jacopoto.github.io/assets/COVID_paper_migrants_ilrr.pdf){:target="_blank"}**, *ILR Review*, (Forthcoming). \
+7) <img src="https://jacopoto.github.io/assets/img/ilrr.jpg" width="120">{: .image-left}**[Being on the Frontline? Immigrant Workers in Europe and the COVID-19 Pandemic](https://jacopoto.github.io/assets/COVID_paper_migrants_ilrr.pdf){:target="_blank"}**, *ILR Review*, (Forthcoming). \
 (joint with [Francesco Fasani](https://sites.google.com/site/fasani2010/){:target="_blank"}) \
 [Link to published version](https://journals.sagepub.com/doi/full/10.1177/00197939231173676){: .button}{:target="_blank"} 
 [Download replication package](https:\\jacopoto.github.io\assets\replication_pkg\frontline_ilrr.rar){:.button}
@@ -74,6 +63,17 @@ We provide the first systematic assessment of the impact of COVID-19 on the labo
 
 </details>
 
+<p> </p>
+
+6) <img src="https://jacopoto.github.io/assets/img/le.jpg" width="140">{: .image-left}**[Make Your Own Luck: The Wage Gains from Starting College in a Bad Economy](https://jacopoto.github.io/assets/make-luck_paper.pdf){:target="_blank"}**, *Labour Economics*, (2023), 84, 102411. \
+(joint with [Alena Bicáková](http://home.cerge-ei.cz/Alena/){:target="_blank"} and [Matias Cortes](https://www.sites.google.com/site/gmatiascortes/home){:target="_blank"}) \
+[Link to published version](https://www.sciencedirect.com/science/article/abs/pii/S0927537123000866){: .button}{:target="_blank"}
+[slides](https://jacopoto.github.io/assets/make-luck_pres.pdf){: .button}{:target="_blank"}
+<details>
+  <summary>Abstract</summary>
+
+Using data for nearly 40 cohorts of American college graduates and exploiting regional variation in economic conditions, we show robust evidence of a positive relationship between the unemployment rate at the time of college enrollment and subsequent annual earnings, particularly for women. This positive relationship cannot be explained by selection into employment or by economic conditions at the time of labor market entry. Up to one quarter of the effect is accounted for by changes in field of study choices and by sorting towards more remunerative locations. The results are consistent with a behavioral change that induces individuals who experience bad economic times at the beginning of their studies to exert more effort towards obtaining higher-paying jobs.
+</details>
 <p> </p>
 
 5) <img src="https://jacopoto.github.io/assets/img/jepp.jpg" width="120">{: .image-left} **[The Gender Gap in Support for Governments During the COVID Crisis](https://www.tandfonline.com/doi/full/10.1080/13501763.2022.2027503?src=){:target="_blank"}**, *Journal of European Public Policy*, (2023), vol. 30(2), pp. 254–270. \
