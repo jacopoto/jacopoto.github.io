@@ -50,10 +50,11 @@ We investigate the major choice of college graduates where we make choice depend
 ### Journal Publications
 <p> </p>
 
-7) <img src="https://jacopoto.github.io/assets/img/ilrr.jpg" width="120">{: .image-left}**[Being on the Frontline? Immigrant Workers in Europe and the COVID-19 Pandemic](https://jacopoto.github.io/assets/COVID_paper_migrants_ilrr.pdf){:target="_blank"}**, *ILR Review*, (Forthcoming). \
+7) <img src="https://jacopoto.github.io/assets/img/ilrr.jpg" width="120">{: .image-left}**[Being on the Frontline? Immigrant Workers in Europe and the COVID-19 Pandemic](https://jacopoto.github.io/assets/COVID_paper_migrants_ilrr.pdf){:target="_blank"}**, *ILR Review*, (2023), vol. 76(5), pp. 890-918. \
 (joint with [Francesco Fasani](https://sites.google.com/site/fasani2010/){:target="_blank"}) \
 [Link to published version](https://journals.sagepub.com/doi/full/10.1177/00197939231173676){: .button}{:target="_blank"} 
 [Download replication package](https:\\jacopoto.github.io\assets\replication_pkg\frontline_ilrr.rar){:.button}
+[Download bibtex citation](https://jacopoto.github.io/assets/bibtex_cite/fs_ilrr.bib){:.button}
 
 *Media Covearge*: [Le Temps](https://www.letemps.ch/economie/chomage-menace-9-millions-dimmigres-europe){:target="_blank"} (In French);
 <details>
