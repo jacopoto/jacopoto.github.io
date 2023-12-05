@@ -35,7 +35,8 @@ Using administrative data covering the universe of student enrollments in public
 
 **[Educational Choice, Initial Wage
 and Wage Growth](https://jacopoto.github.io/jacopomazza.com/college_wage_growth.pdf){:target="_blank"}** \
-(joint with [Hans van Ophem](https://www.uva.nl/en/profile/o/p/j.c.m.vanophem/j.c.m.van-ophem.html){:target="_blank"}), Tinbergen Institute Discussion Paper 2020-030/III.
+(joint with [Hans van Ophem](https://www.uva.nl/en/profile/o/p/j.c.m.vanophem/j.c.m.van-ophem.html){:target="_blank"}), Tinbergen Institute Discussion Paper 2020-030/III. (Revise and Resubmit at *Empirical Economics*) \
+
 
 <details>
   <summary>Abstract</summary>
