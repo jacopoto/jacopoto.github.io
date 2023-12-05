@@ -70,6 +70,7 @@ We provide the first systematic assessment of the impact of COVID-19 on the labo
 (joint with [Alena Bicáková](http://home.cerge-ei.cz/Alena/){:target="_blank"} and [Matias Cortes](https://www.sites.google.com/site/gmatiascortes/home){:target="_blank"}) \
 [Link to published version](https://www.sciencedirect.com/science/article/abs/pii/S0927537123000866){: .button}{:target="_blank"}
 [slides](https://jacopoto.github.io/assets/make-luck_pres.pdf){: .button}{:target="_blank"}
+[Download replication package](https:\\jacopoto.github.io\assets\replication_pkg\cycle-cohorts_labeco.rar){:.button}
 [Download bibtex citation](https://jacopoto.github.io/assets/bibtex_cite/bcm_le.bib){:.button}
 <details>
   <summary>Abstract</summary>
