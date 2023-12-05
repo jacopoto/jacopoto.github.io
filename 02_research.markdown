@@ -69,7 +69,7 @@ We provide the first systematic assessment of the impact of COVID-19 on the labo
 6) <img src="https://jacopoto.github.io/assets/img/le.jpg" width="140">{: .image-left}**[Make Your Own Luck: The Wage Gains from Starting College in a Bad Economy](https://jacopoto.github.io/assets/make-luck_paper.pdf){:target="_blank"}**, *Labour Economics*, (2023), 84, 102411. \
 (joint with [Alena Bicáková](http://home.cerge-ei.cz/Alena/){:target="_blank"} and [Matias Cortes](https://www.sites.google.com/site/gmatiascortes/home){:target="_blank"}) \
 [Link to published version](https://www.sciencedirect.com/science/article/abs/pii/S0927537123000866){: .button}{:target="_blank"}
-[slides](https://jacopoto.github.io/assets/make-luck_pres.pdf){: .button}{:target="_blank"}
+[Download slides](https://jacopoto.github.io/assets/make-luck_pres.pdf){: .button}{:target="_blank"}
 [Download replication package](https:\\jacopoto.github.io\assets\replication_pkg\cycle-cohorts_labeco.rar){:.button}
 [Download bibtex citation](https://jacopoto.github.io/assets/bibtex_cite/bcm_le.bib){:.button}
 <details>
