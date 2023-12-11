@@ -1,0 +1,1 @@
+{"rule":"ENGLISH_WORD_REPEAT_BEGINNING_RULE","sentence":"^\\QThis supports the exogeneity and exclusion assumptions of the 2SLS approach, and increases the confidence in the causal interpretation of the results in Panel I.\\E$"}
