@@ -10,7 +10,8 @@ permalink: /teaching/
 
 ### Utrecht University
 
-#### Causal Inference for Policy Evaluation
+#### Causal Inference for Policy Evaluation (INFOMCIMPE)
+- 
 
 #### Extras
 
