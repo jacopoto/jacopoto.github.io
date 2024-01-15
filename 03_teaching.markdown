@@ -10,7 +10,7 @@ permalink: /teaching/
 
 ### Utrecht University
 
-#### Causal Inference for Policy Evaluation (INFOMCIMPE)
+#### Causal Inference for Policy Evaluation (***Master in Data Science***)
 - 
 
 #### Extras
