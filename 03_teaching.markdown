@@ -11,7 +11,7 @@ permalink: /teaching/
 ### Utrecht University
 
 #### Causal Inference for Policy Evaluation (*Master in Data Science*)
-- Course introduction, [Slides](https:\\jacopoto.github.io\assets\INFOMCIMPE.html){:target="_blank"}.
+- Course introduction, [Slides](https:\\jacopoto.github.io\assets\INFOMCIMPE\intro.html){:target="_blank"}.
 
 #### Extras
 
