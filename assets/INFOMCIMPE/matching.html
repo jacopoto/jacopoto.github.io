@@ -1351,6 +1351,36 @@ sdo       1 0.354          0.354 0.354
 </div>
 </div>
 </section>
+<section id="the-non-exchangeability-of-age" class="slide level2">
+<h2>The Non Exchangeability of Age</h2>
+<div class="columns">
+<div class="column" style="width:50%;">
+<div class="cell">
+<div class="sourceCode cell-code" id="cb5"><pre class="sourceCode numberSource r number-lines code-with-copy"><code class="sourceCode r"><span id="cb5-1"><a href="#cb5-1"></a><span class="fu">library</span>(tidyverse)</span>
+<span id="cb5-2"><a href="#cb5-2"></a><span class="fu">library</span>(haven)</span>
+<span id="cb5-3"><a href="#cb5-3"></a></span>
+<span id="cb5-4"><a href="#cb5-4"></a>read_data <span class="ot">&lt;-</span> <span class="cf">function</span>(df)</span>
+<span id="cb5-5"><a href="#cb5-5"></a>{</span>
+<span id="cb5-6"><a href="#cb5-6"></a>  full_path <span class="ot">&lt;-</span> <span class="fu">paste</span>(<span class="st">"https://github.com/scunning1975/mixtape/raw/master/"</span>, </span>
+<span id="cb5-7"><a href="#cb5-7"></a>                     df, <span class="at">sep =</span> <span class="st">""</span>)</span>
+<span id="cb5-8"><a href="#cb5-8"></a>  df <span class="ot">&lt;-</span> <span class="fu">read_dta</span>(full_path)</span>
+<span id="cb5-9"><a href="#cb5-9"></a>  <span class="fu">return</span>(df)</span>
+<span id="cb5-10"><a href="#cb5-10"></a>}</span>
+<span id="cb5-11"><a href="#cb5-11"></a></span>
+<span id="cb5-12"><a href="#cb5-12"></a>training_example <span class="ot">&lt;-</span> <span class="fu">read_data</span>(<span class="st">"training_example.dta"</span>) <span class="sc">%&gt;%</span> </span>
+<span id="cb5-13"><a href="#cb5-13"></a>  <span class="fu">slice</span>(<span class="dv">1</span><span class="sc">:</span><span class="dv">20</span>)</span>
+<span id="cb5-14"><a href="#cb5-14"></a></span>
+<span id="cb5-15"><a href="#cb5-15"></a><span class="fu">ggplot</span>(training_example, <span class="fu">aes</span>(<span class="at">x=</span>age_treat)) <span class="sc">+</span></span>
+<span id="cb5-16"><a href="#cb5-16"></a>  <span class="fu">stat_bin</span>(<span class="at">bins =</span> <span class="dv">10</span>, <span class="at">na.rm =</span> <span class="cn">TRUE</span>)</span>
+<span id="cb5-17"><a href="#cb5-17"></a></span>
+<span id="cb5-18"><a href="#cb5-18"></a><span class="fu">ggplot</span>(training_example, <span class="fu">aes</span>(<span class="at">x=</span>age_control)) <span class="sc">+</span></span>
+<span id="cb5-19"><a href="#cb5-19"></a>  <span class="fu">geom_histogram</span>(<span class="at">bins =</span> <span class="dv">10</span>, <span class="at">na.rm =</span> <span class="cn">TRUE</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</div>
+</div><div class="column" style="width:50%;">
+<p><img data-src="img\age_distr-1(1).png"> <img data-src="img\age_distr-2(1).png"></p>
+</div>
+</div>
+</section>
 <section id="exact-matching-at-work" class="slide level2" data-auto-animate="true">
 <h2 data-id="quarto-animate-title">Exact Matching at Work</h2>
 <div class="columns">
@@ -1641,6 +1671,10 @@ sdo       1 0.354          0.354 0.354
 </div>
 </div>
 </section>
+<section id="covariate-distribution-after-matching" class="slide level2">
+<h2>Covariate Distribution After Matching</h2>
+
+<img data-src="img\job_matched.jpg" class="r-stretch"></section>
 <section id="approximate-matching" class="slide level2">
 <h2>Approximate Matching</h2>
 <div style="font-size: 0.90em">
@@ -1730,58 +1764,80 @@ sdo       1 0.354          0.354 0.354
 <h2>Propensity Score in Action</h2>
 <div>
 <ul>
-<li class="fragment"><a href="https://www.jstor.org/stable/3211745">Dehejia and Wahba</a><sup>1</sup> wanted to study how effective the National Supported Work Demonstration (NSW)</li>
+<li class="fragment"><a href="https://www.jstor.org/stable/1806062">Lalonde</a><sup>1</sup> wanted to study how effective the National Supported Work Demonstration (NSW)</li>
 <li class="fragment">NSW was a work training program for disadvantaged workers to move back in the labor market</li>
 <li class="fragment">Workers were randomly assigned to the program</li>
 <li class="fragment">They used propensity score matching to estimate the effect of the program</li>
-<li class="fragment">Since we have the <code>real</code> treatment effect, we can compare the results of the matching with the true effect</li>
+<li class="fragment">Since we have the <code>real</code> treatment effect, we can compare the results of econometric methods with the true effect</li>
 </ul>
 </div>
-<aside><ol class="aside-footnotes"><li id="fn1"><p>Rajeev H. Dehejia, Sadek Wahba <em>The Review of Economics and Statistics</em>, Vol. 84, No.&nbsp;1 (Feb., 2002), pp.&nbsp;151-161 (11 pages)</p></li></ol></aside></section>
+<aside><ol class="aside-footnotes"><li id="fn1"><p>Lalonde, R. J. (1986). Evaluating the econometric evaluations of training programs with experimental data. <em>American Economic Review</em>, 76(4): 604-620.</p></li></ol></aside></section>
+<section id="the-nsw-earning-comparison" class="slide level2">
+<h2>The NSW Earning Comparison</h2>
+
+<img data-src="img\nsw_earning_comparison(1).png" class="r-stretch"></section>
+<section id="the-balance-of-covariates-in-the-nsw-data" class="slide level2">
+<h2>The Balance of Covariates in the NSW Data</h2>
+
+<img data-src="img\nsw_balance(1).png" class="r-stretch"></section>
+<section id="propensity-score-matching-for-the-nsw-data" class="slide level2">
+<h2>Propensity Score Matching for the NSW Data</h2>
+<ul>
+<li><a href="https://www.jstor.org/stable/2669919">Dehejia and Wahba (1999)</a><sup>1</sup> re-analyzed the NSW data using propensity score matching -Their main interest was to compare the performance of PSM with standard econometric methods</li>
+</ul>
+<aside><ol class="aside-footnotes"><li id="fn2"><p>Dehejia, R. H., &amp; Wahba, S. (1999). Causal effects in nonexperimental studies: Reevaluating the evaluation of training programs. <em>Journal of the American Statistical Association</em>, 94(448): 1053-1062.</p></li></ol></aside></section>
+<section id="estimated-training-effects-using-propensity-scores" class="slide level2">
+<h2>Estimated Training Effects using Propensity Scores</h2>
+
+<img data-src="img\dw_psm(1).png" class="r-stretch"></section>
+<section id="the-balance-of-covariates-in-the-propensity-score-matching" class="slide level2">
+<h2>The Balance of Covariates in the Propensity Score Matching</h2>
+
+<img data-src="img\balance_psm(1).png" class="r-stretch"></section>
 <section id="the-nsw-real-treatment-effect" class="slide level2">
 <h2>The NSW Real Treatment Effect</h2>
 <div class="cell">
-<div class="sourceCode cell-code" id="cb5"><pre class="sourceCode numberSource r number-lines code-with-copy"><code class="sourceCode r"><span id="cb5-1"><a href="#cb5-1"></a><span class="fu">library</span>(tidyverse)</span>
-<span id="cb5-2"><a href="#cb5-2"></a><span class="fu">library</span>(haven)</span>
-<span id="cb5-3"><a href="#cb5-3"></a></span>
-<span id="cb5-4"><a href="#cb5-4"></a><span class="co"># Define a function to read data from a .dta file hosted on GitHub</span></span>
-<span id="cb5-5"><a href="#cb5-5"></a>read_data <span class="ot">&lt;-</span> <span class="cf">function</span>(df)</span>
-<span id="cb5-6"><a href="#cb5-6"></a>{</span>
-<span id="cb5-7"><a href="#cb5-7"></a>  <span class="co"># Construct the full URL to the file</span></span>
-<span id="cb5-8"><a href="#cb5-8"></a>  full_path <span class="ot">&lt;-</span> <span class="fu">paste</span>(<span class="st">"https://github.com/scunning1975/mixtape/raw/master/"</span>, df, <span class="at">sep =</span> <span class="st">""</span>)</span>
-<span id="cb5-9"><a href="#cb5-9"></a>  </span>
-<span id="cb5-10"><a href="#cb5-10"></a>  <span class="co"># Read the .dta file from the URL and return the resulting data frame</span></span>
-<span id="cb5-11"><a href="#cb5-11"></a>  df <span class="ot">&lt;-</span> <span class="fu">read_dta</span>(full_path)</span>
-<span id="cb5-12"><a href="#cb5-12"></a>  <span class="fu">return</span>(df)</span>
-<span id="cb5-13"><a href="#cb5-13"></a>}</span>
-<span id="cb5-14"><a href="#cb5-14"></a></span>
-<span id="cb5-15"><a href="#cb5-15"></a><span class="co"># Use the read_data function to read the "nsw_mixtape.dta" file</span></span>
-<span id="cb5-16"><a href="#cb5-16"></a>nsw_dw <span class="ot">&lt;-</span> <span class="fu">read_data</span>(<span class="st">"nsw_mixtape.dta"</span>)</span>
-<span id="cb5-17"><a href="#cb5-17"></a></span>
-<span id="cb5-18"><a href="#cb5-18"></a><span class="co"># Calculate the mean of 're78' for rows where 'treat' equals 1</span></span>
-<span id="cb5-19"><a href="#cb5-19"></a>mean1 <span class="ot">&lt;-</span> nsw_dw <span class="sc">%&gt;%</span> </span>
-<span id="cb5-20"><a href="#cb5-20"></a>  <span class="fu">filter</span>(treat <span class="sc">==</span> <span class="dv">1</span>) <span class="sc">%&gt;%</span> </span>
-<span id="cb5-21"><a href="#cb5-21"></a>  <span class="fu">pull</span>(re78) <span class="sc">%&gt;%</span> </span>
-<span id="cb5-22"><a href="#cb5-22"></a>  <span class="fu">mean</span>()</span>
-<span id="cb5-23"><a href="#cb5-23"></a></span>
-<span id="cb5-24"><a href="#cb5-24"></a><span class="co"># Add a new column 'y1' to the data frame, with all values set to 'mean1'</span></span>
-<span id="cb5-25"><a href="#cb5-25"></a>nsw_dw<span class="sc">$</span>y1 <span class="ot">&lt;-</span> mean1</span>
-<span id="cb5-26"><a href="#cb5-26"></a></span>
-<span id="cb5-27"><a href="#cb5-27"></a><span class="co"># Calculate the mean of 're78' for rows where 'treat' equals 0</span></span>
-<span id="cb5-28"><a href="#cb5-28"></a>mean0 <span class="ot">&lt;-</span> nsw_dw <span class="sc">%&gt;%</span> </span>
-<span id="cb5-29"><a href="#cb5-29"></a>  <span class="fu">filter</span>(treat <span class="sc">==</span> <span class="dv">0</span>) <span class="sc">%&gt;%</span> </span>
-<span id="cb5-30"><a href="#cb5-30"></a>  <span class="fu">pull</span>(re78) <span class="sc">%&gt;%</span> </span>
-<span id="cb5-31"><a href="#cb5-31"></a>  <span class="fu">mean</span>()</span>
-<span id="cb5-32"><a href="#cb5-32"></a></span>
-<span id="cb5-33"><a href="#cb5-33"></a><span class="co"># Add a new column 'y0' to the data frame, with all values set to 'mean0'</span></span>
-<span id="cb5-34"><a href="#cb5-34"></a>nsw_dw<span class="sc">$</span>y0 <span class="ot">&lt;-</span> mean0</span>
-<span id="cb5-35"><a href="#cb5-35"></a></span>
-<span id="cb5-36"><a href="#cb5-36"></a><span class="co"># Calculate the Average Treatment Effect (ATE) as the difference between 'mean1' and 'mean0'</span></span>
-<span id="cb5-37"><a href="#cb5-37"></a>ate <span class="ot">&lt;-</span> mean1 <span class="sc">-</span> mean0</span>
-<span id="cb5-38"><a href="#cb5-38"></a></span>
-<span id="cb5-39"><a href="#cb5-39"></a><span class="co"># Create a data frame with the ATE and print it</span></span>
-<span id="cb5-40"><a href="#cb5-40"></a>ate_df <span class="ot">&lt;-</span> <span class="fu">data.frame</span>(<span class="at">ATE =</span> ate)</span>
-<span id="cb5-41"><a href="#cb5-41"></a><span class="fu">print</span>(ate_df)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="sourceCode cell-code" id="cb6"><pre class="sourceCode numberSource r number-lines code-with-copy"><code class="sourceCode r"><span id="cb6-1"><a href="#cb6-1"></a><span class="fu">library</span>(tidyverse)</span>
+<span id="cb6-2"><a href="#cb6-2"></a><span class="fu">library</span>(haven)</span>
+<span id="cb6-3"><a href="#cb6-3"></a></span>
+<span id="cb6-4"><a href="#cb6-4"></a><span class="co"># Define a function to read data from a .dta file hosted on GitHub</span></span>
+<span id="cb6-5"><a href="#cb6-5"></a>read_data <span class="ot">&lt;-</span> <span class="cf">function</span>(df)</span>
+<span id="cb6-6"><a href="#cb6-6"></a>{</span>
+<span id="cb6-7"><a href="#cb6-7"></a>  <span class="co"># Construct the full URL to the file</span></span>
+<span id="cb6-8"><a href="#cb6-8"></a>  full_path <span class="ot">&lt;-</span> <span class="fu">paste</span>(<span class="st">"https://github.com/scunning1975/mixtape/raw/master/"</span>, df, <span class="at">sep =</span> <span class="st">""</span>)</span>
+<span id="cb6-9"><a href="#cb6-9"></a>  </span>
+<span id="cb6-10"><a href="#cb6-10"></a>  <span class="co"># Read the .dta file from the URL and return the resulting data frame</span></span>
+<span id="cb6-11"><a href="#cb6-11"></a>  df <span class="ot">&lt;-</span> <span class="fu">read_dta</span>(full_path)</span>
+<span id="cb6-12"><a href="#cb6-12"></a>  <span class="fu">return</span>(df)</span>
+<span id="cb6-13"><a href="#cb6-13"></a>}</span>
+<span id="cb6-14"><a href="#cb6-14"></a></span>
+<span id="cb6-15"><a href="#cb6-15"></a><span class="co"># Use the read_data function to read the "nsw_mixtape.dta" file</span></span>
+<span id="cb6-16"><a href="#cb6-16"></a>nsw_dw <span class="ot">&lt;-</span> <span class="fu">read_data</span>(<span class="st">"nsw_mixtape.dta"</span>)</span>
+<span id="cb6-17"><a href="#cb6-17"></a></span>
+<span id="cb6-18"><a href="#cb6-18"></a><span class="co"># Calculate the mean of 're78' for rows where 'treat' equals 1</span></span>
+<span id="cb6-19"><a href="#cb6-19"></a>mean1 <span class="ot">&lt;-</span> nsw_dw <span class="sc">%&gt;%</span> </span>
+<span id="cb6-20"><a href="#cb6-20"></a>  <span class="fu">filter</span>(treat <span class="sc">==</span> <span class="dv">1</span>) <span class="sc">%&gt;%</span> </span>
+<span id="cb6-21"><a href="#cb6-21"></a>  <span class="fu">pull</span>(re78) <span class="sc">%&gt;%</span> </span>
+<span id="cb6-22"><a href="#cb6-22"></a>  <span class="fu">mean</span>()</span>
+<span id="cb6-23"><a href="#cb6-23"></a></span>
+<span id="cb6-24"><a href="#cb6-24"></a><span class="co"># Add a new column 'y1' to the data frame, with all values set to 'mean1'</span></span>
+<span id="cb6-25"><a href="#cb6-25"></a>nsw_dw<span class="sc">$</span>y1 <span class="ot">&lt;-</span> mean1</span>
+<span id="cb6-26"><a href="#cb6-26"></a></span>
+<span id="cb6-27"><a href="#cb6-27"></a><span class="co"># Calculate the mean of 're78' for rows where 'treat' equals 0</span></span>
+<span id="cb6-28"><a href="#cb6-28"></a>mean0 <span class="ot">&lt;-</span> nsw_dw <span class="sc">%&gt;%</span> </span>
+<span id="cb6-29"><a href="#cb6-29"></a>  <span class="fu">filter</span>(treat <span class="sc">==</span> <span class="dv">0</span>) <span class="sc">%&gt;%</span> </span>
+<span id="cb6-30"><a href="#cb6-30"></a>  <span class="fu">pull</span>(re78) <span class="sc">%&gt;%</span> </span>
+<span id="cb6-31"><a href="#cb6-31"></a>  <span class="fu">mean</span>()</span>
+<span id="cb6-32"><a href="#cb6-32"></a></span>
+<span id="cb6-33"><a href="#cb6-33"></a><span class="co"># Add a new column 'y0' to the data frame, with all values set to 'mean0'</span></span>
+<span id="cb6-34"><a href="#cb6-34"></a>nsw_dw<span class="sc">$</span>y0 <span class="ot">&lt;-</span> mean0</span>
+<span id="cb6-35"><a href="#cb6-35"></a></span>
+<span id="cb6-36"><a href="#cb6-36"></a><span class="co"># Calculate the Average Treatment Effect (ATE) as the difference between 'mean1' and 'mean0'</span></span>
+<span id="cb6-37"><a href="#cb6-37"></a>ate <span class="ot">&lt;-</span> mean1 <span class="sc">-</span> mean0</span>
+<span id="cb6-38"><a href="#cb6-38"></a></span>
+<span id="cb6-39"><a href="#cb6-39"></a><span class="co"># Create a data frame with the ATE and print it</span></span>
+<span id="cb6-40"><a href="#cb6-40"></a>ate_df <span class="ot">&lt;-</span> <span class="fu">data.frame</span>(<span class="at">ATE =</span> ate)</span>
+<span id="cb6-41"><a href="#cb6-41"></a><span class="fu">print</span>(ate_df)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </div>
 <div class="cell fragment">
 <div class="cell-output cell-output-stdout">
@@ -1794,78 +1850,78 @@ sdo       1 0.354          0.354 0.354
 <h2>Propensity Score Estimation Using Logit on PSID data:</h2>
 <div class="cell columns column-output-location">
 <div class="column">
-<div class="sourceCode cell-code" id="cb7"><pre class="sourceCode numberSource r number-lines code-with-copy"><code class="sourceCode r"><span id="cb7-1"><a href="#cb7-1"></a><span class="co"># Load the necessary libraries</span></span>
-<span id="cb7-2"><a href="#cb7-2"></a><span class="fu">library</span>(tidyverse)</span>
-<span id="cb7-3"><a href="#cb7-3"></a><span class="fu">library</span>(haven)</span>
-<span id="cb7-4"><a href="#cb7-4"></a><span class="fu">library</span>(gridExtra)</span>
-<span id="cb7-5"><a href="#cb7-5"></a></span>
-<span id="cb7-6"><a href="#cb7-6"></a><span class="co"># Define a function to read data from a .dta file hosted on GitHub</span></span>
-<span id="cb7-7"><a href="#cb7-7"></a>read_data <span class="ot">&lt;-</span> <span class="cf">function</span>(df)</span>
-<span id="cb7-8"><a href="#cb7-8"></a>{</span>
-<span id="cb7-9"><a href="#cb7-9"></a>  <span class="co"># Construct the full URL to the file</span></span>
-<span id="cb7-10"><a href="#cb7-10"></a>  full_path <span class="ot">&lt;-</span> <span class="fu">paste</span>(<span class="st">"https://github.com/scunning1975/mixtape/raw/master/"</span>, df, <span class="at">sep =</span> <span class="st">""</span>)</span>
-<span id="cb7-11"><a href="#cb7-11"></a>  </span>
-<span id="cb7-12"><a href="#cb7-12"></a>  <span class="co"># Read the .dta file from the URL and return the resulting data frame</span></span>
-<span id="cb7-13"><a href="#cb7-13"></a>  df <span class="ot">&lt;-</span> <span class="fu">read_dta</span>(full_path)</span>
-<span id="cb7-14"><a href="#cb7-14"></a>  <span class="fu">return</span>(df)</span>
-<span id="cb7-15"><a href="#cb7-15"></a>}</span>
-<span id="cb7-16"><a href="#cb7-16"></a></span>
-<span id="cb7-17"><a href="#cb7-17"></a><span class="co"># Use the read_data function to read the "cps_mixtape.dta" file</span></span>
-<span id="cb7-18"><a href="#cb7-18"></a><span class="co"># Bind the rows of the new data frame with the existing 'nsw_dw' data frame</span></span>
-<span id="cb7-19"><a href="#cb7-19"></a><span class="co"># Create new variables in the data frame</span></span>
-<span id="cb7-20"><a href="#cb7-20"></a>nsw_dw_cpscontrol <span class="ot">&lt;-</span> <span class="fu">read_data</span>(<span class="st">"cps_mixtape.dta"</span>) <span class="sc">%&gt;%</span> </span>
-<span id="cb7-21"><a href="#cb7-21"></a>  <span class="fu">bind_rows</span>(nsw_dw) <span class="sc">%&gt;%</span> </span>
-<span id="cb7-22"><a href="#cb7-22"></a>  <span class="fu">mutate</span>(<span class="at">agesq =</span> age<span class="sc">^</span><span class="dv">2</span>,</span>
-<span id="cb7-23"><a href="#cb7-23"></a>         <span class="at">agecube =</span> age<span class="sc">^</span><span class="dv">3</span>,</span>
-<span id="cb7-24"><a href="#cb7-24"></a>         <span class="at">educsq =</span> educ<span class="sc">*</span>educ,</span>
-<span id="cb7-25"><a href="#cb7-25"></a>         <span class="at">u74 =</span> <span class="fu">case_when</span>(re74 <span class="sc">==</span> <span class="dv">0</span> <span class="sc">~</span> <span class="dv">1</span>, <span class="cn">TRUE</span> <span class="sc">~</span> <span class="dv">0</span>),</span>
-<span id="cb7-26"><a href="#cb7-26"></a>         <span class="at">u75 =</span> <span class="fu">case_when</span>(re75 <span class="sc">==</span> <span class="dv">0</span> <span class="sc">~</span> <span class="dv">1</span>, <span class="cn">TRUE</span> <span class="sc">~</span> <span class="dv">0</span>),</span>
-<span id="cb7-27"><a href="#cb7-27"></a>         <span class="at">interaction1 =</span> educ<span class="sc">*</span>re74,</span>
-<span id="cb7-28"><a href="#cb7-28"></a>         <span class="at">re74sq =</span> re74<span class="sc">^</span><span class="dv">2</span>,</span>
-<span id="cb7-29"><a href="#cb7-29"></a>         <span class="at">re75sq =</span> re75<span class="sc">^</span><span class="dv">2</span>,</span>
-<span id="cb7-30"><a href="#cb7-30"></a>         <span class="at">interaction2 =</span> u74<span class="sc">*</span>hisp)</span>
-<span id="cb7-31"><a href="#cb7-31"></a></span>
-<span id="cb7-32"><a href="#cb7-32"></a><span class="co"># Estimate a logistic regression model with 'treat' as the dependent variable</span></span>
-<span id="cb7-33"><a href="#cb7-33"></a>logit_nsw <span class="ot">&lt;-</span> <span class="fu">glm</span>(treat <span class="sc">~</span> age <span class="sc">+</span> agesq <span class="sc">+</span> agecube <span class="sc">+</span> educ <span class="sc">+</span> educsq <span class="sc">+</span> </span>
-<span id="cb7-34"><a href="#cb7-34"></a>                   marr <span class="sc">+</span> nodegree <span class="sc">+</span> black <span class="sc">+</span> hisp <span class="sc">+</span> re74 <span class="sc">+</span> re75 <span class="sc">+</span> u74 <span class="sc">+</span></span>
-<span id="cb7-35"><a href="#cb7-35"></a>                   u75 <span class="sc">+</span> interaction1, <span class="at">family =</span> <span class="fu">binomial</span>(<span class="at">link =</span> <span class="st">"logit"</span>), </span>
-<span id="cb7-36"><a href="#cb7-36"></a>                 <span class="at">data =</span> nsw_dw_cpscontrol)</span>
-<span id="cb7-37"><a href="#cb7-37"></a></span>
-<span id="cb7-38"><a href="#cb7-38"></a><span class="co"># Add the predicted probabilities from the logistic regression model to the data frame</span></span>
-<span id="cb7-39"><a href="#cb7-39"></a>nsw_dw_cpscontrol <span class="ot">&lt;-</span> nsw_dw_cpscontrol <span class="sc">%&gt;%</span> </span>
-<span id="cb7-40"><a href="#cb7-40"></a>  <span class="fu">mutate</span>(<span class="at">pscore =</span> logit_nsw<span class="sc">$</span>fitted.values)</span>
-<span id="cb7-41"><a href="#cb7-41"></a></span>
-<span id="cb7-42"><a href="#cb7-42"></a><span class="co"># Calculate the mean predicted probability for the control group</span></span>
-<span id="cb7-43"><a href="#cb7-43"></a>pscore_control <span class="ot">&lt;-</span> nsw_dw_cpscontrol <span class="sc">%&gt;%</span> </span>
-<span id="cb7-44"><a href="#cb7-44"></a>  <span class="fu">filter</span>(treat <span class="sc">==</span> <span class="dv">0</span>) <span class="sc">%&gt;%</span> </span>
-<span id="cb7-45"><a href="#cb7-45"></a>  <span class="fu">pull</span>(pscore) <span class="sc">%&gt;%</span> </span>
-<span id="cb7-46"><a href="#cb7-46"></a>  <span class="fu">mean</span>()</span>
-<span id="cb7-47"><a href="#cb7-47"></a></span>
-<span id="cb7-48"><a href="#cb7-48"></a><span class="co"># Calculate the mean predicted probability for the treated group</span></span>
-<span id="cb7-49"><a href="#cb7-49"></a>pscore_treated <span class="ot">&lt;-</span> nsw_dw_cpscontrol <span class="sc">%&gt;%</span> </span>
-<span id="cb7-50"><a href="#cb7-50"></a>  <span class="fu">filter</span>(treat <span class="sc">==</span> <span class="dv">1</span>) <span class="sc">%&gt;%</span> </span>
-<span id="cb7-51"><a href="#cb7-51"></a>  <span class="fu">pull</span>(pscore) <span class="sc">%&gt;%</span> </span>
-<span id="cb7-52"><a href="#cb7-52"></a>  <span class="fu">mean</span>()</span>
-<span id="cb7-53"><a href="#cb7-53"></a></span>
-<span id="cb7-54"><a href="#cb7-54"></a><span class="co"># Create a histogram of the predicted probabilities for the control group</span></span>
-<span id="cb7-55"><a href="#cb7-55"></a>hist_control <span class="ot">&lt;-</span> nsw_dw_cpscontrol <span class="sc">%&gt;%</span> </span>
-<span id="cb7-56"><a href="#cb7-56"></a>  <span class="fu">filter</span>(treat <span class="sc">==</span> <span class="dv">0</span>) <span class="sc">%&gt;%</span> </span>
-<span id="cb7-57"><a href="#cb7-57"></a>  <span class="fu">ggplot</span>() <span class="sc">+</span></span>
-<span id="cb7-58"><a href="#cb7-58"></a>  <span class="fu">geom_histogram</span>(<span class="fu">aes</span>(<span class="at">x =</span> pscore)) <span class="sc">+</span></span>
-<span id="cb7-59"><a href="#cb7-59"></a>  <span class="fu">ggtitle</span>(<span class="st">"Control Group"</span>)</span>
-<span id="cb7-60"><a href="#cb7-60"></a></span>
-<span id="cb7-61"><a href="#cb7-61"></a><span class="co"># Create a histogram of the predicted probabilities for the treated group</span></span>
-<span id="cb7-62"><a href="#cb7-62"></a>hist_treated <span class="ot">&lt;-</span> nsw_dw_cpscontrol <span class="sc">%&gt;%</span> </span>
-<span id="cb7-63"><a href="#cb7-63"></a>  <span class="fu">filter</span>(treat <span class="sc">==</span> <span class="dv">1</span>) <span class="sc">%&gt;%</span> </span>
-<span id="cb7-64"><a href="#cb7-64"></a>  <span class="fu">ggplot</span>() <span class="sc">+</span></span>
-<span id="cb7-65"><a href="#cb7-65"></a>  <span class="fu">geom_histogram</span>(<span class="fu">aes</span>(<span class="at">x =</span> pscore)) <span class="sc">+</span></span>
-<span id="cb7-66"><a href="#cb7-66"></a>  <span class="fu">ggtitle</span>(<span class="st">"Treated Group"</span>)</span>
-<span id="cb7-67"><a href="#cb7-67"></a></span>
-<span id="cb7-68"><a href="#cb7-68"></a><span class="co"># Arrange the two histograms in a grid</span></span>
-<span id="cb7-69"><a href="#cb7-69"></a><span class="fu">grid.arrange</span>(hist_control, hist_treated, <span class="at">nrow =</span> <span class="dv">2</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="sourceCode cell-code" id="cb8"><pre class="sourceCode numberSource r number-lines code-with-copy"><code class="sourceCode r"><span id="cb8-1"><a href="#cb8-1"></a><span class="co"># Load the necessary libraries</span></span>
+<span id="cb8-2"><a href="#cb8-2"></a><span class="fu">library</span>(tidyverse)</span>
+<span id="cb8-3"><a href="#cb8-3"></a><span class="fu">library</span>(haven)</span>
+<span id="cb8-4"><a href="#cb8-4"></a><span class="fu">library</span>(gridExtra)</span>
+<span id="cb8-5"><a href="#cb8-5"></a></span>
+<span id="cb8-6"><a href="#cb8-6"></a><span class="co"># Define a function to read data from a .dta file hosted on GitHub</span></span>
+<span id="cb8-7"><a href="#cb8-7"></a>read_data <span class="ot">&lt;-</span> <span class="cf">function</span>(df)</span>
+<span id="cb8-8"><a href="#cb8-8"></a>{</span>
+<span id="cb8-9"><a href="#cb8-9"></a>  <span class="co"># Construct the full URL to the file</span></span>
+<span id="cb8-10"><a href="#cb8-10"></a>  full_path <span class="ot">&lt;-</span> <span class="fu">paste</span>(<span class="st">"https://github.com/scunning1975/mixtape/raw/master/"</span>, df, <span class="at">sep =</span> <span class="st">""</span>)</span>
+<span id="cb8-11"><a href="#cb8-11"></a>  </span>
+<span id="cb8-12"><a href="#cb8-12"></a>  <span class="co"># Read the .dta file from the URL and return the resulting data frame</span></span>
+<span id="cb8-13"><a href="#cb8-13"></a>  df <span class="ot">&lt;-</span> <span class="fu">read_dta</span>(full_path)</span>
+<span id="cb8-14"><a href="#cb8-14"></a>  <span class="fu">return</span>(df)</span>
+<span id="cb8-15"><a href="#cb8-15"></a>}</span>
+<span id="cb8-16"><a href="#cb8-16"></a></span>
+<span id="cb8-17"><a href="#cb8-17"></a><span class="co"># Use the read_data function to read the "cps_mixtape.dta" file</span></span>
+<span id="cb8-18"><a href="#cb8-18"></a><span class="co"># Bind the rows of the new data frame with the existing 'nsw_dw' data frame</span></span>
+<span id="cb8-19"><a href="#cb8-19"></a><span class="co"># Create new variables in the data frame</span></span>
+<span id="cb8-20"><a href="#cb8-20"></a>nsw_dw_cpscontrol <span class="ot">&lt;-</span> <span class="fu">read_data</span>(<span class="st">"cps_mixtape.dta"</span>) <span class="sc">%&gt;%</span> </span>
+<span id="cb8-21"><a href="#cb8-21"></a>  <span class="fu">bind_rows</span>(nsw_dw) <span class="sc">%&gt;%</span> </span>
+<span id="cb8-22"><a href="#cb8-22"></a>  <span class="fu">mutate</span>(<span class="at">agesq =</span> age<span class="sc">^</span><span class="dv">2</span>,</span>
+<span id="cb8-23"><a href="#cb8-23"></a>         <span class="at">agecube =</span> age<span class="sc">^</span><span class="dv">3</span>,</span>
+<span id="cb8-24"><a href="#cb8-24"></a>         <span class="at">educsq =</span> educ<span class="sc">*</span>educ,</span>
+<span id="cb8-25"><a href="#cb8-25"></a>         <span class="at">u74 =</span> <span class="fu">case_when</span>(re74 <span class="sc">==</span> <span class="dv">0</span> <span class="sc">~</span> <span class="dv">1</span>, <span class="cn">TRUE</span> <span class="sc">~</span> <span class="dv">0</span>),</span>
+<span id="cb8-26"><a href="#cb8-26"></a>         <span class="at">u75 =</span> <span class="fu">case_when</span>(re75 <span class="sc">==</span> <span class="dv">0</span> <span class="sc">~</span> <span class="dv">1</span>, <span class="cn">TRUE</span> <span class="sc">~</span> <span class="dv">0</span>),</span>
+<span id="cb8-27"><a href="#cb8-27"></a>         <span class="at">interaction1 =</span> educ<span class="sc">*</span>re74,</span>
+<span id="cb8-28"><a href="#cb8-28"></a>         <span class="at">re74sq =</span> re74<span class="sc">^</span><span class="dv">2</span>,</span>
+<span id="cb8-29"><a href="#cb8-29"></a>         <span class="at">re75sq =</span> re75<span class="sc">^</span><span class="dv">2</span>,</span>
+<span id="cb8-30"><a href="#cb8-30"></a>         <span class="at">interaction2 =</span> u74<span class="sc">*</span>hisp)</span>
+<span id="cb8-31"><a href="#cb8-31"></a></span>
+<span id="cb8-32"><a href="#cb8-32"></a><span class="co"># Estimate a logistic regression model with 'treat' as the dependent variable</span></span>
+<span id="cb8-33"><a href="#cb8-33"></a>logit_nsw <span class="ot">&lt;-</span> <span class="fu">glm</span>(treat <span class="sc">~</span> age <span class="sc">+</span> agesq <span class="sc">+</span> agecube <span class="sc">+</span> educ <span class="sc">+</span> educsq <span class="sc">+</span> </span>
+<span id="cb8-34"><a href="#cb8-34"></a>                   marr <span class="sc">+</span> nodegree <span class="sc">+</span> black <span class="sc">+</span> hisp <span class="sc">+</span> re74 <span class="sc">+</span> re75 <span class="sc">+</span> u74 <span class="sc">+</span></span>
+<span id="cb8-35"><a href="#cb8-35"></a>                   u75 <span class="sc">+</span> interaction1, <span class="at">family =</span> <span class="fu">binomial</span>(<span class="at">link =</span> <span class="st">"logit"</span>), </span>
+<span id="cb8-36"><a href="#cb8-36"></a>                 <span class="at">data =</span> nsw_dw_cpscontrol)</span>
+<span id="cb8-37"><a href="#cb8-37"></a></span>
+<span id="cb8-38"><a href="#cb8-38"></a><span class="co"># Add the predicted probabilities from the logistic regression model to the data frame</span></span>
+<span id="cb8-39"><a href="#cb8-39"></a>nsw_dw_cpscontrol <span class="ot">&lt;-</span> nsw_dw_cpscontrol <span class="sc">%&gt;%</span> </span>
+<span id="cb8-40"><a href="#cb8-40"></a>  <span class="fu">mutate</span>(<span class="at">pscore =</span> logit_nsw<span class="sc">$</span>fitted.values)</span>
+<span id="cb8-41"><a href="#cb8-41"></a></span>
+<span id="cb8-42"><a href="#cb8-42"></a><span class="co"># Calculate the mean predicted probability for the control group</span></span>
+<span id="cb8-43"><a href="#cb8-43"></a>pscore_control <span class="ot">&lt;-</span> nsw_dw_cpscontrol <span class="sc">%&gt;%</span> </span>
+<span id="cb8-44"><a href="#cb8-44"></a>  <span class="fu">filter</span>(treat <span class="sc">==</span> <span class="dv">0</span>) <span class="sc">%&gt;%</span> </span>
+<span id="cb8-45"><a href="#cb8-45"></a>  <span class="fu">pull</span>(pscore) <span class="sc">%&gt;%</span> </span>
+<span id="cb8-46"><a href="#cb8-46"></a>  <span class="fu">mean</span>()</span>
+<span id="cb8-47"><a href="#cb8-47"></a></span>
+<span id="cb8-48"><a href="#cb8-48"></a><span class="co"># Calculate the mean predicted probability for the treated group</span></span>
+<span id="cb8-49"><a href="#cb8-49"></a>pscore_treated <span class="ot">&lt;-</span> nsw_dw_cpscontrol <span class="sc">%&gt;%</span> </span>
+<span id="cb8-50"><a href="#cb8-50"></a>  <span class="fu">filter</span>(treat <span class="sc">==</span> <span class="dv">1</span>) <span class="sc">%&gt;%</span> </span>
+<span id="cb8-51"><a href="#cb8-51"></a>  <span class="fu">pull</span>(pscore) <span class="sc">%&gt;%</span> </span>
+<span id="cb8-52"><a href="#cb8-52"></a>  <span class="fu">mean</span>()</span>
+<span id="cb8-53"><a href="#cb8-53"></a></span>
+<span id="cb8-54"><a href="#cb8-54"></a><span class="co"># Create a histogram of the predicted probabilities for the control group</span></span>
+<span id="cb8-55"><a href="#cb8-55"></a>hist_control <span class="ot">&lt;-</span> nsw_dw_cpscontrol <span class="sc">%&gt;%</span> </span>
+<span id="cb8-56"><a href="#cb8-56"></a>  <span class="fu">filter</span>(treat <span class="sc">==</span> <span class="dv">0</span>) <span class="sc">%&gt;%</span> </span>
+<span id="cb8-57"><a href="#cb8-57"></a>  <span class="fu">ggplot</span>() <span class="sc">+</span></span>
+<span id="cb8-58"><a href="#cb8-58"></a>  <span class="fu">geom_histogram</span>(<span class="fu">aes</span>(<span class="at">x =</span> pscore)) <span class="sc">+</span></span>
+<span id="cb8-59"><a href="#cb8-59"></a>  <span class="fu">ggtitle</span>(<span class="st">"Control Group"</span>)</span>
+<span id="cb8-60"><a href="#cb8-60"></a></span>
+<span id="cb8-61"><a href="#cb8-61"></a><span class="co"># Create a histogram of the predicted probabilities for the treated group</span></span>
+<span id="cb8-62"><a href="#cb8-62"></a>hist_treated <span class="ot">&lt;-</span> nsw_dw_cpscontrol <span class="sc">%&gt;%</span> </span>
+<span id="cb8-63"><a href="#cb8-63"></a>  <span class="fu">filter</span>(treat <span class="sc">==</span> <span class="dv">1</span>) <span class="sc">%&gt;%</span> </span>
+<span id="cb8-64"><a href="#cb8-64"></a>  <span class="fu">ggplot</span>() <span class="sc">+</span></span>
+<span id="cb8-65"><a href="#cb8-65"></a>  <span class="fu">geom_histogram</span>(<span class="fu">aes</span>(<span class="at">x =</span> pscore)) <span class="sc">+</span></span>
+<span id="cb8-66"><a href="#cb8-66"></a>  <span class="fu">ggtitle</span>(<span class="st">"Treated Group"</span>)</span>
+<span id="cb8-67"><a href="#cb8-67"></a></span>
+<span id="cb8-68"><a href="#cb8-68"></a><span class="co"># Arrange the two histograms in a grid</span></span>
+<span id="cb8-69"><a href="#cb8-69"></a><span class="fu">grid.arrange</span>(hist_control, hist_treated, <span class="at">nrow =</span> <span class="dv">2</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </div><div class="column fragment">
 <div class="cell-output-display">
-<p><img data-src="matching_files/figure-revealjs/unnamed-chunk-4-1.png" width="960"></p>
+<p><img data-src="matching_files/figure-revealjs/unnamed-chunk-5-1.png" width="960"></p>
 </div>
 </div>
 </div>
@@ -1904,28 +1960,28 @@ sdo       1 0.354          0.354 0.354
 <div class="columns">
 <div class="column" style="width:60%;">
 <div class="cell">
-<div class="sourceCode cell-code" id="cb8" data-code-line-numbers="|4-8|12-15|"><pre class="sourceCode numberSource r number-lines code-with-copy"><code class="sourceCode r"><span id="cb8-1"><a href="#cb8-1"></a><span class="fu">library</span>(MatchIt)</span>
-<span id="cb8-2"><a href="#cb8-2"></a><span class="fu">library</span>(Zelig)</span>
-<span id="cb8-3"><a href="#cb8-3"></a></span>
-<span id="cb8-4"><a href="#cb8-4"></a>m_out <span class="ot">&lt;-</span> <span class="fu">matchit</span>(treat <span class="sc">~</span> age <span class="sc">+</span> agesq <span class="sc">+</span> agecube <span class="sc">+</span> educ <span class="sc">+</span></span>
-<span id="cb8-5"><a href="#cb8-5"></a>                 educsq <span class="sc">+</span> marr <span class="sc">+</span> nodegree <span class="sc">+</span></span>
-<span id="cb8-6"><a href="#cb8-6"></a>                 black <span class="sc">+</span> hisp <span class="sc">+</span> re74 <span class="sc">+</span> re75 <span class="sc">+</span> u74 <span class="sc">+</span> u75 <span class="sc">+</span> interaction1,</span>
-<span id="cb8-7"><a href="#cb8-7"></a>                 <span class="at">data =</span> nsw_dw_cpscontrol, <span class="at">method =</span> <span class="st">"nearest"</span>, </span>
-<span id="cb8-8"><a href="#cb8-8"></a>                 <span class="at">distance =</span> <span class="st">"logit"</span>, <span class="at">ratio =</span><span class="dv">5</span>)</span>
-<span id="cb8-9"><a href="#cb8-9"></a></span>
-<span id="cb8-10"><a href="#cb8-10"></a>m_data <span class="ot">&lt;-</span> <span class="fu">match.data</span>(m_out)</span>
-<span id="cb8-11"><a href="#cb8-11"></a></span>
-<span id="cb8-12"><a href="#cb8-12"></a>z_out <span class="ot">&lt;-</span> <span class="fu">zelig</span>(re78 <span class="sc">~</span> treat <span class="sc">+</span> age <span class="sc">+</span> agesq <span class="sc">+</span> agecube <span class="sc">+</span> educ <span class="sc">+</span></span>
-<span id="cb8-13"><a href="#cb8-13"></a>               educsq <span class="sc">+</span> marr <span class="sc">+</span> nodegree <span class="sc">+</span></span>
-<span id="cb8-14"><a href="#cb8-14"></a>               black <span class="sc">+</span> hisp <span class="sc">+</span> re74 <span class="sc">+</span> re75 <span class="sc">+</span> u74 <span class="sc">+</span> u75 <span class="sc">+</span> interaction1, </span>
-<span id="cb8-15"><a href="#cb8-15"></a>               <span class="at">model =</span> <span class="st">"ls"</span>, <span class="at">data =</span> m_data)</span>
-<span id="cb8-16"><a href="#cb8-16"></a></span>
-<span id="cb8-17"><a href="#cb8-17"></a>x_out <span class="ot">&lt;-</span> <span class="fu">setx</span>(z_out, <span class="at">treat =</span> <span class="dv">0</span>)</span>
-<span id="cb8-18"><a href="#cb8-18"></a>x1_out <span class="ot">&lt;-</span> <span class="fu">setx</span>(z_out, <span class="at">treat =</span> <span class="dv">1</span>)</span>
-<span id="cb8-19"><a href="#cb8-19"></a></span>
-<span id="cb8-20"><a href="#cb8-20"></a>s_out <span class="ot">&lt;-</span> <span class="fu">sim</span>(z_out, <span class="at">x =</span> x_out, <span class="at">x1 =</span> x1_out)</span>
-<span id="cb8-21"><a href="#cb8-21"></a></span>
-<span id="cb8-22"><a href="#cb8-22"></a><span class="fu">summary</span>(s_out)                                                  </span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="sourceCode cell-code" id="cb9" data-code-line-numbers="|4-8|12-15|"><pre class="sourceCode numberSource r number-lines code-with-copy"><code class="sourceCode r"><span id="cb9-1"><a href="#cb9-1"></a><span class="fu">library</span>(MatchIt)</span>
+<span id="cb9-2"><a href="#cb9-2"></a><span class="fu">library</span>(Zelig)</span>
+<span id="cb9-3"><a href="#cb9-3"></a></span>
+<span id="cb9-4"><a href="#cb9-4"></a>m_out <span class="ot">&lt;-</span> <span class="fu">matchit</span>(treat <span class="sc">~</span> age <span class="sc">+</span> agesq <span class="sc">+</span> agecube <span class="sc">+</span> educ <span class="sc">+</span></span>
+<span id="cb9-5"><a href="#cb9-5"></a>                 educsq <span class="sc">+</span> marr <span class="sc">+</span> nodegree <span class="sc">+</span></span>
+<span id="cb9-6"><a href="#cb9-6"></a>                 black <span class="sc">+</span> hisp <span class="sc">+</span> re74 <span class="sc">+</span> re75 <span class="sc">+</span> u74 <span class="sc">+</span> u75 <span class="sc">+</span> interaction1,</span>
+<span id="cb9-7"><a href="#cb9-7"></a>                 <span class="at">data =</span> nsw_dw_cpscontrol, <span class="at">method =</span> <span class="st">"nearest"</span>, </span>
+<span id="cb9-8"><a href="#cb9-8"></a>                 <span class="at">distance =</span> <span class="st">"logit"</span>, <span class="at">ratio =</span><span class="dv">5</span>)</span>
+<span id="cb9-9"><a href="#cb9-9"></a></span>
+<span id="cb9-10"><a href="#cb9-10"></a>m_data <span class="ot">&lt;-</span> <span class="fu">match.data</span>(m_out)</span>
+<span id="cb9-11"><a href="#cb9-11"></a></span>
+<span id="cb9-12"><a href="#cb9-12"></a>z_out <span class="ot">&lt;-</span> <span class="fu">zelig</span>(re78 <span class="sc">~</span> treat <span class="sc">+</span> age <span class="sc">+</span> agesq <span class="sc">+</span> agecube <span class="sc">+</span> educ <span class="sc">+</span></span>
+<span id="cb9-13"><a href="#cb9-13"></a>               educsq <span class="sc">+</span> marr <span class="sc">+</span> nodegree <span class="sc">+</span></span>
+<span id="cb9-14"><a href="#cb9-14"></a>               black <span class="sc">+</span> hisp <span class="sc">+</span> re74 <span class="sc">+</span> re75 <span class="sc">+</span> u74 <span class="sc">+</span> u75 <span class="sc">+</span> interaction1, </span>
+<span id="cb9-15"><a href="#cb9-15"></a>               <span class="at">model =</span> <span class="st">"ls"</span>, <span class="at">data =</span> m_data)</span>
+<span id="cb9-16"><a href="#cb9-16"></a></span>
+<span id="cb9-17"><a href="#cb9-17"></a>x_out <span class="ot">&lt;-</span> <span class="fu">setx</span>(z_out, <span class="at">treat =</span> <span class="dv">0</span>)</span>
+<span id="cb9-18"><a href="#cb9-18"></a>x1_out <span class="ot">&lt;-</span> <span class="fu">setx</span>(z_out, <span class="at">treat =</span> <span class="dv">1</span>)</span>
+<span id="cb9-19"><a href="#cb9-19"></a></span>
+<span id="cb9-20"><a href="#cb9-20"></a>s_out <span class="ot">&lt;-</span> <span class="fu">sim</span>(z_out, <span class="at">x =</span> x_out, <span class="at">x1 =</span> x1_out)</span>
+<span id="cb9-21"><a href="#cb9-21"></a></span>
+<span id="cb9-22"><a href="#cb9-22"></a><span class="fu">summary</span>(s_out)                                                  </span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </div>
 <div class="cell fragment">
 
