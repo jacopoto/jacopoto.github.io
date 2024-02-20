@@ -473,7 +473,7 @@ Jacopo Mazza
 </ul></li>
 <li class="fragment">Can we compare the health of smokers and non-smokers?
 <ul>
-<li class="fragment">Can we say that <span class="math inline">\(E[Y_i^0|D_i=1] - E[Y_i^0|D_i=0]\)</span>?</li>
+<li class="fragment">Can we say that <span class="math inline">\(E[Y_i^0|D_i=1] = E[Y_i^0|D_i=0]\)</span>?</li>
 </ul></li>
 </ul>
 </div>
@@ -1767,7 +1767,6 @@ sdo       1 0.354          0.354 0.354
 <li class="fragment"><a href="https://www.jstor.org/stable/1806062">Lalonde</a><sup>1</sup> wanted to study how effective the National Supported Work Demonstration (NSW)</li>
 <li class="fragment">NSW was a work training program for disadvantaged workers to move back in the labor market</li>
 <li class="fragment">Workers were randomly assigned to the program</li>
-<li class="fragment">They used propensity score matching to estimate the effect of the program</li>
 <li class="fragment">Since we have the <code>real</code> treatment effect, we can compare the results of econometric methods with the true effect</li>
 </ul>
 </div>
@@ -1783,7 +1782,8 @@ sdo       1 0.354          0.354 0.354
 <section id="propensity-score-matching-for-the-nsw-data" class="slide level2">
 <h2>Propensity Score Matching for the NSW Data</h2>
 <ul>
-<li><a href="https://www.jstor.org/stable/2669919">Dehejia and Wahba (1999)</a><sup>1</sup> re-analyzed the NSW data using propensity score matching -Their main interest was to compare the performance of PSM with standard econometric methods</li>
+<li><p><a href="https://www.jstor.org/stable/2669919">Dehejia and Wahba (1999)</a><sup>1</sup> re-analyzed the NSW data using propensity score matching</p></li>
+<li><p>Their main interest was to compare the performance of PSM with standard econometric methods</p></li>
 </ul>
 <aside><ol class="aside-footnotes"><li id="fn2"><p>Dehejia, R. H., &amp; Wahba, S. (1999). Causal effects in nonexperimental studies: Reevaluating the evaluation of training programs. <em>Journal of the American Statistical Association</em>, 94(448): 1053-1062.</p></li></ol></aside></section>
 <section id="estimated-training-effects-using-propensity-scores" class="slide level2">
