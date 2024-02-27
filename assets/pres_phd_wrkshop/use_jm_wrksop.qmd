@@ -105,7 +105,7 @@ ggplot(data, aes(x=start, xend=end, y=reorder(event, difftime(data$start[1], sta
 -   [Inomics](https://inomics.com/){target="_blank"} 🇪🇺
 -   [Academictransfer](https://www.academictransfer.com/en/){target="_blank"} 🇳🇱
 -   [jobs.ac.uk](https://www.jobs.ac.uk/search/economics){target="_blank"} 🇬🇧
--   (X) Twitter
+-   X (Twitter)
 
 ## Job Openings: when
 
