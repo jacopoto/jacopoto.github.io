@@ -388,10 +388,6 @@
       margin-right: 0; 
     }
   </style>
-  <script src="IV_files/libs/htmlwidgets-1.6.4/htmlwidgets.js"></script>
-  <script src="IV_files/libs/viz-1.8.2/viz.js"></script>
-  <link href="IV_files/libs/DiagrammeR-styles-0.2/styles.css" rel="stylesheet">
-  <script src="IV_files/libs/grViz-binding-1.0.11/grViz.js"></script>
 </head>
 <body class="quarto-light">
   <div class="reveal">
@@ -537,22 +533,12 @@ Jacopo Mazza
 </section>
 <section id="the-path-to-wealth" class="slide level2" data-auto-animate="true">
 <h2 data-id="quarto-animate-title">The Path to Wealth</h2>
-<div class="cell">
-<div class="cell-output-display">
-<div class="grViz html-widget html-fill-item" id="htmlwidget-bcdb0df04e5c55fdb83f" style="width:960px;height:480px;"></div>
-<script type="application/json" data-for="htmlwidget-bcdb0df04e5c55fdb83f">{"x":{"diagram":"\ndigraph {\n    graph [rankdir = \"LR\"]  # Set direction from Left to Right\n    node [shape = plaintext]\n        Education  # Changed node A to Education\n        Income  # Changed node Y to Income\n    edge []\n        Education->Income  # Adjusted edge accordingly\n}\n","config":{"engine":"dot","options":null}},"evals":[],"jsHooks":[]}</script>
-</div>
-</div>
-</section>
+
+<img data-src="graphs/caus_path_1.png" class="r-stretch"></section>
 <section id="the-path-to-wealth-1" class="slide level2" data-auto-animate="true">
 <h2 data-id="quarto-animate-title">The Path to Wealth</h2>
-<div class="cell">
-<div class="cell-output-display">
-<div class="grViz html-widget html-fill-item" id="htmlwidget-96dabd023f0b89ed710a" style="width:960px;height:480px;"></div>
-<script type="application/json" data-for="htmlwidget-96dabd023f0b89ed710a">{"x":{"diagram":"\ndigraph {\n  graph []\n  node [shape = plaintext]\n    A [label = \"Education\"]\n    Y [label = \"Income\"]\n    C [label = \"Ability\"]\n  edge []\n    A->Y\n    C->A\n    C->Y\n  { rank = same; A; Y }\n}\n","config":{"engine":"dot","options":null}},"evals":[],"jsHooks":[]}</script>
-</div>
-</div>
-</section>
+
+<img data-src="graphs/caus_path_2.png" class="r-stretch"></section>
 <section id="unobservability" class="slide level2">
 <h2>UnobservABILITY</h2>
 <div style="font-size: 0.9em">
@@ -609,13 +595,8 @@ Jacopo Mazza
 </section>
 <section id="the-causal-path-to-wealth" class="slide level2">
 <h2>The <strong>Causal</strong> Path to Wealth</h2>
-<div class="cell">
-<div class="cell-output-display">
-<div class="grViz html-widget html-fill-item" id="htmlwidget-70b39b06097bd241d46b" style="width:960px;height:480px;"></div>
-<script type="application/json" data-for="htmlwidget-70b39b06097bd241d46b">{"x":{"diagram":"\ndigraph {\n  graph []\n  node [shape = plaintext]\n    A [label = \"Education\"]\n    Y [label = \"Income\"]\n    C [label = \"Ability\"]\n    B [label = \"Randomization\"]\n  edge []\n    A->Y\n    C->A\n    C->Y\n    B->A\n  { rank = same; A; Y; B }\n}\n","config":{"engine":"dot","options":null}},"evals":[],"jsHooks":[]}</script>
-</div>
-</div>
-</section>
+
+<img data-src="graphs/caus_path_3.png" class="r-stretch"></section>
 <section id="how-iv-estimation-works" class="slide level2">
 <h2>How IV Estimation Works</h2>
 <ul>
@@ -662,13 +643,8 @@ Jacopo Mazza
 <aside><ol class="aside-footnotes"><li id="fn2"><p><span class="fragment fragment-index-3">This is also called the <strong>exclusion restriction</strong></span></p></li></ol></aside></section>
 <section id="the-causal-path-to-wealth-1" class="slide level2">
 <h2>The <strong>Causal</strong> Path to Wealth</h2>
-<div class="cell">
-<div class="cell-output-display">
-<div class="grViz html-widget html-fill-item" id="htmlwidget-49161287b92d36616c13" style="width:960px;height:480px;"></div>
-<script type="application/json" data-for="htmlwidget-49161287b92d36616c13">{"x":{"diagram":"\ndigraph {\n  graph []\n  node [shape = plaintext]\n    A [label = \"Education\"]\n    Y [label = \"Income\"]\n    C [label = \"Ability\"]\n    B [label = \"Randomization\"]\n  edge []\n    A->Y\n    C->A\n    C->Y\n    B->A\n    B->Y [constraint = false, tailport = s, headport = s, color = red]\n  { rank = same; A; Y; B }\n}\n","config":{"engine":"dot","options":null}},"evals":[],"jsHooks":[]}</script>
-</div>
-</div>
-</section></section>
+
+<img data-src="graphs/caus_path_4.png" class="r-stretch"></section></section>
 <section>
 <section id="iv-application" class="title-slide slide level1 center" data-background-color="#107895">
 <h1>IV Application</h1>
@@ -1005,15 +981,15 @@ Jacopo Mazza
 </section>
 <section id="the-wald-estimator" class="slide level2">
 <h2>The Wald Estimator</h2>
-<div class="cell">
-<div class="cell-output-display">
-<div class="grViz html-widget html-fill-item" id="htmlwidget-4ea4e0ad4e88c340306e" style="width:70%;height:70%;"></div>
-<script type="application/json" data-for="htmlwidget-4ea4e0ad4e88c340306e">{"x":{"diagram":"\ndigraph {\n  graph []\n  node [shape = plaintext]\n    A [label = \"Education\n(X)\"]\n    Y [label = \"Income (Y)\"]\n    C [label = \"Ability\"]\n    B [label = \"Randomization (Z)\"]\n  edge []\n    A->Y [label=<&lambda;>]\n    C->A\n    C->Y\n    B->A [label=<&phi;>]\n    B->Y [constraint = false, tailport = s, headport = s, color = green]\n  { rank = same; A; Y; B }\n}\n","config":{"engine":"dot","options":null}},"evals":[],"jsHooks":[]}</script>
-</div>
-</div>
+<div class="columns">
+<div class="column" style="width:50%;">
+<p><img data-src="graphs/wald.png"></p>
+</div><div class="column" style="width:50%;">
 <p>[Effect of Z on Y] = [Effect of Z on D] * [Effect of D on Y]</p>
 <p><span class="math display">\[\rho=\phi\times\lambda\]</span> <span class="math display">\[\lambda=\frac{\rho}{\phi}=\frac{𝐸[𝑌_𝑖│𝑍_𝑖=1]−𝐸[𝑌_𝑖│𝑍_𝑖=0]}{𝐸[𝐷_𝑖│𝑍_𝑖=1]−𝐸[𝐷_𝑖│𝑍_𝑖=0]}
 \]</span></p>
+</div>
+</div>
 </section>
 <section id="two-stage-least-squares-2sls" class="slide level2">
 <h2>Two-Stage Least Squares (2SLS)</h2>
@@ -1414,12 +1390,7 @@ Wald test: 139.8 on 6 and 2996 DF,  p-value: &lt; 2.2e-16 </code></pre>
 </div>
 </div><div class="column" style="width:40%;">
 <div class="fragment" data-fragment-index="2">
-<div class="cell">
-<div class="cell-output-display">
-<div class="grViz html-widget html-fill-item" id="htmlwidget-e452ce81acf838c9777b" style="width:90%;height:90%;"></div>
-<script type="application/json" data-for="htmlwidget-e452ce81acf838c9777b">{"x":{"diagram":"\ndigraph decision_tree {\n\n  # Define the root node\n  node [shape = circle, color = lightblue]\n  A [label = \"Randomization\"]\n\n  # Define the two branches\n  node [shape = circle, color = lightcoral]\n  B [label = \"Assigned\"]\n  C [label = \"Not\nAssigned\"]\n\n  # Connect the nodes with edges\n  edge [color = black]\n  A -> B \n  A -> C \n}\n","config":{"engine":"dot","options":null}},"evals":[],"jsHooks":[]}</script>
-</div>
-</div>
+<p><img data-src="graphs/decision_tree-1.png"></p>
 </div>
 </div>
 </div>
@@ -1429,7 +1400,7 @@ Wald test: 139.8 on 6 and 2996 DF,  p-value: &lt; 2.2e-16 </code></pre>
 <div class="columns">
 <div class="column" style="width:60%;">
 <ul>
-<li>If participation in the treatment is voluntary: People can:</li>
+<li>If participation in the treatment is voluntary people can:</li>
 </ul>
 <div class="fragment" data-fragment-index="1">
 <ul>
@@ -1458,36 +1429,16 @@ Wald test: 139.8 on 6 and 2996 DF,  p-value: &lt; 2.2e-16 </code></pre>
 </div>
 </div><div class="column" style="width:40%;">
 <div class="fragment absolute" data-fragment-index="1" style="top: 50px; right: 0px; ">
-<div class="cell">
-<div class="cell-output-display">
-<div class="grViz html-widget html-fill-item" id="htmlwidget-ec4b04312b50eb9f1883" style="width:60%;height:60%;"></div>
-<script type="application/json" data-for="htmlwidget-ec4b04312b50eb9f1883">{"x":{"diagram":"\ndigraph decision_tree {\n\n  # Define the root node\n  node [shape = circle, color = lightblue]\n  A [label = \"Randomization\"]\n\n  # Define the two branches\n  node [shape = circle, color = lightcoral]\n  B [label = \"Assigned\"]\n  C [label = \"Not\nAssigned\"]\n\n  # Define the outcomes\n  node [shape = circle, color = green]\n  D [label = \"Compliers\"]\n\n  # Connect the nodes with edges\n  edge [color = black]\n  A -> B \n  A -> C \n  B -> D [label = \"Takes\nTreatment\"]\n}\n","config":{"engine":"dot","options":null}},"evals":[],"jsHooks":[]}</script>
+<p><img data-src="graphs/decision_tree_2.png"></p>
 </div>
+<div class="fragment absolute" data-fragment-index="3" style="top: 50px; right: 0px; width: 500px; height: 450px; ">
+<p><img data-src="graphs/decision_tree_3.png"></p>
 </div>
+<div class="fragment absolute" data-fragment-index="5" style="top: 60px; right: 0px; width: 450px; height: 450px; ">
+<p><img data-src="graphs/decision_tree_4.png"></p>
 </div>
-<div class="fragment absolute" data-fragment-index="3" style="top: 50px; right: 0px; ">
-<div class="cell">
-<div class="cell-output-display">
-<div class="grViz html-widget html-fill-item" id="htmlwidget-f198305041a133a8bd45" style="width:70%;height:70%;"></div>
-<script type="application/json" data-for="htmlwidget-f198305041a133a8bd45">{"x":{"diagram":"\ndigraph decision_tree {\n\n  # Define the root node\n  node [shape = circle, color = lightblue]\n  A [label = \"Randomization\"]\n\n  # Define the two branches\n  node [shape = circle, color = lightcoral]\n  B [label = \"Assigned\"]\n  C [label = \"Not\nAssigned\"]\n\n  # Define the outcomes\n  node [shape = circle, color = green]\n  D [label = \"Compliers\"]\n  G [label = \"Compliers\"]\n\n  # Connect the nodes with edges\n  edge [color = black]\n  A -> B \n  A -> C \n  B -> D [label = \"Takes\nTreatment\"]\n  C -> G [label = \"Does not take\nTreatment\"]\n}\n","config":{"engine":"dot","options":null}},"evals":[],"jsHooks":[]}</script>
-</div>
-</div>
-</div>
-<div class="fragment absolute" data-fragment-index="5" style="top: 50px; right: 0px; ">
-<div class="cell">
-<div class="cell-output-display">
-<div class="grViz html-widget html-fill-item" id="htmlwidget-17401b789196acf99207" style="width:100%;height:115%;"></div>
-<script type="application/json" data-for="htmlwidget-17401b789196acf99207">{"x":{"diagram":"\ndigraph decision_tree {\n\n  # Define the root node\n  node [shape = circle, color = lightblue]\n  A [label = \"Randomization\"]\n\n  # Define the two branches\n  node [shape = circle, color = lightcoral]\n  B [label = \"Assigned\"]\n  C [label = \"Not\nAssigned\"]\n\n  # Define the outcomes\n  node [shape = circle, color = green]\n  D [label = \"Compliers\"]\n  F [label = \"Always\ntakers\"]\n  G [label = \"Compliers\"]\n\n  # Connect the nodes with edges\n  edge [color = black]\n  A -> B \n  A -> C \n  B -> D [label = \"Takes\nTreatment\"]\n  C -> F [label = \"Takes\nTreatment\"]\n  C -> G [label = \"Does not take\nTreatment\"]\n}\n","config":{"engine":"dot","options":null}},"evals":[],"jsHooks":[]}</script>
-</div>
-</div>
-</div>
-<div class="fragment absolute" data-fragment-index="7" style="top: 50px; right: 0px; width: 450px; height: 300px; ">
-<div class="cell">
-<div class="cell-output-display">
-<div class="grViz html-widget html-fill-item" id="htmlwidget-332175d871562226449f" style="width:100%;height:100%;"></div>
-<script type="application/json" data-for="htmlwidget-332175d871562226449f">{"x":{"diagram":"\ndigraph decision_tree {\n\n  # Define the root node\n  node [shape = circle, color = lightblue]\n  A [label = \"Randomization\"]\n\n  # Define the two branches\n  node [shape = circle, color = lightcoral]\n  B [label = \"Assigned\"]\n  C [label = \"Not\nAssigned\"]\n\n  # Define the outcomes\n  node [shape = circle, color = green]\n  D [label = \"Compliers\"]\n  E [label = \"Never\ntakers\"]\n  F [label = \"Always\ntakers\"]\n  G [label = \"Compliers\"]\n\n  # Connect the nodes with edges\n  edge [color = black]\n  A -> B \n  A -> C \n  B -> D [label = \"Takes\nTreatment\"]\n  B -> E [label = \"Does not take\nTreatment\"]\n  C -> F [label = \"Takes\nTreatment\"]\n  C -> G [label = \"Does not take\nTreatment\"]\n}\n","config":{"engine":"dot","options":null}},"evals":[],"jsHooks":[]}</script>
-</div>
-</div>
+<div class="fragment absolute" data-fragment-index="7" style="top: -50px; right: 0px; width: 550px; height: 950px; ">
+<p><img data-src="graphs/decision_tree_5.png"></p>
 </div>
 </div>
 </div>
