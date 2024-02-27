@@ -2,7 +2,7 @@
 title: "U.S.E. PhDs Job Market Workshop"
 author: "Jacopo Mazza"
 institute: "Utrecht School of Economics"
-date: 03/29/2023
+date: 03/06/2024
 date-format: long
 
 format: 
@@ -18,7 +18,7 @@ css: logo.css
 
 output:
   quarto::quarto_html:
-    self_contained: true
+    embed-resources: true
     toc: false
 
 title-slide-attributes:
@@ -59,27 +59,34 @@ Standardized job opening and search system in terms of:
 ## The Job Market Timeline
 
 ```{r}
-#
+#load ggplot2 and ggthemes libraries
 library(ggplot2)
-library(vistime)
+library(ggthemes)
 
+#create data frame from user input
 data <- read.csv(text="event,start,end
-                       Job openings,    2023-09-30,2023-12-15
-                       Interviews,      2023-12-15,2024-01-10
-                       Flyouts,         2024-01-10,2024-02-28
-                       Secondary Market,2024-03-15,2024-05-01")
-        
-p <- vistime(data, optimize_y = TRUE, linewidth = 40)
+                 Job openings,    2023-09-30,2023-12-15
+                 Interviews,      2023-12-15,2024-01-31
+                 Flyouts,         2024-01-10,2024-03-28
+                 Secondary Market,2024-03-15,2024-05-01")
 
-# step 1: transform into a list
-pp <- plotly::plotly_build(p)
+# Convert the start and end columns to Date objects
+data$start <- as.Date(data$start)
+data$end <- as.Date(data$end)
 
-# step 2: loop over pp$x$data, and change the font size of all text elements to 28
-for(i in seq_along(pp$x$data)){
-    if(pp$x$data[[i]]$mode == "text") pp$x$data[[i]]$textfont$size <- 22
-}
+#create gantt chart that visualizes start and end time for each event
+ggplot(data, aes(x=start, xend=end, y=reorder(event, difftime(data$start[1], start)), yend=reorder(event, difftime(data$start[1], start)), color=event)) +
+  theme_bw()+ #use ggplot theme with black gridlines and white background
+  geom_segment(size=8) + #increase line width of segments in the chart
+  scale_color_viridis_d() + #use the viridis color scheme
+  scale_x_date(date_breaks = "1 month", date_labels = "%b") + #format x-axis as dates
+  theme(axis.title = element_text(), #adjust axis title font
+      legend.position = "none", #suppress the legend
+      text = element_text(size = 20), #increase font size
+      plot.margin = margin(1, 1, 1, 1, "cm")) + #adjust plot margins
+  xlab("") + #suppress the x-axis label
+  ylab("") #suppress the y-axis label
 
-pp
 ```
 
 ## I want to go on the market, now what?
@@ -98,7 +105,7 @@ pp
 -   [Inomics](https://inomics.com/){target="_blank"} 🇪🇺
 -   [Academictransfer](https://www.academictransfer.com/en/){target="_blank"} 🇳🇱
 -   [jobs.ac.uk](https://www.jobs.ac.uk/search/economics){target="_blank"} 🇬🇧
--   Twitter
+-   (X) Twitter
 
 ## Job Openings: when
 
@@ -261,4 +268,6 @@ pad = 0, use_glyph = FALSE, glyph_size = 12, legend_pos = "right")
 -   [Alex Albright's blog on the Job Market](https://thelittledataset.com/2022/03/21/job-mkt/){target="_blank"}
 -   [EEA Job Market Site](https://www.europeanjobmarketofeconomists.org/){target="_blank"}
 -   [Guide of all guides!](https://sites.google.com/view/ejm-mentalhealth/references-and-links?authuser=0){target="_blank"}
+-   [David Schindler (UT) guide for the European market](http://david-schindler.de/guide-to-the-european-job-market/){target="_blank"}
+-   [USE Job Market tips](https://intranet.uu.nl/en/knowledgebase/an-academic-career-after-use-some-tips){target="_blank"}
 -   [Job Market application tracker](https://github.com/benjaminvatterj/JobMarketTracker){target="_blank"}
