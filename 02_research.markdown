@@ -33,7 +33,7 @@ Using administrative data covering the universe of student enrollments in public
 <p> </p>
 
 8) <img src="https://jacopoto.github.io/assets/img/emp_econ.jpg" width="120">{: .image-left}**[Educational Choice, Initial Wage and Wage Growth](https://jacopoto.github.io/assets/Major_choice_EmpEcon.pdf){:target="_blank"}**, *Empirical Economics*, (Forthcoming). \
-(joint with [Hans van Ophem](https://www.uva.nl/en/profile/o/p/j.c.m.vanophem/j.c.m.van-ophem.html) {:target="_blank"})\
+(joint with [Hans van Ophem](https://www.uva.nl/en/profile/o/p/j.c.m.vanophem/j.c.m.van-ophem.html) {:target="_blank"}) \
 [Download bibtex citation](https://jacopoto.github.io/assets/bibtex_cite/mvo_ee.bib){:.button}
 
 
