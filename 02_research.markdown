@@ -27,28 +27,23 @@ Using administrative data covering the universe of student enrollments in public
 </details>
 <p> </p>
 
-
 <hr style="border:.25px solid grey">
 
-### Under Review
+### Journal Publications
 <p> </p>
 
-**[Educational Choice, Initial Wage
-and Wage Growth](https://jacopoto.github.io/jacopomazza.com/college_wage_growth.pdf){:target="_blank"}** \
-(joint with [Hans van Ophem](https://www.uva.nl/en/profile/o/p/j.c.m.vanophem/j.c.m.van-ophem.html){:target="_blank"}), Tinbergen Institute Discussion Paper 2020-030/III. (Revise and Resubmit at *Empirical Economics*) \
+8) <img src="https://jacopoto.github.io/assets/img/emp_econ.jpg" width="120">{: .image-left}****[Educational Choice, Initial Wage and Wage Growth](https://jacopoto.github.io/assets/Major_choice_EmpEcon.pdf){:target="_blank"}** \
+(joint with [Hans van Ophem](https://www.uva.nl/en/profile/o/p/j.c.m.vanophem/j.c.m.van-ophem.html){:target="_blank"})
+[Download bibtex citation](https://jacopoto.github.io/assets/bibtex_cite/mvo_ee.bib){:.button}
 
 
 <details>
   <summary>Abstract</summary>
-
-We investigate the major choice of college graduates where we make choice dependent on expected initial wages and expected wage growth per major. We build a model that allows us to estimate these factors semiparametrically and that corrects for selection bias. We estimate the model on the combined NLSY79 and NLSY97 samples. We find markedly different results in expected real wage growth and expected initial wages across majors. Furthermore, the differences in these expectations appear to be relevant for major choice.
+We study the effects of expected initial wages, expected wage growth, and observed and unobserved heterogeneity in the choice of college major in a sample of American college graduates. We propose a three-stage empirical model that relates future earnings to individual choices. In the first stage, starting from revealed choices, observed wages, and life-cycle wage profiles, we estimate the expectation on initial wages and wage growth from the individual point of view, where the panel structure of the data allows us to produce estimates corrected for self-selection bias. We find substantial differences in expected real wages and expected real wage growth between majors and that both characteristics of life cycle earnings influence major choice. Our parametric
+models show a strong correlation between salary trends and major choice, whereas semiparametric models yield less reliable results. We interpret our results as being consistent with agents being rational and as a validation for our estimation strategy based on counterfactual imputation.
 
 </details>
-<p> </p>
 
-<hr style="border:.25px solid grey">
-
-### Journal Publications
 <p> </p>
 
 7) <img src="https://jacopoto.github.io/assets/img/ilrr.jpg" width="120">{: .image-left}**[Being on the Frontline? Immigrant Workers in Europe and the COVID-19 Pandemic](https://jacopoto.github.io/assets/COVID_paper_migrants_ilrr.pdf){:target="_blank"}**, *ILR Review*, (2023), vol. 76(5), pp. 890-918. \
