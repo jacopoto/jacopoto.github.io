@@ -17,7 +17,7 @@ permalink: /teaching/
 - Week 1: The Potential Outcomes Causal Model, [Slides](https:\\jacopoto.github.io\assets\INFOMCIMPE\pot-out.html){:target="_blank"}.
 - Week 2: Matching and Subclassification, [Slides](https:\\jacopoto.github.io\assets\INFOMCIMPE\matching.html){:target="_blank"}.
 - Week 3: Instrumental Variable, [Slides](https:\\jacopoto.github.io\assets\INFOMCIMPE\IV.html){:target="_blank"}.
-
+- Week 4: Regression Discontinuity, [Slides](https:\\jacopoto.github.io\assets\INFOMCIMPE\RDD.html){:target="_blank"}.
 
 #### Extras
 
