@@ -19,6 +19,7 @@ permalink: /teaching/
 - Week 3: Instrumental Variable, [Slides](https:\\jacopoto.github.io\assets\INFOMCIMPE\IV.html){:target="_blank"}.
 - Week 4: Regression Discontinuity, [Slides](https:\\jacopoto.github.io\assets\INFOMCIMPE\RDD.html){:target="_blank"}.
 - Week 5: Difference in differences, [Slides](https:\\jacopoto.github.io\assets\INFOMCIMPE\DiD.html){:target="_blank"}.
+- Week 6: Synthetic Control, [Slides](https:\\jacopoto.github.io\assets\INFOMCIMPE\Synth.html){:target="_blank"}.
 
 #### Extras
 
