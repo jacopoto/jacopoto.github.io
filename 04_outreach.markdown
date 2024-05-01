@@ -50,6 +50,9 @@ Working paper version: [IZA](https://www.iza.org/publications/pp/155/immigrant-k
 ### Columns and Blogs
 <p> </p>
 
+- **[Essential yet vulnerable](https://wol.iza.org/opinions/essential-yet-vulnerable){:target="_blank"}**, IZA World of Labor, 04/2024. \
+(joint with [Francesco Fasani](https://sites.google.com/site/fasani2010/){:target="_blank"}).
+
 - **[The benefits of starting college in a recession](https://blogs.lse.ac.uk/businessreview/2021/10/14/the-benefits-of-starting-college-in-a-recession/){:target="_blank"}**, LSE Business Review, 10/2021. \
 (joint with [Alena Bicáková](http://home.cerge-ei.cz/Alena/){:target="_blank"}, [Matias Cortes](https://www.sites.google.com/site/gmatiascortes/home){:target="_blank"}).
 
