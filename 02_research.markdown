@@ -21,7 +21,6 @@ permalink: /research/
 **[Immigrant Key Workers: Their Contribution to Europe's COVID-19 Response](https://jacopoto.github.io/assets/dp16884.pdf){:target="_blank"}** \
 IZA DP No. 16884. \
 (joint with [Francesco Fasani](https://sites.google.com/site/fasani2010/){:target="_blank"}) - R&R at *Journal of Economic Inequality*
- \
 
 <details>
   <summary>Abstract</summary>
