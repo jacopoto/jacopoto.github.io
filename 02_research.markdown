@@ -16,6 +16,18 @@ permalink: /research/
 
 
 ## Research
+### Working Papers
+<p> </p>
+**[Immigrant Key Workers: Their Contribution to Europe's COVID-19 Response](https://jacopoto.github.io/assets/dp16884.pdf){:target="_blank"}** \
+(joint with [Francesco Fasani](https://sites.google.com/site/fasani2010/){:target="_blank"}) \ - R&R at *Journal of Economic Inequality*
+IZA DP No. 16884. \
+
+<details>
+  <summary>Abstract</summary>
+This paper contributes to the literature on the Covid-19 effects on workers and labor markets by focusing on the experience of migrant key workers in EU countries. Our analysis, based on survey data on more than 3 million workers, explores three main aspects. First, we document the over-representation of migrant workers in key occupations, particularly in low-qualified roles. Second, we examine the selection into key occupations. According to our estimates, women are more likely to be key workers, the relationship with education is V-shaped, and EU and Extra EU migrants are, respectively, 12 and 15 percent more likely to be key workers than comparable natives. Finally, we estimate the impact of Covid-19 on the labor market, showing that migrant key workers had to extend their working hours during the pandemic and, nevertheless, faced a 2-3 times higher probability of being laid off relative to natives. Our findings imply that migrant workers played a crucial role in the response to the pandemic, but endured a harsher fate than native workers.
+</details>
+<p> </p>
+
 ### Work in Progress
 <p> </p>
 **[Enrolling in Bad Times: College Persistence and Labor Market Outcomes](https://jacopoto.github.io/assets/can_late_finish-1.pdf){:target="_blank"}** \
