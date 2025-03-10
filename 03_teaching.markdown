@@ -18,8 +18,9 @@ permalink: /teaching/
 - Week 2: Matching and Subclassification, [Slides](https:\\jacopoto.github.io\assets\INFOMCIMPE\matching.html){:target="_blank"}.
 - Week 3: Instrumental Variable, [Slides](https:\\jacopoto.github.io\assets\INFOMCIMPE\IV.html){:target="_blank"}.
 - Week 4: Regression Discontinuity, [Slides](https:\\jacopoto.github.io\assets\INFOMCIMPE\RDD.html){:target="_blank"}.
-- Week 5: Difference in differences, [Slides](https:\\jacopoto.github.io\assets\INFOMCIMPE\DiD.html){:target="_blank"}.
-- Week 6: Synthetic Control, [Slides](https:\\jacopoto.github.io\assets\INFOMCIMPE\Synth.html){:target="_blank"}.
+- Week 5: Panel Data, [Slides](https:\\jacopoto.github.io\assets\INFOMCIMPE\Panel.html){:target="_blank"}.
+- Week 6: Difference in differences, [Slides](https:\\jacopoto.github.io\assets\INFOMCIMPE\DiD.html){:target="_blank"}.
+- Week 7: Synthetic Control, [Slides](https:\\jacopoto.github.io\assets\INFOMCIMPE\Synth.html){:target="_blank"}.
 
 #### Extras
 
