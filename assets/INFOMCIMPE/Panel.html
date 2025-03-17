@@ -1468,8 +1468,8 @@ Figure 1: Example and immagese from <a href="https://theeffectbook.net/index.ht
 
     <script>
 
-      function styleCell_q6fib5hw0vb6ahy5t5nu(i, j, css_id) {
-          var table = document.getElementById("tinytable_q6fib5hw0vb6ahy5t5nu");
+      function styleCell_89ifnikrsa3jc38w6lkg(i, j, css_id) {
+          var table = document.getElementById("tinytable_89ifnikrsa3jc38w6lkg");
           var cell = table.rows[i]?.cells[j];  // Safe navigation to avoid errors
           if (cell) {
               console.log(`Styling cell at (${i}, ${j}) with class ${css_id}`);
@@ -1479,7 +1479,7 @@ Figure 1: Example and immagese from <a href="https://theeffectbook.net/index.ht
           }
       }
       function insertSpanRow(i, colspan, content) {
-        var table = document.getElementById('tinytable_q6fib5hw0vb6ahy5t5nu');
+        var table = document.getElementById('tinytable_89ifnikrsa3jc38w6lkg');
         var newRow = table.insertRow(i);
         var newCell = newRow.insertCell(0);
         newCell.setAttribute("colspan", colspan);
@@ -1487,8 +1487,8 @@ Figure 1: Example and immagese from <a href="https://theeffectbook.net/index.ht
         // this may be unsafe, but innerText does not interpret <br>
         newCell.innerHTML = content;
       }
-      function spanCell_q6fib5hw0vb6ahy5t5nu(i, j, rowspan, colspan) {
-        var table = document.getElementById("tinytable_q6fib5hw0vb6ahy5t5nu");
+      function spanCell_89ifnikrsa3jc38w6lkg(i, j, rowspan, colspan) {
+        var table = document.getElementById("tinytable_89ifnikrsa3jc38w6lkg");
         const targetRow = table.rows[i];
         const targetCell = targetRow.cells[j];
         for (let r = 0; r < rowspan; r++) {
@@ -1518,20 +1518,20 @@ Figure 1: Example and immagese from <a href="https://theeffectbook.net/index.ht
       window.addEventListener('load', function () {
           var cellsToStyle = [
             // tinytable style arrays after
-          { positions: [ { i: 0, j: 1 },  ], css_id: 'tinytable_css_x5os7db3rc861eh7nwc8',}, 
-          { positions: [ { i: 6, j: 0 },  ], css_id: 'tinytable_css_qrn72w93rlz1e51eex2a',}, 
-          { positions: [ { i: 4, j: 1 },  ], css_id: 'tinytable_css_o7wr47z7c9mlzfrgq8gs',}, 
-          { positions: [ { i: 0, j: 0 },  ], css_id: 'tinytable_css_ef6mo3fgxo8g896hwagi',}, 
-          { positions: [ { i: 1, j: 0 }, { i: 2, j: 0 }, { i: 3, j: 0 }, { i: 5, j: 0 },  ], css_id: 'tinytable_css_cgne0tibahji5zr4icdp',}, 
-          { positions: [ { i: 1, j: 1 }, { i: 2, j: 1 }, { i: 3, j: 1 }, { i: 5, j: 1 },  ], css_id: 'tinytable_css_6qicq8uczmwlxv4xgdn4',}, 
-          { positions: [ { i: 4, j: 0 },  ], css_id: 'tinytable_css_6k55qp4q2i2tajcq76ko',}, 
-          { positions: [ { i: 6, j: 1 },  ], css_id: 'tinytable_css_1w1vdeiv4oorphrpj6i9',}, 
+          { positions: [ { i: 0, j: 1 },  ], css_id: 'tinytable_css_wp4e8c9u0raipa5cnwez',}, 
+          { positions: [ { i: 4, j: 1 },  ], css_id: 'tinytable_css_s067k9x6xy3atmrtextk',}, 
+          { positions: [ { i: 6, j: 1 },  ], css_id: 'tinytable_css_qoef8dqpbxdphg8hl0ru',}, 
+          { positions: [ { i: 4, j: 0 },  ], css_id: 'tinytable_css_pzascnjt0rmckxkxf1nm',}, 
+          { positions: [ { i: 1, j: 1 }, { i: 2, j: 1 }, { i: 3, j: 1 }, { i: 5, j: 1 },  ], css_id: 'tinytable_css_pjhptxh2bkz8vmtpvneu',}, 
+          { positions: [ { i: 1, j: 0 }, { i: 2, j: 0 }, { i: 3, j: 0 }, { i: 5, j: 0 },  ], css_id: 'tinytable_css_lrvbk56n700nnylbkciu',}, 
+          { positions: [ { i: 0, j: 0 },  ], css_id: 'tinytable_css_8psgmhur9x61366ntbah',}, 
+          { positions: [ { i: 6, j: 0 },  ], css_id: 'tinytable_css_4wce3dgj6kprnr3x0jyr',}, 
           ];
 
           // Loop over the arrays to style the cells
           cellsToStyle.forEach(function (group) {
               group.positions.forEach(function (cell) {
-                  styleCell_q6fib5hw0vb6ahy5t5nu(cell.i, cell.j, group.css_id);
+                  styleCell_89ifnikrsa3jc38w6lkg(cell.i, cell.j, group.css_id);
               });
           });
       });
@@ -1539,17 +1539,17 @@ Figure 1: Example and immagese from <a href="https://theeffectbook.net/index.ht
 
     <style>
 
-.table td.tinytable_css_x5os7db3rc861eh7nwc8, .table th.tinytable_css_x5os7db3rc861eh7nwc8 { text-align: center; border-top: solid #d3d8dc 0.1em; border-bottom: solid #d3d8dc 0.05em; }
-.table td.tinytable_css_qrn72w93rlz1e51eex2a, .table th.tinytable_css_qrn72w93rlz1e51eex2a { text-align: left; border-bottom: solid #d3d8dc 0.1em; }
-.table td.tinytable_css_o7wr47z7c9mlzfrgq8gs, .table th.tinytable_css_o7wr47z7c9mlzfrgq8gs { text-align: center; border-bottom: solid black 0.05em; }
-.table td.tinytable_css_ef6mo3fgxo8g896hwagi, .table th.tinytable_css_ef6mo3fgxo8g896hwagi { text-align: left; border-top: solid #d3d8dc 0.1em; border-bottom: solid #d3d8dc 0.05em; }
-.table td.tinytable_css_cgne0tibahji5zr4icdp, .table th.tinytable_css_cgne0tibahji5zr4icdp { text-align: left; }
-.table td.tinytable_css_6qicq8uczmwlxv4xgdn4, .table th.tinytable_css_6qicq8uczmwlxv4xgdn4 { text-align: center; }
-.table td.tinytable_css_6k55qp4q2i2tajcq76ko, .table th.tinytable_css_6k55qp4q2i2tajcq76ko { text-align: left; border-bottom: solid black 0.05em; }
-.table td.tinytable_css_1w1vdeiv4oorphrpj6i9, .table th.tinytable_css_1w1vdeiv4oorphrpj6i9 { text-align: center; border-bottom: solid #d3d8dc 0.1em; }
+.table td.tinytable_css_wp4e8c9u0raipa5cnwez, .table th.tinytable_css_wp4e8c9u0raipa5cnwez { text-align: center; border-top: solid #d3d8dc 0.1em; border-bottom: solid #d3d8dc 0.05em; }
+.table td.tinytable_css_s067k9x6xy3atmrtextk, .table th.tinytable_css_s067k9x6xy3atmrtextk { text-align: center; border-bottom: solid black 0.05em; }
+.table td.tinytable_css_qoef8dqpbxdphg8hl0ru, .table th.tinytable_css_qoef8dqpbxdphg8hl0ru { text-align: center; border-bottom: solid #d3d8dc 0.1em; }
+.table td.tinytable_css_pzascnjt0rmckxkxf1nm, .table th.tinytable_css_pzascnjt0rmckxkxf1nm { text-align: left; border-bottom: solid black 0.05em; }
+.table td.tinytable_css_pjhptxh2bkz8vmtpvneu, .table th.tinytable_css_pjhptxh2bkz8vmtpvneu { text-align: center; }
+.table td.tinytable_css_lrvbk56n700nnylbkciu, .table th.tinytable_css_lrvbk56n700nnylbkciu { text-align: left; }
+.table td.tinytable_css_8psgmhur9x61366ntbah, .table th.tinytable_css_8psgmhur9x61366ntbah { text-align: left; border-top: solid #d3d8dc 0.1em; border-bottom: solid #d3d8dc 0.05em; }
+.table td.tinytable_css_4wce3dgj6kprnr3x0jyr, .table th.tinytable_css_4wce3dgj6kprnr3x0jyr { text-align: left; border-bottom: solid #d3d8dc 0.1em; }
 </style>
     <div class="container">
-      <table class="table table-borderless" id="tinytable_q6fib5hw0vb6ahy5t5nu" style="width: auto; margin-left: auto; margin-right: auto;" data-quarto-disable-processing="true">
+      <table class="table table-borderless" id="tinytable_89ifnikrsa3jc38w6lkg" style="width: auto; margin-left: auto; margin-right: auto;" data-quarto-disable-processing="true">
         <thead>
         
               <tr>
@@ -1560,28 +1560,28 @@ Figure 1: Example and immagese from <a href="https://theeffectbook.net/index.ht
         <tfoot><tr><td colspan="2">* p &lt; 0.1, ** p &lt; 0.05, *** p &lt; 0.01</td></tr></tfoot>
         <tbody>
                 <tr>
-                  <td>(Intercept)         </td>
-                  <td>0.000   </td>
+                  <td>(Intercept)</td>
+                  <td>-0.000</td>
                 </tr>
                 <tr>
-                  <td>                    </td>
-                  <td>(0.123) </td>
+                  <td></td>
+                  <td>(0.123)</td>
                 </tr>
                 <tr>
                   <td>log_GDPperCap_within</td>
                   <td>9.769***</td>
                 </tr>
                 <tr>
-                  <td>                    </td>
-                  <td>(0.284) </td>
+                  <td></td>
+                  <td>(0.284)</td>
                 </tr>
                 <tr>
-                  <td>Num. Obs.           </td>
-                  <td>1704    </td>
+                  <td>Num. Obs.</td>
+                  <td>1704</td>
                 </tr>
                 <tr>
-                  <td>R2                  </td>
-                  <td>0.410   </td>
+                  <td>R2</td>
+                  <td>0.410</td>
                 </tr>
         </tbody>
       </table>
@@ -1618,8 +1618,8 @@ Figure 1: Example and immagese from <a href="https://theeffectbook.net/index.ht
 
     <script>
 
-      function styleCell_7rx6exoo53zrhkz2lm9i(i, j, css_id) {
-          var table = document.getElementById("tinytable_7rx6exoo53zrhkz2lm9i");
+      function styleCell_rc4yv2jwj8gmsbdoay3z(i, j, css_id) {
+          var table = document.getElementById("tinytable_rc4yv2jwj8gmsbdoay3z");
           var cell = table.rows[i]?.cells[j];  // Safe navigation to avoid errors
           if (cell) {
               console.log(`Styling cell at (${i}, ${j}) with class ${css_id}`);
@@ -1629,7 +1629,7 @@ Figure 1: Example and immagese from <a href="https://theeffectbook.net/index.ht
           }
       }
       function insertSpanRow(i, colspan, content) {
-        var table = document.getElementById('tinytable_7rx6exoo53zrhkz2lm9i');
+        var table = document.getElementById('tinytable_rc4yv2jwj8gmsbdoay3z');
         var newRow = table.insertRow(i);
         var newCell = newRow.insertCell(0);
         newCell.setAttribute("colspan", colspan);
@@ -1637,8 +1637,8 @@ Figure 1: Example and immagese from <a href="https://theeffectbook.net/index.ht
         // this may be unsafe, but innerText does not interpret <br>
         newCell.innerHTML = content;
       }
-      function spanCell_7rx6exoo53zrhkz2lm9i(i, j, rowspan, colspan) {
-        var table = document.getElementById("tinytable_7rx6exoo53zrhkz2lm9i");
+      function spanCell_rc4yv2jwj8gmsbdoay3z(i, j, rowspan, colspan) {
+        var table = document.getElementById("tinytable_rc4yv2jwj8gmsbdoay3z");
         const targetRow = table.rows[i];
         const targetCell = targetRow.cells[j];
         for (let r = 0; r < rowspan; r++) {
@@ -1668,20 +1668,20 @@ Figure 1: Example and immagese from <a href="https://theeffectbook.net/index.ht
       window.addEventListener('load', function () {
           var cellsToStyle = [
             // tinytable style arrays after
-          { positions: [ { i: 2, j: 0 },  ], css_id: 'tinytable_css_z1ipyi3h1xpepb1k07yq',}, 
-          { positions: [ { i: 4, j: 0 },  ], css_id: 'tinytable_css_ypaejiydtxj8zp91wtps',}, 
-          { positions: [ { i: 0, j: 1 }, { i: 0, j: 2 },  ], css_id: 'tinytable_css_xs8z05v7kw7j4w1hqvmr',}, 
-          { positions: [ { i: 1, j: 2 }, { i: 3, j: 1 }, { i: 3, j: 2 }, { i: 1, j: 1 },  ], css_id: 'tinytable_css_wsrz9465fbo7569f8ket',}, 
-          { positions: [ { i: 4, j: 1 }, { i: 4, j: 2 },  ], css_id: 'tinytable_css_tiqtx6pjhw7ar1tdudxk',}, 
-          { positions: [ { i: 2, j: 1 }, { i: 2, j: 2 },  ], css_id: 'tinytable_css_t0moigs55wz8dtc6cgo7',}, 
-          { positions: [ { i: 0, j: 0 },  ], css_id: 'tinytable_css_m2j5hxe91lww1zv33cd4',}, 
-          { positions: [ { i: 1, j: 0 }, { i: 3, j: 0 },  ], css_id: 'tinytable_css_9s0kplc62w810jdds8im',}, 
+          { positions: [ { i: 1, j: 2 }, { i: 3, j: 1 }, { i: 3, j: 2 }, { i: 1, j: 1 },  ], css_id: 'tinytable_css_t37zij3g0rz9nxzm3g65',}, 
+          { positions: [ { i: 0, j: 0 },  ], css_id: 'tinytable_css_nj7h4rbr10dpza25wly1',}, 
+          { positions: [ { i: 1, j: 0 }, { i: 3, j: 0 },  ], css_id: 'tinytable_css_mybnxkrkbua5tne4lrp1',}, 
+          { positions: [ { i: 0, j: 1 }, { i: 0, j: 2 },  ], css_id: 'tinytable_css_lla4l9y9el392g6ifosd',}, 
+          { positions: [ { i: 2, j: 1 }, { i: 2, j: 2 },  ], css_id: 'tinytable_css_4wi1e2zxa1zwc58cb9bj',}, 
+          { positions: [ { i: 4, j: 1 }, { i: 4, j: 2 },  ], css_id: 'tinytable_css_3o8qzrcsw68g8hum5jsv',}, 
+          { positions: [ { i: 2, j: 0 },  ], css_id: 'tinytable_css_2upe336t87l69b1qawjz',}, 
+          { positions: [ { i: 4, j: 0 },  ], css_id: 'tinytable_css_251j0zsvhdghbrfv6c5s',}, 
           ];
 
           // Loop over the arrays to style the cells
           cellsToStyle.forEach(function (group) {
               group.positions.forEach(function (cell) {
-                  styleCell_7rx6exoo53zrhkz2lm9i(cell.i, cell.j, group.css_id);
+                  styleCell_rc4yv2jwj8gmsbdoay3z(cell.i, cell.j, group.css_id);
               });
           });
       });
@@ -1689,17 +1689,17 @@ Figure 1: Example and immagese from <a href="https://theeffectbook.net/index.ht
 
     <style>
 
-.table td.tinytable_css_z1ipyi3h1xpepb1k07yq, .table th.tinytable_css_z1ipyi3h1xpepb1k07yq { text-align: left; border-bottom: solid black 0.05em; }
-.table td.tinytable_css_ypaejiydtxj8zp91wtps, .table th.tinytable_css_ypaejiydtxj8zp91wtps { text-align: left; border-bottom: solid #d3d8dc 0.1em; }
-.table td.tinytable_css_xs8z05v7kw7j4w1hqvmr, .table th.tinytable_css_xs8z05v7kw7j4w1hqvmr { text-align: center; border-top: solid #d3d8dc 0.1em; border-bottom: solid #d3d8dc 0.05em; }
-.table td.tinytable_css_wsrz9465fbo7569f8ket, .table th.tinytable_css_wsrz9465fbo7569f8ket { text-align: center; }
-.table td.tinytable_css_tiqtx6pjhw7ar1tdudxk, .table th.tinytable_css_tiqtx6pjhw7ar1tdudxk { text-align: center; border-bottom: solid #d3d8dc 0.1em; }
-.table td.tinytable_css_t0moigs55wz8dtc6cgo7, .table th.tinytable_css_t0moigs55wz8dtc6cgo7 { text-align: center; border-bottom: solid black 0.05em; }
-.table td.tinytable_css_m2j5hxe91lww1zv33cd4, .table th.tinytable_css_m2j5hxe91lww1zv33cd4 { text-align: left; border-top: solid #d3d8dc 0.1em; border-bottom: solid #d3d8dc 0.05em; }
-.table td.tinytable_css_9s0kplc62w810jdds8im, .table th.tinytable_css_9s0kplc62w810jdds8im { text-align: left; }
+.table td.tinytable_css_t37zij3g0rz9nxzm3g65, .table th.tinytable_css_t37zij3g0rz9nxzm3g65 { text-align: center; }
+.table td.tinytable_css_nj7h4rbr10dpza25wly1, .table th.tinytable_css_nj7h4rbr10dpza25wly1 { text-align: left; border-top: solid #d3d8dc 0.1em; border-bottom: solid #d3d8dc 0.05em; }
+.table td.tinytable_css_mybnxkrkbua5tne4lrp1, .table th.tinytable_css_mybnxkrkbua5tne4lrp1 { text-align: left; }
+.table td.tinytable_css_lla4l9y9el392g6ifosd, .table th.tinytable_css_lla4l9y9el392g6ifosd { text-align: center; border-top: solid #d3d8dc 0.1em; border-bottom: solid #d3d8dc 0.05em; }
+.table td.tinytable_css_4wi1e2zxa1zwc58cb9bj, .table th.tinytable_css_4wi1e2zxa1zwc58cb9bj { text-align: center; border-bottom: solid black 0.05em; }
+.table td.tinytable_css_3o8qzrcsw68g8hum5jsv, .table th.tinytable_css_3o8qzrcsw68g8hum5jsv { text-align: center; border-bottom: solid #d3d8dc 0.1em; }
+.table td.tinytable_css_2upe336t87l69b1qawjz, .table th.tinytable_css_2upe336t87l69b1qawjz { text-align: left; border-bottom: solid black 0.05em; }
+.table td.tinytable_css_251j0zsvhdghbrfv6c5s, .table th.tinytable_css_251j0zsvhdghbrfv6c5s { text-align: left; border-bottom: solid #d3d8dc 0.1em; }
 </style>
     <div class="container">
-      <table class="table table-borderless" id="tinytable_7rx6exoo53zrhkz2lm9i" style="width: auto; margin-left: auto; margin-right: auto;" data-quarto-disable-processing="true">
+      <table class="table table-borderless" id="tinytable_rc4yv2jwj8gmsbdoay3z" style="width: auto; margin-left: auto; margin-right: auto;" data-quarto-disable-processing="true">
         <thead>
         
               <tr>
@@ -1716,19 +1716,19 @@ Figure 1: Example and immagese from <a href="https://theeffectbook.net/index.ht
                   <td>9.769***</td>
                 </tr>
                 <tr>
-                  <td>                  </td>
-                  <td>(0.284) </td>
-                  <td>(0.297) </td>
+                  <td></td>
+                  <td>(0.284)</td>
+                  <td>(0.297)</td>
                 </tr>
                 <tr>
-                  <td>Num. Obs.         </td>
-                  <td>1704    </td>
-                  <td>1704    </td>
+                  <td>Num. Obs.</td>
+                  <td>1704</td>
+                  <td>1704</td>
                 </tr>
                 <tr>
-                  <td>R2                </td>
-                  <td>0.410   </td>
-                  <td>0.846   </td>
+                  <td>R2</td>
+                  <td>0.410</td>
+                  <td>0.846</td>
                 </tr>
         </tbody>
       </table>
@@ -1812,18 +1812,12 @@ Figure 1: Example and immagese from <a href="https://theeffectbook.net/index.ht
 <section id="multiple-fixed-effects" class="slide level2">
 <h2>Multiple Fixed Effects</h2>
 <ul>
-<li><p>When including individual fixed effects you compare each individual to themselves.</p></li>
-<li><p>If we observe individuals over time we can include multiple fixed effects in the model. E.g.:</p>
+<li>If we observe individuals over time we can include multiple fixed effects in the model. E.g.:
 <ul>
-<li>Individual fixed effects</li>
-<li>Time fixed effects</li>
+<li>Individual fixed effects -&gt; variation within individual</li>
+<li>Time fixed effects -&gt; variation within year</li>
 </ul></li>
-<li><p>This is called a <strong>two-way fixed effects</strong> model: <span class="math display">\[ Y_{it} = \delta D_{it} + u_i + \lambda_t + \eta_{it} \]</span></p></li>
-<li><p>In this model we account for:</p>
-<ul>
-<li>variation within individual</li>
-<li>variation within year</li>
-</ul></li>
+<li>This is called a <strong>two-way fixed effects</strong> model: <span class="math display">\[ Y_{it} = \delta D_{it} + u_i + \lambda_t + \eta_{it} \]</span></li>
 </ul>
 <p>What’s the variatiion left?</p>
 </section>
