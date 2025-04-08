@@ -40,7 +40,7 @@ Using administrative data covering the universe of student enrollments in public
 <p> </p>
 
 9) <img src="https://jacopoto.github.io/assets/img/jei.jpg" width="120">{: .image-left}**[Immigrant Key Workers: Their Contribution to Europe's COVID-19 Response](https://jacopoto.github.io/assets/dp16884.pdf){:target="_blank"}**, *Journal of Economic Inequality*, (Forthcoming). \
-(joint with [Francesco Fasani](https://sites.google.com/site/fasani2010/){:target="_blank"}) \  
+(joint with [Francesco Fasani](https://sites.google.com/site/fasani2010/){:target="_blank"}) \ 
 [Download bibtex citation](https://jacopoto.github.io/assets/bibtex_cite/fs_jei.bib){:.button}
 
 <details>
