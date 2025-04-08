@@ -15,20 +15,13 @@ permalink: /research/
     </style>
 
 
+<!--
 ## Research
 ### Working Papers
 <p> </p>
-**[Immigrant Key Workers: Their Contribution to Europe's COVID-19 Response](https://jacopoto.github.io/assets/dp16884.pdf){:target="_blank"}** \
-IZA DP No. 16884. \
-(joint with [Francesco Fasani](https://sites.google.com/site/fasani2010/){:target="_blank"}) - R&R at *Journal of Economic Inequality*
-
-<details>
-  <summary>Abstract</summary>
-This paper contributes to the literature on the Covid-19 effects on workers and labor markets by focusing on the experience of migrant key workers in EU countries. Our analysis, based on survey data on more than 3 million workers, explores three main aspects. First, we document the over-representation of migrant workers in key occupations, particularly in low-qualified roles. Second, we examine the selection into key occupations. According to our estimates, women are more likely to be key workers, the relationship with education is V-shaped, and EU and Extra EU migrants are, respectively, 12 and 15 percent more likely to be key workers than comparable natives. Finally, we estimate the impact of Covid-19 on the labor market, showing that migrant key workers had to extend their working hours during the pandemic and, nevertheless, faced a 2-3 times higher probability of being laid off relative to natives. Our findings imply that migrant workers played a crucial role in the response to the pandemic, but endured a harsher fate than native workers.
-</details>
 <p> </p>
-
 <hr style="border:.25px solid grey">
+-->
 
 ### Work in Progress
 <p> </p>
@@ -45,6 +38,10 @@ Using administrative data covering the universe of student enrollments in public
 
 ### Journal Publications
 <p> </p>
+
+9) <img src="https://jacopoto.github.io/assets/img/jei.jpg" width="120">{: .image-left}**[Immigrant Key Workers: Their Contribution to Europe's COVID-19 Response](https://jacopoto.github.io/assets/dp16884.pdf){:target="_blank"}**, *Journal of Economic Inequality*, (Forthcoming)). \
+(joint with [Francesco Fasani](https://sites.google.com/site/fasani2010/){:target="_blank"}) \  
+[Download bibtex citation](https://jacopoto.github.io/assets/bibtex_cite/fs_jei.bib){:.button}
 
 8) <img src="https://jacopoto.github.io/assets/img/emp_econ.jpg" width="120">{: .image-left}**[Educational Choice, Initial Wage and Wage Growth](https://jacopoto.github.io/assets/Major_choice_EmpEcon.pdf){:target="_blank"}**, *Empirical Economics*, (2024), vol. 67, pp. 1235-1274. \
 (joint with [Hans van Ophem](https://www.uva.nl/en/profile/o/p/j.c.m.vanophem/j.c.m.van-ophem.html){:target="_blank"}) \
