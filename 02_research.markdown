@@ -43,6 +43,12 @@ Using administrative data covering the universe of student enrollments in public
 (joint with [Francesco Fasani](https://sites.google.com/site/fasani2010/){:target="_blank"}) \  
 [Download bibtex citation](https://jacopoto.github.io/assets/bibtex_cite/fs_jei.bib){:.button}
 
+<details>
+  <summary>Abstract</summary>
+This paper contributes to the literature on the unequal effects of Covid-19 on workers and labor markets by focusing on the experience of migrant key workers in EU countries. Using survey data on over 2.7 million workers, our analysis explores three main dimensions. First, we document the over-representation of migrant workers in key occupations, particularly in low-qualified roles. Second, we examine the selection into key occupations. According to our estimates, women are more likely to be key workers, the relationship with education is V-shaped, and EU and Extra EU migrants are, respectively, 12 and 15 percent more likely than comparable natives to be key workers. Migrant women almost entirely drive these latter gaps. Finally, we estimate the labor market impact of Covid-19, showing that migrant key workers endured reductions in working hours similar to those of natives during the pandemic, but faced a 3 times higher increase in job loss probability. Our findings imply that although migrant workers played a crucial role in the response to the pandemic, they endured a harsher fate than native workers. 
+
+</details>
+
 8) <img src="https://jacopoto.github.io/assets/img/emp_econ.jpg" width="120">{: .image-left}**[Educational Choice, Initial Wage and Wage Growth](https://jacopoto.github.io/assets/Major_choice_EmpEcon.pdf){:target="_blank"}**, *Empirical Economics*, (2024), vol. 67, pp. 1235-1274. \
 (joint with [Hans van Ophem](https://www.uva.nl/en/profile/o/p/j.c.m.vanophem/j.c.m.van-ophem.html){:target="_blank"}) \
 [Link to published version](https://link.springer.com/article/10.1007/s00181-024-02580-5){: .button}{:target="_blank"}
