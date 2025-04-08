@@ -49,6 +49,8 @@ This paper contributes to the literature on the unequal effects of Covid-19 on w
 
 </details>
 
+<p> </p>
+
 8) <img src="https://jacopoto.github.io/assets/img/emp_econ.jpg" width="120">{: .image-left}**[Educational Choice, Initial Wage and Wage Growth](https://jacopoto.github.io/assets/Major_choice_EmpEcon.pdf){:target="_blank"}**, *Empirical Economics*, (2024), vol. 67, pp. 1235-1274. \
 (joint with [Hans van Ophem](https://www.uva.nl/en/profile/o/p/j.c.m.vanophem/j.c.m.van-ophem.html){:target="_blank"}) \
 [Link to published version](https://link.springer.com/article/10.1007/s00181-024-02580-5){: .button}{:target="_blank"}
