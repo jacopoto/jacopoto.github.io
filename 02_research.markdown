@@ -17,11 +17,31 @@ permalink: /research/
 
 <!--
 ## Research
+-->
 ### Working Papers
 <p> </p>
+2) **[Unpacking the Countercyclicality of Post-Secondary Enrollment in the United States](https://www.cerge.cuni.cz/pdf/wp/Wp795.pdf){:target="_blank"}** \
+(joint with [Alena Bicáková](http://home.cerge-ei.cz/Alena/){:target="_blank"}, [Matias Cortes](https://www.sites.google.com/site/gmatiascortes/home){:target="_blank"}, [Kelly Foley](https://www.kellyfoley.org/){:target="_blank"} and [Peter McHenry](https://www.wm.edu/as/economics/faculty-directory/mchenry_p.php){:target="_blank"})
+<details>
+  <summary>Abstract</summary>
+
+Using data from the Current Population Survey’s Education Supplement for 1977-2023, we explore two important, yet understudied facets of the pattern of countercyclical post-secondary education (PSE) enrollment in the U.S. First, we show that economic downturns are associated with higher enrollment probabilities at both 2- and 4-year colleges among young men, but only at 2-year institutions among young women. Second, we show that the overall increase in enrollment propensities during downturns is primarily driven by persistence
+(i.e., changes in enrollment among individuals with prior PSE participation), rather than matriculation (i.e., new enrollments). However, higher unemployment rates increase matriculation probabilities at 2-year colleges among 18-year-old men and women, and at 4-year colleges among individuals in their early 20s. Our findings improve our understanding of the dimensions along which aggregate economic fluctuations induce changes in human capital acquisition.
+</details>
 <p> </p>
+
+1) **[Unequal Starts, Diverging Paths: The Role of Education and Risk in Wage Dynamics](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5193539){:target="_blank"}** \
+(joint with [Hans van Ophem](https://www.uva.nl/en/profile/o/p/j.c.m.vanophem/j.c.m.van-ophem.html){:target="_blank"}) \
+<details>
+  <summary>Abstract</summary>
+
+Wages differ considerably across educational levels and sexes. To what extent can these differences be attributed to differences in the initial or starting wage and differences in wage growth? To investigate this, we build a model that allows for the endogeneity of schooling in both the initial wage and wage growth. We aim to introduce as few assumptions as possible, and in particular, we avoid making distributional assumptions. Our empirical analysis of the NLSY79 survey reveals that wage growth follows economic theory: wages grow in time but at a diminishing rate, and there is a negative relation between initial wages and wage growth for each educational level. Highereducated individuals get a better initial wage and experience stronger wage growth. The difference in wage growth between sexes is significant at higher educational levels: women experience about 45% less wage growth than comparable men. At the highest level of education, the starting salary of women is more than 10 % higher than that of men, while at lower levels of education, women start earning 15-20% less. After estimating the schooling level choice, we can distinguish observed and potential wage inequality, risk, and unobserved heterogeneity. Unobserved heterogeneity appears to be irrelevant. 
+</details>
+
+<p> </p>
+
 <hr style="border:.25px solid grey">
--->
+
 
 ### Work in Progress
 <p> </p>
@@ -39,8 +59,9 @@ Using administrative data covering the universe of student enrollments in public
 ### Journal Publications
 <p> </p>
 
-9) <img src="https://jacopoto.github.io/assets/img/jei.jpg" width="120">{: .image-left}**[Immigrant Key Workers: Their Contribution to Europe's COVID-19 Response](https://jacopoto.github.io/assets/dp16884.pdf){:target="_blank"}**, *Journal of Economic Inequality*, (Forthcoming). \
+9) <img src="https://jacopoto.github.io/assets/img/jei.jpg" width="120">{: .image-left}**[Immigrant Key Workers: Their Contribution to Europe's COVID-19 Response](https://link.springer.com/article/10.1007/s10888-025-09674-9){:target="_blank"}**, *Journal of Economic Inequality*, (2025). \
 (joint with [Francesco Fasani](https://sites.google.com/site/fasani2010/){:target="_blank"}) \
+**Open Access** \
 [Download bibtex citation](https://jacopoto.github.io/assets/bibtex_cite/fs_jei.bib){:.button}
 
 <details>
