@@ -1,0 +1,135 @@
+#top .site-header{
+  // background: #002147;
+  // border-top-color: #fff;
+  // .site-title{
+  //   color: #FFF;
+  // }
+  // .page-link{
+  //   color: #FFF;
+  // }
+  @media screen and (max-width: 500px) {
+    .site-nav{
+      cursor: pointer;
+    }
+  }
+  .site-nav .nav-list li{
+    transition: opacity 0.2s;
+    opacity: 0.4;
+    border-bottom-color: transparent !important;
+    &:hover{
+      opacity: 1;
+    }
+  }
+  .site-title{
+    transition: opacity 0.2s;
+    opacity: 0.4;
+    border-bottom-color: transparent !important;
+    &:hover{
+      opacity: 1;
+    }
+  }
+  .wrapper{
+    max-width: none;
+  }
+}
+
+#top .page-content .wrapper{
+  max-width: 850px;
+}
+
+#top .site-footer{
+  .wrapper{
+    max-width: none;
+  }
+  .contact-list{
+    text-align: right;
+  }
+}
+
+#top .post-title{
+  display: none;
+}
+
+#top .author-description{
+  h3{
+    margin-top:0;
+  }
+
+  @include media-query($on-palm){
+    text-align:center;
+  }
+}
+
+strong{
+  font-weight: 700;
+}
+
+#top .button{
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  height: 1.5em;
+  font-size: 14px;
+  padding-left: 20px;
+  padding-right: 20px;
+  background-color: $brand-color;
+  color: #fff;
+  &:hover{
+    text-decoration: none;
+    opacity: 0.7;
+  }
+}
+
+ /* Popup container */
+.popup {
+  position: relative;
+  display: inline-block;
+  cursor: pointer;
+}
+
+/* The actual popup (appears on top) */
+.popup .popuptext {
+  visibility: hidden;
+  width: 160px;
+  background-color: #555;
+  color: #fff;
+  text-align: center;
+  border-radius: 6px;
+  padding: 8px 0;
+  position: absolute;
+  z-index: 1;
+  bottom: 125%;
+  left: 50%;
+  margin-left: -80px;
+}
+
+/* Popup arrow */
+.popup .popuptext::after {
+  content: "";
+  position: absolute;
+  top: 100%;
+  left: 50%;
+  margin-left: -5px;
+  border-width: 5px;
+  border-style: solid;
+  border-color: #555 transparent transparent transparent;
+}
+
+/* Toggle this class when clicking on the popup container (hide and show the popup) */
+.popup .show {
+  visibility: visible;
+  -webkit-animation: fadeIn 1s;
+  animation: fadeIn 1s
+}
+
+/* Add animation (fade in the popup) */
+@-webkit-keyframes fadeIn {
+  from {opacity: 0;}
+  to {opacity: 1;}
+}
+
+@keyframes fadeIn {
+  from {opacity: 0;}
+  to {opacity:1 ;}
+} 
+
