@@ -21,7 +21,8 @@ permalink: /research/
 ### Working Papers
 <p> </p>
 2) **[Unpacking the Countercyclicality of Post-Secondary Enrollment in the United States](https://www.cerge.cuni.cz/pdf/wp/Wp795.pdf){:target="_blank"}** \
-(joint with [Alena Bicáková](http://home.cerge-ei.cz/Alena/){:target="_blank"}, [Matias Cortes](https://www.sites.google.com/site/gmatiascortes/home){:target="_blank"}, [Kelly Foley](https://www.kellyfoley.org/){:target="_blank"} and [Peter McHenry](https://www.wm.edu/as/economics/faculty-directory/mchenry_p.php){:target="_blank"})
+(joint with [Alena Bicáková](http://home.cerge-ei.cz/Alena/){:target="_blank"}, [Matias Cortes](https://www.sites.google.com/site/gmatiascortes/home){:target="_blank"}, [Kelly Foley](https://www.kellyfoley.org/){:target="_blank"} and [Peter McHenry](https://www.wm.edu/as/economics/faculty-directory/mchenry_p.php){:target="_blank"}) \
+[IZA DP No. 18244](https://www.iza.org/publications/dp/18244/unpacking-the-countercyclicality-of-post-secondary-enrollment-in-the-united-states){: .button}{:target="_blank"}
 <details>
   <summary>Abstract</summary>
 
@@ -31,7 +32,7 @@ Using data from the Current Population Survey’s Education Supplement for 1977-
 <p> </p>
 
 1) **[Unequal Starts, Diverging Paths: The Role of Education and Risk in Wage Dynamics](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5193539){:target="_blank"}** \
-(joint with [Hans van Ophem](https://www.uva.nl/en/profile/o/p/j.c.m.vanophem/j.c.m.van-ophem.html){:target="_blank"}) \
+(joint with [Hans van Ophem](https://www.uva.nl/en/profile/o/p/j.c.m.vanophem/j.c.m.van-ophem.html){:target="_blank"}) 
 <details>
   <summary>Abstract</summary>
 
