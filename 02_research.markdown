@@ -21,8 +21,8 @@ permalink: /research/
 ### Working Papers
 <p> </p>
 
-3) **[Impressions for a Lifetime: Youth Exposure to Immigration and Anti-immigrant Sentiment in Germany]** \
-(joint with [Mariapia Mendola](https://sites.google.com/site/mariapiamendola/){:target="_blank"} and [Marco Scipioni]) 
+3) **Impressions for a Lifetime: Youth Exposure to Immigration and Anti-immigrant Sentiment in Germany** \
+(joint with [Mariapia Mendola](https://sites.google.com/site/mariapiamendola/){:target="_blank"} and Marco Scipioni) 
 <details>
   <summary>Abstract</summary>
 
@@ -31,8 +31,7 @@ We examine the impact of exposure to immigrants during formative years on attitu
 <p> </p>
 
 2) **[Unpacking the Countercyclicality of Post-Secondary Enrollment in the United States](https://www.cerge.cuni.cz/pdf/wp/Wp795.pdf){:target="_blank"}** \
-(joint with [Alena Bicáková](http://home.cerge-ei.cz/Alena/){:target="_blank"}, [Matias Cortes](https://www.sites.google.com/site/gmatiascortes/home){:target="_blank"}, [Kelly Foley](https://www.kellyfoley.org/){:target="_blank"} and [Peter McHenry](https://www.wm.edu/as/economics/faculty-directory/mchenry_p.php){:target="_blank"}) \
-(**R&R at:** * Economics of Education Review*)
+(joint with [Alena Bicáková](http://home.cerge-ei.cz/Alena/){:target="_blank"}, [Matias Cortes](https://www.sites.google.com/site/gmatiascortes/home){:target="_blank"}, [Kelly Foley](https://www.kellyfoley.org/){:target="_blank"} and [Peter McHenry](https://www.wm.edu/as/economics/faculty-directory/mchenry_p.php){:target="_blank"}) (**R&R at:** *Economics of Education Review*) \
 [IZA DP No. 18244](https://www.iza.org/publications/dp/18244/unpacking-the-countercyclicality-of-post-secondary-enrollment-in-the-united-states){: .button}{:target="_blank"}
 <details> 
   <summary>Abstract</summary>
