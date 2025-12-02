@@ -20,10 +20,19 @@ permalink: /research/
 -->
 ### Working Papers
 <p> </p>
+3) **[Impressions for a Lifetime: Youth Exposure to Immigration and Anti-immigrant Sentiment in Germany]** \
+(joint with [Mariapia Mendola](https://sites.google.com/site/mariapiamendola/){:target="_blank"} and [Marco Scipioni]) \
+<p> </p>
+  <summary>Abstract</summary>
+
+We examine the impact of exposure to immigrants during formative years on attitudes toward immigration later on in life. Our research design combines granular administrative data on immigrant shares in Germany with unique longitudinal individual-level data on immigration sentiments. Using panel fixed-effect estimates, identification leverages both spatial variation at critical ages and time variation induced by birth cohorts. We find that individuals exposed to higher shares of immigrants in formative years exhibit more negative attitudes toward immigration in adulthood. The impact is small in magnitude but specific to critical age and robust to contemporaneous immigration exposure. Our findings suggest that early and unmediated exposure to a diverse social and ethnic environment may have long-lasting consequences for the formation of immigration preferences.
+</details>
+<p> </p>
+
 2) **[Unpacking the Countercyclicality of Post-Secondary Enrollment in the United States](https://www.cerge.cuni.cz/pdf/wp/Wp795.pdf){:target="_blank"}** \
 (joint with [Alena Bicáková](http://home.cerge-ei.cz/Alena/){:target="_blank"}, [Matias Cortes](https://www.sites.google.com/site/gmatiascortes/home){:target="_blank"}, [Kelly Foley](https://www.kellyfoley.org/){:target="_blank"} and [Peter McHenry](https://www.wm.edu/as/economics/faculty-directory/mchenry_p.php){:target="_blank"}) \
 [IZA DP No. 18244](https://www.iza.org/publications/dp/18244/unpacking-the-countercyclicality-of-post-secondary-enrollment-in-the-united-states){: .button}{:target="_blank"}
-<details>
+<details> (**R&R at:** * Economics of Education Review*)
   <summary>Abstract</summary>
 
 Using data from the Current Population Survey’s Education Supplement for 1977-2023, we explore two important, yet understudied facets of the pattern of countercyclical post-secondary education (PSE) enrollment in the U.S. First, we show that economic downturns are associated with higher enrollment probabilities at both 2- and 4-year colleges among young men, but only at 2-year institutions among young women. Second, we show that the overall increase in enrollment propensities during downturns is primarily driven by persistence
