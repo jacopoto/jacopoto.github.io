@@ -20,9 +20,10 @@ permalink: /research/
 -->
 ### Working Papers
 <p> </p>
+
 3) **[Impressions for a Lifetime: Youth Exposure to Immigration and Anti-immigrant Sentiment in Germany]** \
 (joint with [Mariapia Mendola](https://sites.google.com/site/mariapiamendola/){:target="_blank"} and [Marco Scipioni]) \
-<p> </p>
+
   <summary>Abstract</summary>
 
 We examine the impact of exposure to immigrants during formative years on attitudes toward immigration later on in life. Our research design combines granular administrative data on immigrant shares in Germany with unique longitudinal individual-level data on immigration sentiments. Using panel fixed-effect estimates, identification leverages both spatial variation at critical ages and time variation induced by birth cohorts. We find that individuals exposed to higher shares of immigrants in formative years exhibit more negative attitudes toward immigration in adulthood. The impact is small in magnitude but specific to critical age and robust to contemporaneous immigration exposure. Our findings suggest that early and unmediated exposure to a diverse social and ethnic environment may have long-lasting consequences for the formation of immigration preferences.
