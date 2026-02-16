@@ -12,14 +12,10 @@ format:
         navigation: horizontal
         footer: <https://jacopoto.github.io/>
         preview-links: auto
+        embed-resources: true
 
 logo: uu-use-yellow.png
 css: logo.css
-
-output:
-  quarto::quarto_html:
-    embed-resources: true
-    toc: false
 
 title-slide-attributes:
     data-background-image: "./4578.jpg"
