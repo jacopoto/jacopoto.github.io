@@ -22,7 +22,7 @@ permalink: /research/
 <p> </p>
 
 3) **Impressions for a Lifetime: Youth Exposure to Immigration and Anti-immigrant Sentiment in Germany** \
-(joint with [Mariapia Mendola](https://sites.google.com/site/mariapiamendola/){:target="_blank"} and Marco Scipioni) 
+(joint with [Mariapia Mendola](https://sites.google.com/site/mariapiamendola/){:target="_blank"} and Marco Scipioni) (**R&R at:** *Journal of Demographic Economics*) \
 <details>
   <summary>Abstract</summary>
 
