@@ -10,8 +10,8 @@ permalink: /outreach/
 ### Selected Policy Reports
 <p> </p>
 
-- **[A Vulnerable Workforce: Migrant Workers in the
-COVID-19 Pandemic](https://jacopoto.github.io/jacopomazza.com/covid_vulnerability.pdf){:target="_blank"}**, (2020) European Commission, JRC - EUR 30225. \
+- **A Vulnerable Workforce: Migrant Workers in the
+COVID-19 Pandemic**, (2020) European Commission, JRC - EUR 30225. \
 (joint with [Francesco Fasani](https://sites.google.com/site/fasani2010/){:target="_blank"}). \
 *Media Coverage:* OpenMigration
 
@@ -22,7 +22,7 @@ COVID-19 Pandemic](https://jacopoto.github.io/jacopomazza.com/covid_vulnerabilit
   </details>
   <p> </p>
 
-- **[Immigrant Key Workers: Their Contribution to Europe's COVID-19 Response](https://jacopoto.github.io/jacopomazza.com/covid_key_workers.pdf){:target="_blank"}** \
+- **Immigrant Key Workers: Their Contribution to Europe's COVID-19 Response** \
 (joint with [Francesco Fasani](https://sites.google.com/site/fasani2010/){:target="_blank"}). \
 Working paper version: [IZA](https://www.iza.org/publications/pp/155/immigrant-key-workers-their-contribution-to-europes-covid-19-response){:target="_blank"}; [JRC](https://knowledge4policy.ec.europa.eu/publication/immigrant-key-workers-their-contribution-europes-covid-19-response_en){:target="_blank"}. \
 *Media Coverage:* OpenMigration; La Libre (in French); The Guardian; Corriere Della Sera (in Italian); Brookings.edu; European Business Review; fanpage.it (in Italian); [Newsweek](https://www.newsweek.com/covid-vulnerable-groups-dealt-setback-vaccine-europe-largely-halts-johnson-johnson-shot-1583639){:target="_blank"}. \

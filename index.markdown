@@ -15,4 +15,4 @@ I am mostly interested in issues related to migration and the economics of educa
 
 Before joining Utrecht University I was a Lecturer in Economics at the Universities of Manchester and Essex, and a Scientific Officer with the European Commission - Joint Research Centre.
 
- If you are interested in my research, feel free to reach out via [email](mailto:jacmazza@gmail.com) or [twitter](https://twitter.com/JacopoMazza){:target="_blank"}.
+ If you are interested in my research, feel free to reach out via [email](mailto:j.mazza@uu.nl) or [X](https://twitter.com/JacopoMazza){:target="_blank"}.

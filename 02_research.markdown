@@ -22,7 +22,7 @@ permalink: /research/
 <p> </p>
 
 3) **Impressions for a Lifetime: Youth Exposure to Immigration and Anti-immigrant Sentiment in Germany** \
-(joint with [Mariapia Mendola](https://sites.google.com/site/mariapiamendola/){:target="_blank"} and Marco Scipioni) (**R&R at:** *Journal of Demographic Economics*) \
+(joint with [Mariapia Mendola](https://sites.google.com/site/mariapiamendola/){:target="_blank"} and Marco Scipioni) (**R&R at:** *Journal of Demographic Economics*)
 <details>
   <summary>Abstract</summary>
 
@@ -104,11 +104,11 @@ models show a strong correlation between salary trends and major choice, whereas
 [Download replication package](https:\\jacopoto.github.io\assets\replication_pkg\frontline_ilrr.rar){:.button}
 [Download bibtex citation](https://jacopoto.github.io/assets/bibtex_cite/fs_ilrr.bib){:.button}
 
-*Media Covearge*: [Le Temps](https://www.letemps.ch/economie/chomage-menace-9-millions-dimmigres-europe){:target="_blank"} (In French);
+*Media Coverage*: [Le Temps](https://www.letemps.ch/economie/chomage-menace-9-millions-dimmigres-europe){:target="_blank"} (In French);
 <details>
   <summary>Abstract</summary>
 
-We provide the first systematic assessment of the impact of COVID-19 on the labor market for immigrant workers in Europe. In 2020, we estimate that extra-EU migrants were twice as likely to experience employment loss relative to comparable natives, while this probability was 1.6 times higher for EU migrants. To understand the determinants of these large gaps, we focus on three job characteristics - \textit{essentiality}, \textit{temporariness}, and \textit{teleworkability} - and document that migrants were overrepresented among essential, temporary, and low teleworkable occupations at the onset of the pandemic. We estimate that prepandemic occupational sorting accounts for 25-35\% of the explained native-migrant gaps in the risk of employment termination while sorting into industries accounts for the rest of the explained part. Yet, more than half of the migrant-native gap in job separation probability remains unexplained, even when controlling for occupational characteristics and industry fixed effects. According to our estimates, migrants face a disproportionately large penalty for being employed in low-teleworkable occupations. Although major employment losses were averted thanks to the massive use of short-time work programs in Europe, migrant workers and extra-EU migrants, in particular, still suffered from high economic vulnerability during the pandemic. 
+We provide the first systematic assessment of the impact of COVID-19 on the labor market for immigrant workers in Europe. In 2020, we estimate that extra-EU migrants were twice as likely to experience employment loss relative to comparable natives, while this probability was 1.6 times higher for EU migrants. To understand the determinants of these large gaps, we focus on three job characteristics - *essentiality*, *temporariness*, and *teleworkability* - and document that migrants were overrepresented among essential, temporary, and low teleworkable occupations at the onset of the pandemic. We estimate that prepandemic occupational sorting accounts for 25-35% of the explained native-migrant gaps in the risk of employment termination while sorting into industries accounts for the rest of the explained part. Yet, more than half of the migrant-native gap in job separation probability remains unexplained, even when controlling for occupational characteristics and industry fixed effects. According to our estimates, migrants face a disproportionately large penalty for being employed in low-teleworkable occupations. Although major employment losses were averted thanks to the massive use of short-time work programs in Europe, migrant workers and extra-EU migrants, in particular, still suffered from high economic vulnerability during the pandemic. 
 
 </details>
 
@@ -149,7 +149,7 @@ The increasing flow of immigrants into Europe over the last decade has generated
 </details>
 <p> </p>
 
-3) <img src="https://jacopoto.github.io/assets/img/ej.jpeg" width="135">{: .image-left} **[Caught in the Cycle: Timing of Enrolment and Labour Market Performance of University Graduates](https://jacopoto.github.io/jacopomazza.com/cycle_college_uk.pdf){:target="_blank"}**, *The Economic Journal*, (2021), vol. 131(638), pp. 2383–2412. \
+3) <img src="https://jacopoto.github.io/assets/img/ej.jpeg" width="135">{: .image-left} **Caught in the Cycle: Timing of Enrolment and Labour Market Performance of University Graduates**, *The Economic Journal*, (2021), vol. 131(638), pp. 2383–2412. \
 (joint with [Alena Bicáková](http://home.cerge-ei.cz/Alena/){:target="_blank"} and [Matias Cortes](https://www.sites.google.com/site/gmatiascortes/home){:target="_blank"}) \
 [Link to published version](https://academic.oup.com/ej/advance-article-abstract/doi/10.1093/ej/ueab003/6095717?redirectedFrom=fulltext){: .button}{:target="_blank"} [Download bibtex citation](https://jacopoto.github.io/assets/bibtex_cite/bcm_ej.bib){:.button}
 <details>
@@ -159,7 +159,7 @@ We show that cohorts of male graduates who start college during worse economic t
 </details>
 <p> </p>
 
-2) <img src="https://jacopoto.github.io/assets/img/rssa.jpg" width="135">{: .image-left} **[Separating Risk in Education from Heterogeneity: a Semiparametric Approach](https://jacopoto.github.io/jacopomazza.com/edu_risk_semipar.pdf){:target="_blank"}**, *Journal of the Royal Statistical Society: Series A*, (2018), vol. 181(1), pp. 249-275. \
+2) <img src="https://jacopoto.github.io/assets/img/rssa.jpg" width="135">{: .image-left} **Separating Risk in Education from Heterogeneity: a Semiparametric Approach**, *Journal of the Royal Statistical Society: Series A*, (2018), vol. 181(1), pp. 249-275. \
 (joint with [Hans van Ophem](https://www.uva.nl/en/profile/o/p/j.c.m.vanophem/j.c.m.van-ophem.html){:target="_blank"}) \
 [Link to published version](https://rss.onlinelibrary.wiley.com/doi/abs/10.1111/rssa.12253){: .button}{:target="_blank"} [Download bibtex citation](https://jacopoto.github.io/assets/bibtex_cite/bcm_ej.bib){:.button}
 <details>
@@ -170,7 +170,7 @@ the real magnitude of educational uncertainty and the impact that risk has on ed
 </details>
 <p> </p>
 
-1) <img src="https://jacopoto.github.io/assets/img/le.jpg" width="140">{: .image-left} **[Unobserved Heterogeneity and Risk in Wage Variance: Does Schooling Provide Earnings Insurance?](https://jacopoto.github.io/jacopomazza.com/edu_risk.pdf){:target="_blank"}** \
+1) <img src="https://jacopoto.github.io/assets/img/le.jpg" width="140">{: .image-left} **Unobserved Heterogeneity and Risk in Wage Variance: Does Schooling Provide Earnings Insurance?** \
 *Labour Economics*, (2013), vol. 24(C), pp. 323-338. \
 (joint with [Hans van Ophem](https://www.uva.nl/en/profile/o/p/j.c.m.vanophem/j.c.m.van-ophem.html){:target="_blank"} and Joop Hartog) \
 [Link to published version](https://www.sciencedirect.com/science/article/abs/pii/S0927537113001061){: .button}{:target="_blank"} [Download bibtex citation](https://jacopoto.github.io/assets/bibtex_cite/bcm_ej.bib){:.button}
