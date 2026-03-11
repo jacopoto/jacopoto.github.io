@@ -11,7 +11,7 @@ title: Jacopo Mazza
 
 I am an assistant professor at the [School of Economics](https://www.uu.nl/en/organisation/utrecht-university-school-of-economics-use){:target="_blank"} of [Utrecht University](https://www.uu.nl/en){:target="_blank"} .
 
-I am mostly interested in issues related to migration and the economics of education and tertiary education in particular.
+My research focuses on two areas: the economics of immigration and the economics of education. On immigration, I study how immigrants shape host societies — from their labour market position and contributions during crises to the long-run effects of childhood exposure to immigrants on attitudes toward immigration. On education, I study how economic conditions at college entry affect study effort, field of study choices, and lifetime wages.
 
 Before joining Utrecht University I was a Lecturer in Economics at the Universities of Manchester and Essex, and a Scientific Officer with the European Commission - Joint Research Centre.
 
