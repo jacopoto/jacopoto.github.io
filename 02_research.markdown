@@ -21,6 +21,16 @@ permalink: /research/
 ### Working Papers
 <p> </p>
 
+4) **[Is Place-Based Green Industrial Policy Effective? Evidence from the Inflation Reduction Act](https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099833003192616654){:target="_blank"}** \
+(joint with [Joep Keuzenkamp](https://www.uu.nl/medewerkers/JWHKeuzenkamp){:target="_blank"}, [Bob Rijkers](https://sites.google.com/site/decrgbobrijkers/home){:target="_blank"} and [Katherine Stapleton](https://www.katherinestapleton.co/){:target="_blank"}) (**R&R at:** *PNAS*) \
+[World Bank Policy Research Working Paper](https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099833003192616654){: .button}{:target="_blank"}
+<details>
+  <summary>Abstract</summary>
+
+Is place-based green industrial policy effective? This paper examines the Inflation Reduction Act's Energy Community provisions, which provide spatially targeted incentives for renewable energy investment. Using a difference-in-differences design with investment and job vacancy data, it shows that the probability of solar investment increases by 0.14 percentage points in targeted areas, equivalent to a 144% increase relative to its counterfactual level. Wind investment shows no response. Solar employment gains are modest and wind employment is unaffected. These findings suggest place-based incentives can stimulate green investment in designated locations, but may be less effective at generating local jobs.
+</details>
+<p> </p>
+
 3) **Impressions for a Lifetime: Youth Exposure to Immigration and Anti-immigrant Sentiment in Germany** \
 (joint with [Mariapia Mendola](https://sites.google.com/site/mariapiamendola/){:target="_blank"} and Marco Scipioni) (**R&R at:** *Journal of Demographic Economics*)
 <details>
