@@ -1241,6 +1241,60 @@ display:block!important;
 <li class="fragment">Subjectively assess the predictive power of each of the covariates, or calibration inspecting how different values for <span class="math inline">\(v_1, . . . , v_k\)</span> affect the discrepancies between the treated unit and the synthetic control</li>
 <li class="fragment">Minimize mean square prediction error (MSPE) for the pre-treatment period (default).</li>
 </ul>
+</section>
+<section id="optimal-weights-a-toy-example" class="slide level2 smaller">
+<h2>Optimal Weights: A Toy Example</h2>
+<p><strong>3 donors, 2 predictors.</strong> The algorithm must find <span class="math inline">\(W^* = (w_1, w_2, w_3)&#39;\)</span>.</p>
+<div class="columns">
+<div class="column" style="width:48%;">
+<p><strong>Pre-treatment characteristics</strong></p>
+<table>
+<thead>
+<tr class="header">
+<th style="text-align: left;">Unit</th>
+<th style="text-align: center;">GDP</th>
+<th style="text-align: center;">Unemployment</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;"><strong>Treated</strong></td>
+<td style="text-align: center;"><strong>10</strong></td>
+<td style="text-align: center;"><strong>6</strong></td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Donor 1</td>
+<td style="text-align: center;">12</td>
+<td style="text-align: center;">5</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Donor 2</td>
+<td style="text-align: center;">9</td>
+<td style="text-align: center;">7</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Donor 3</td>
+<td style="text-align: center;">5</td>
+<td style="text-align: center;">9</td>
+</tr>
+</tbody>
+</table>
+</div><div class="column" style="width:52%;">
+<div class="fragment">
+<p><strong>Step 1 — find <span class="math inline">\(W^*\)</span> given <span class="math inline">\(V\)</span></strong></p>
+<p>Suppose <span class="math inline">\(V = \text{diag}(1, 1)\)</span> (equal predictor weights).</p>
+<p><span class="math display">\[W^* = \arg\min_W (X_1 - X_0 W)&#39;V(X_1 - X_0 W)\]</span></p>
+<p>Solution: <span class="math inline">\(w_1^* \approx 0.3\)</span>, <span class="math inline">\(w_2^* \approx 0.7\)</span>, <span class="math inline">\(w_3^* = 0\)</span></p>
+<p>Check: <span class="math inline">\(0.3 \times 12 + 0.7 \times 9 = 9.9 \approx 10\)</span> ✓</p>
+<p><span class="math inline">\(\quad\;\;\;\;\;\;\; 0.3 \times 5 + 0.7 \times 7 = 6.4 \approx 6\)</span> ✓</p>
+</div>
+<div class="fragment">
+<p><strong>Step 2 — update <span class="math inline">\(V^*\)</span></strong> to minimise pre-treatment RMSPE over the outcome path; iterate until convergence.</p>
+</div>
+</div></div>
+<div class="fragment">
+<p>Donor 3 gets zero weight — its profile (GDP = 5, unemployment = 9) is too far from the treated unit.</p>
+</div>
 </section></section>
 <section>
 <section id="the-synthetic-control-method-in-practice" class="title-slide slide level1 center" data-background-color="#107895">
