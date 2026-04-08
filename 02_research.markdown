@@ -24,7 +24,7 @@ permalink: /research/
 4) **[Is Place-Based Green Industrial Policy Effective? Evidence from the Inflation Reduction Act](https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099833003192616654){:target="_blank"}** \
 (joint with [Joep Keuzenkamp](https://www.uu.nl/medewerkers/JWHKeuzenkamp){:target="_blank"}, [Bob Rijkers](https://sites.google.com/site/decrgbobrijkers/home){:target="_blank"} and [Katherine Stapleton](https://www.katherinestapleton.co/){:target="_blank"}) (**R&R at:** *PNAS*) \
 [World Bank Policy Research Working Paper](https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099833003192616654){: .button}{:target="_blank"}
-[Download replication package](https://jacopoto.github.io/assets/replication_pkg/ira_pnas/){: .button}{:target="_blank"}
+[Replication package](https://github.com/jacopoto/ira-replication){: .button}{:target="_blank"}
 <details>
   <summary>Abstract</summary>
 
