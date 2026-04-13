@@ -72,7 +72,7 @@ Using administrative data covering the universe of student enrollments in public
 ### Journal Publications
 <p> </p>
 
-10) **[Impressions for a Lifetime: Youth Exposure to Immigration and Anti-immigrant Sentiment in Germany](https://jacopoto.github.io/assets/impressionable_years_attitudes.pdf){:target="_blank"}** \
+10) <img src="https://jacopoto.github.io/assets/img/jode.jpg" width="120">{: .image-left}**[Impressions for a Lifetime: Youth Exposure to Immigration and Anti-immigrant Sentiment in Germany](https://jacopoto.github.io/assets/impressionable_years_attitudes.pdf){:target="_blank"}** \
 (joint with [Mariapia Mendola](https://sites.google.com/site/mariapiamendola/){:target="_blank"} and Marco Scipioni) \
 *Journal of Demographic Economics*, forthcoming \
 [Download preprint](https://jacopoto.github.io/assets/impressionable_years_attitudes.pdf){: .button}{:target="_blank"}
