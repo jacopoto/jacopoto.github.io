@@ -21,7 +21,7 @@ permalink: /research/
 ### Working Papers
 <p> </p>
 
-4) **[Is Place-Based Green Industrial Policy Effective? Evidence from the Inflation Reduction Act](https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099833003192616654){:target="_blank"}** \
+3) **[Is Place-Based Green Industrial Policy Effective? Evidence from the Inflation Reduction Act](https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099833003192616654){:target="_blank"}** \
 (joint with [Joep Keuzenkamp](https://www.uu.nl/medewerkers/JWHKeuzenkamp){:target="_blank"}, [Bob Rijkers](https://sites.google.com/site/decrgbobrijkers/home){:target="_blank"} and [Katherine Stapleton](https://www.katherinestapleton.co/){:target="_blank"}) (**R&R at:** *PNAS*) \
 [World Bank Policy Research Working Paper](https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099833003192616654){: .button}{:target="_blank"}
 [Replication package](https://github.com/jacopoto/ira-replication){: .button}{:target="_blank"}
@@ -29,15 +29,6 @@ permalink: /research/
   <summary>Abstract</summary>
 
 Is place-based green industrial policy effective? This paper examines the Inflation Reduction Act's Energy Community provisions, which provide spatially targeted incentives for renewable energy investment. Using a difference-in-differences design with investment and job vacancy data, it shows that the probability of solar investment increases by 0.14 percentage points in targeted areas, equivalent to a 144% increase relative to its counterfactual level. Wind investment shows no response. Solar employment gains are modest and wind employment is unaffected. These findings suggest place-based incentives can stimulate green investment in designated locations, but may be less effective at generating local jobs.
-</details>
-<p> </p>
-
-3) **Impressions for a Lifetime: Youth Exposure to Immigration and Anti-immigrant Sentiment in Germany** \
-(joint with [Mariapia Mendola](https://sites.google.com/site/mariapiamendola/){:target="_blank"} and Marco Scipioni) (**R&R at:** *Journal of Demographic Economics*)
-<details>
-  <summary>Abstract</summary>
-
-We examine the impact of exposure to immigrants during formative years on attitudes toward immigration later on in life. Our research design combines granular administrative data on immigrant shares in Germany with unique longitudinal individual-level data on immigration sentiments. Using panel fixed-effect estimates, identification leverages both spatial variation at critical ages and time variation induced by birth cohorts. We find that individuals exposed to higher shares of immigrants in formative years exhibit more negative attitudes toward immigration in adulthood. The impact is small in magnitude but specific to critical age and robust to contemporaneous immigration exposure. Our findings suggest that early and unmediated exposure to a diverse social and ethnic environment may have long-lasting consequences for the formation of immigration preferences.
 </details>
 <p> </p>
 
@@ -79,6 +70,18 @@ Using administrative data covering the universe of student enrollments in public
 <hr style="border:.25px solid grey">
 
 ### Journal Publications
+<p> </p>
+
+10) **[Impressions for a Lifetime: Youth Exposure to Immigration and Anti-immigrant Sentiment in Germany](https://jacopoto.github.io/assets/impressionable_years_attitudes.pdf){:target="_blank"}** \
+(joint with [Mariapia Mendola](https://sites.google.com/site/mariapiamendola/){:target="_blank"} and Marco Scipioni) \
+*Journal of Demographic Economics*, forthcoming \
+[Download preprint](https://jacopoto.github.io/assets/impressionable_years_attitudes.pdf){: .button}{:target="_blank"}
+[Download bibtex citation](https://jacopoto.github.io/assets/bibtex_cite/mazza_mendola_scipioni_jde.bib){:.button}
+<details>
+  <summary>Abstract</summary>
+
+We examine the impact of exposure to immigrants during formative years on attitudes toward immigration later on in life. Our research design combines granular administrative data on immigrant shares in Germany with unique longitudinal individual-level data on immigration sentiments. Using panel fixed-effect estimates, identification leverages both spatial variation at critical ages and time variation induced by birth cohorts. We find that individuals exposed to higher shares of immigrants in formative years exhibit more negative attitudes toward immigration in adulthood. The impact is small in magnitude but specific to critical age and robust to contemporaneous immigration exposure. Our findings suggest that early and unmediated exposure to a diverse social and ethnic environment may have long-lasting consequences for the formation of immigration preferences.
+</details>
 <p> </p>
 
 9) <img src="https://jacopoto.github.io/assets/img/jei.jpg" width="120">{: .image-left}**[Immigrant Key Workers: Their Contribution to Europe's COVID-19 Response](https://link.springer.com/article/10.1007/s10888-025-09674-9){:target="_blank"}**, *Journal of Economic Inequality*, (2025). \
