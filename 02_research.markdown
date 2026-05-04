@@ -84,9 +84,10 @@ We examine the impact of exposure to immigrants during formative years on attitu
 </details>
 <p> </p>
 
-9) <img src="https://jacopoto.github.io/assets/img/jei.jpg" width="120">{: .image-left}**[Immigrant Key Workers: Their Contribution to Europe's COVID-19 Response](https://link.springer.com/article/10.1007/s10888-025-09674-9){:target="_blank"}**, *Journal of Economic Inequality*, (2025). \
+9) <img src="https://jacopoto.github.io/assets/img/jei.jpg" width="120">{: .image-left}**[Immigrant Key Workers: Their Contribution to Europe's COVID-19 Response](https://link.springer.com/article/10.1007/s10888-025-09674-9){:target="_blank"}**, *Journal of Economic Inequality*, (2026), vol. 24(1), pp. 207–229. \
 (joint with [Francesco Fasani](https://sites.google.com/site/fasani2010/){:target="_blank"}) \
 **Open Access** \
+[Link to published version](https://link.springer.com/article/10.1007/s10888-025-09674-9){: .button}{:target="_blank"}
 [Download bibtex citation](https://jacopoto.github.io/assets/bibtex_cite/fs_jei.bib){:.button}
 
 <details>
