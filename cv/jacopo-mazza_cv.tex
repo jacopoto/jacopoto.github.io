@@ -3,10 +3,10 @@
 \usepackage[T1]{fontenc}
 \usepackage[utf8]{inputenc}
 \usepackage[letterpaper]{geometry}
-\geometry{verbose,tmargin=1.2cm,bmargin=1.5cm,lmargin=1.5cm,rmargin=1.5cm}
+\geometry{verbose,tmargin=1.5cm,bmargin=1.5cm,lmargin=1.5cm,rmargin=1.5cm}
 %\usepackage{fancyhdr}
 %\pagestyle{fancy}
-\setlength{\parskip}{0pt}
+\setlength{\parskip}{\smallskipamount}
 \setlength{\parindent}{0pt}
 \usepackage{color}
 %\usepackage{babel}
@@ -43,9 +43,7 @@
 \usepackage{lastpage}
 %\headsep 10pt
 \definecolor{blue}{RGB}{12, 8, 129}
-\usepackage{titlesec}
-\titlespacing*{\subsection}{0pt}{4pt}{1pt}
-\titlespacing*{\subsubsection}{0pt}{3pt}{1pt}
+% \usepackage{titlesec}
 
 \begin{document}
 
@@ -110,14 +108,10 @@
 \nocite{mazza_vohpem_hartog_le}
 \nocite{mazza_vophem_jrssa}
 
-\hspace*{20pt}%
-\begin{minipage}[t]{0.9\textwidth}%
+\renewcommand\refname{}
 \vspace{-.9cm}
-    \centering
-    \renewcommand\refname{}
-        \bibliographystyle{ecta_YEAR}
-        \bibliography{my_pubs}
-\end{minipage}
+\bibliographystyle{ecta_YEAR}
+\bibliography{my_pubs}
 
 \vspace{-.3cm}
 
