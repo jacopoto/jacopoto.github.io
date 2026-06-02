@@ -32,17 +32,6 @@ Is place-based green industrial policy effective? This paper examines the Inflat
 </details>
 <p> </p>
 
-2) **[Unpacking the Countercyclicality of Post-Secondary Enrollment in the United States](https://www.cerge.cuni.cz/pdf/wp/Wp795.pdf){:target="_blank"}** \
-(joint with [Alena Bicáková](http://home.cerge-ei.cz/Alena/){:target="_blank"}, [Matias Cortes](https://www.sites.google.com/site/gmatiascortes/home){:target="_blank"}, [Kelly Foley](https://www.kellyfoley.org/){:target="_blank"} and [Peter McHenry](https://www.wm.edu/as/economics/faculty-directory/mchenry_p.php){:target="_blank"}) (**R&R at:** *Economics of Education Review*) \
-[IZA DP No. 18244](https://www.iza.org/publications/dp/18244/unpacking-the-countercyclicality-of-post-secondary-enrollment-in-the-united-states){: .button}{:target="_blank"}
-<details> 
-  <summary>Abstract</summary>
-
-Using data from the Current Population Survey’s Education Supplement for 1977-2023, we explore two important, yet understudied facets of the pattern of countercyclical post-secondary education (PSE) enrollment in the U.S. First, we show that economic downturns are associated with higher enrollment probabilities at both 2- and 4-year colleges among young men, but only at 2-year institutions among young women. Second, we show that the overall increase in enrollment propensities during downturns is primarily driven by persistence
-(i.e., changes in enrollment among individuals with prior PSE participation), rather than matriculation (i.e., new enrollments). However, higher unemployment rates increase matriculation probabilities at 2-year colleges among 18-year-old men and women, and at 4-year colleges among individuals in their early 20s. Our findings improve our understanding of the dimensions along which aggregate economic fluctuations induce changes in human capital acquisition.
-</details>
-<p> </p>
-
 1) **[Unequal Starts, Diverging Paths: The Role of Education and Risk in Wage Dynamics](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5193539){:target="_blank"}** \
 (joint with [Hans van Ophem](https://www.uva.nl/en/profile/o/p/j.c.m.vanophem/j.c.m.van-ophem.html){:target="_blank"}) 
 <details>
@@ -70,6 +59,19 @@ Using administrative data covering the universe of student enrollments in public
 <hr style="border:.25px solid grey">
 
 ### Journal Publications
+<p> </p>
+
+11) **[Unpacking the Countercyclicality of Post-Secondary Enrollment in the United States](https://www.cerge.cuni.cz/pdf/wp/Wp795.pdf){:target="_blank"}** \
+(joint with [Alena Bicáková](http://home.cerge-ei.cz/Alena/){:target="_blank"}, [Matias Cortes](https://www.sites.google.com/site/gmatiascortes/home){:target="_blank"}, [Kelly Foley](https://www.kellyfoley.org/){:target="_blank"} and [Peter McHenry](https://www.wm.edu/as/economics/faculty-directory/mchenry_p.php){:target="_blank"}) \
+*Economics of Education Review*, forthcoming \
+[Download preprint](https://www.cerge.cuni.cz/pdf/wp/Wp795.pdf){: .button}{:target="_blank"}
+[IZA DP No. 18244](https://www.iza.org/publications/dp/18244/unpacking-the-countercyclicality-of-post-secondary-enrollment-in-the-united-states){: .button}{:target="_blank"}
+[Download bibtex citation](https://jacopoto.github.io/assets/bibtex_cite/bicakova_cortes_mazza_eer.bib){:.button}
+<details>
+  <summary>Abstract</summary>
+
+Using data from the Current Population Survey's Education Supplement for 1977-2023, we explore two important, yet understudied facets of the pattern of countercyclical post-secondary education (PSE) enrollment in the U.S. First, we show that economic downturns are associated with higher enrollment probabilities at both 2- and 4-year colleges among young men, but only at 2-year institutions among young women. Second, we show that the overall increase in enrollment propensities during downturns is primarily driven by persistence (i.e., changes in enrollment among individuals with prior PSE participation), rather than matriculation (i.e., new enrollments). However, higher unemployment rates increase matriculation probabilities at 2-year colleges among 18-year-old men and women, and at 4-year colleges among individuals in their early 20s. Our findings improve our understanding of the dimensions along which aggregate economic fluctuations induce changes in human capital acquisition.
+</details>
 <p> </p>
 
 10) <img src="https://jacopoto.github.io/assets/img/jode.jpg" width="120">{: .image-left}**[Impressions for a Lifetime: Youth Exposure to Immigration and Anti-immigrant Sentiment in Germany](https://jacopoto.github.io/assets/impressionable_years_attitudes.pdf){:target="_blank"}** \
