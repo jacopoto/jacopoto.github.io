@@ -61,7 +61,7 @@ Using administrative data covering the universe of student enrollments in public
 ### Journal Publications
 <p> </p>
 
-11) **[Unpacking the Countercyclicality of Post-Secondary Enrollment in the United States](https://www.cerge.cuni.cz/pdf/wp/Wp795.pdf){:target="_blank"}** \
+11) <img src="https://jacopoto.github.io/assets/img/econ_edu_rev.jpg" width="120">{: .image-left}**[Unpacking the Countercyclicality of Post-Secondary Enrollment in the United States](https://www.cerge.cuni.cz/pdf/wp/Wp795.pdf){:target="_blank"}** \
 (joint with [Alena Bicáková](http://home.cerge-ei.cz/Alena/){:target="_blank"}, [Matias Cortes](https://www.sites.google.com/site/gmatiascortes/home){:target="_blank"}, [Kelly Foley](https://www.kellyfoley.org/){:target="_blank"} and [Peter McHenry](https://www.wm.edu/as/economics/faculty-directory/mchenry_p.php){:target="_blank"}) \
 *Economics of Education Review*, forthcoming \
 [Download preprint](https://www.cerge.cuni.cz/pdf/wp/Wp795.pdf){: .button}{:target="_blank"}
