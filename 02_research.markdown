@@ -21,17 +21,6 @@ permalink: /research/
 ### Working Papers
 <p> </p>
 
-3) **[Is Place-Based Green Industrial Policy Effective? Evidence from the Inflation Reduction Act](https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099833003192616654){:target="_blank"}** \
-(joint with [Joep Keuzenkamp](https://www.uu.nl/medewerkers/JWHKeuzenkamp){:target="_blank"}, [Bob Rijkers](https://sites.google.com/site/decrgbobrijkers/home){:target="_blank"} and [Katherine Stapleton](https://www.katherinestapleton.co/){:target="_blank"}) (**R&R at:** *PNAS*) \
-[World Bank Policy Research Working Paper](https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099833003192616654){: .button}{:target="_blank"}
-[Replication package](https://github.com/jacopoto/ira-replication){: .button}{:target="_blank"}
-<details>
-  <summary>Abstract</summary>
-
-Is place-based green industrial policy effective? This paper examines the Inflation Reduction Act's Energy Community provisions, which provide spatially targeted incentives for renewable energy investment. Using a difference-in-differences design with investment and job vacancy data, it shows that the probability of solar investment increases by 0.14 percentage points in targeted areas, equivalent to a 144% increase relative to its counterfactual level. Wind investment shows no response. Solar employment gains are modest and wind employment is unaffected. These findings suggest place-based incentives can stimulate green investment in designated locations, but may be less effective at generating local jobs.
-</details>
-<p> </p>
-
 1) **[Unequal Starts, Diverging Paths: The Role of Education and Risk in Wage Dynamics](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5193539){:target="_blank"}** \
 (joint with [Hans van Ophem](https://www.uva.nl/en/profile/o/p/j.c.m.vanophem/j.c.m.van-ophem.html){:target="_blank"}) 
 <details>
@@ -59,6 +48,19 @@ Using administrative data covering the universe of student enrollments in public
 <hr style="border:.25px solid grey">
 
 ### Journal Publications
+<p> </p>
+
+12) **[Is Place-Based Green Industrial Policy Effective? Evidence from the Inflation Reduction Act](https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099833003192616654){:target="_blank"}** \
+(joint with [Joep Keuzenkamp](https://www.uu.nl/medewerkers/JWHKeuzenkamp){:target="_blank"}, [Bob Rijkers](https://www.worldbank.org/en/about/people/b/bob-rijkers){:target="_blank"} and [Katherine Stapleton](https://www.katherinestapleton.co/){:target="_blank"}) \
+*Proceedings of the National Academy of Sciences*, forthcoming \
+[World Bank Policy Research Working Paper](https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099833003192616654){: .button}{:target="_blank"}
+[Replication package](https://github.com/jacopoto/ira-replication){: .button}{:target="_blank"}
+[Download bibtex citation](https://jacopoto.github.io/assets/bibtex_cite/keuzenkamp_rijkers_mazza_stapleton_pnas.bib){:.button}
+<details>
+  <summary>Abstract</summary>
+
+Is place-based green industrial policy effective? This paper examines the Inflation Reduction Act's Energy Community provisions, which provide spatially targeted incentives for renewable energy investment. Using a difference-in-differences design with investment and job vacancy data, it shows that the probability of solar investment increases by 0.14 percentage points in targeted areas, equivalent to a 144% increase relative to its counterfactual level. Wind investment shows no response. Solar employment gains are modest and wind employment is unaffected. These findings suggest place-based incentives can stimulate green investment in designated locations, but may be less effective at generating local jobs.
+</details>
 <p> </p>
 
 11) <img src="https://jacopoto.github.io/assets/img/econ_edu_rev.jpg" width="120">{: .image-left}**[Unpacking the Countercyclicality of Post-Secondary Enrollment in the United States](https://www.cerge.cuni.cz/pdf/wp/Wp795.pdf){:target="_blank"}** \
