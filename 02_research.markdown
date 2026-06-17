@@ -50,7 +50,7 @@ Using administrative data covering the universe of student enrollments in public
 ### Journal Publications
 <p> </p>
 
-12) **[Is Place-Based Green Industrial Policy Effective? Evidence from the Inflation Reduction Act](https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099833003192616654){:target="_blank"}** \
+12) <img src="https://jacopoto.github.io/assets/img/pnas.jpg" width="120">{: .image-left}**[Is Place-Based Green Industrial Policy Effective? Evidence from the Inflation Reduction Act](https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099833003192616654){:target="_blank"}** \
 (joint with [Joep Keuzenkamp](https://www.uu.nl/medewerkers/JWHKeuzenkamp){:target="_blank"}, [Bob Rijkers](https://www.worldbank.org/en/about/people/b/bob-rijkers){:target="_blank"} and [Katherine Stapleton](https://www.katherinestapleton.co/){:target="_blank"}) \
 *Proceedings of the National Academy of Sciences*, forthcoming \
 [World Bank Policy Research Working Paper](https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099833003192616654){: .button}{:target="_blank"}
