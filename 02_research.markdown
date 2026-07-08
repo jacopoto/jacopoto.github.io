@@ -63,10 +63,11 @@ Is place-based green industrial policy effective? This paper examines the Inflat
 </details>
 <p> </p>
 
-11) <img src="https://jacopoto.github.io/assets/img/econ_edu_rev.jpg" width="120">{: .image-left}**[Unpacking the Countercyclicality of Post-Secondary Enrollment in the United States](https://www.cerge.cuni.cz/pdf/wp/Wp795.pdf){:target="_blank"}** \
+11) <img src="https://jacopoto.github.io/assets/img/econ_edu_rev.jpg" width="120">{: .image-left}**[Unpacking the Countercyclicality of Post-Secondary Enrollment in the United States](https://www.sciencedirect.com/science/article/pii/S027277572600052X){:target="_blank"}** \
 (joint with [Alena Bicáková](http://home.cerge-ei.cz/Alena/){:target="_blank"}, [Matias Cortes](https://www.sites.google.com/site/gmatiascortes/home){:target="_blank"}, [Kelly Foley](https://www.kellyfoley.org/){:target="_blank"} and [Peter McHenry](https://www.wm.edu/as/economics/faculty-directory/mchenry_p.php){:target="_blank"}) \
-*Economics of Education Review*, forthcoming \
-[Download preprint](https://www.cerge.cuni.cz/pdf/wp/Wp795.pdf){: .button}{:target="_blank"}
+*Economics of Education Review*, (2026), vol. 113, 102810. \
+**Open Access** \
+[Link to published version](https://www.sciencedirect.com/science/article/pii/S027277572600052X){: .button}{:target="_blank"}
 [IZA DP No. 18244](https://www.iza.org/publications/dp/18244/unpacking-the-countercyclicality-of-post-secondary-enrollment-in-the-united-states){: .button}{:target="_blank"}
 [Download bibtex citation](https://jacopoto.github.io/assets/bibtex_cite/bicakova_cortes_mazza_eer.bib){:.button}
 <details>
