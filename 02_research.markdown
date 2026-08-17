@@ -50,9 +50,10 @@ Using administrative data covering the universe of student enrollments in public
 ### Journal Publications
 <p> </p>
 
-12) <img src="https://jacopoto.github.io/assets/img/pnas.jpg" width="120">{: .image-left}**[Is Place-Based Green Industrial Policy Effective? Evidence from the Inflation Reduction Act](https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099833003192616654){:target="_blank"}** \
+12) <img src="https://jacopoto.github.io/assets/img/pnas.jpg" width="120">{: .image-left}**[The effectiveness of green place-based industrial policy: Evidence from the Inflation Reduction Act](https://www.pnas.org/doi/10.1073/pnas.2600276123){:target="_blank"}** \
 (joint with [Joep Keuzenkamp](https://www.uu.nl/medewerkers/JWHKeuzenkamp){:target="_blank"}, [Bob Rijkers](https://www.worldbank.org/en/about/people/b/bob-rijkers){:target="_blank"} and [Katherine Stapleton](https://www.katherinestapleton.co/){:target="_blank"}) \
-*Proceedings of the National Academy of Sciences*, forthcoming \
+*Proceedings of the National Academy of Sciences*, (2026), vol. 123, no. 33, e2600276123. \
+[Link to published version](https://www.pnas.org/doi/10.1073/pnas.2600276123){: .button}{:target="_blank"}
 [World Bank Policy Research Working Paper](https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099833003192616654){: .button}{:target="_blank"}
 [Replication package](https://github.com/jacopoto/ira-replication){: .button}{:target="_blank"}
 [Download bibtex citation](https://jacopoto.github.io/assets/bibtex_cite/keuzenkamp_rijkers_mazza_stapleton_pnas.bib){:.button}
