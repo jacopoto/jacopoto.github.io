@@ -54,6 +54,7 @@ Using administrative data covering the universe of student enrollments in public
 (joint with [Joep Keuzenkamp](https://www.uu.nl/medewerkers/JWHKeuzenkamp){:target="_blank"}, [Bob Rijkers](https://www.worldbank.org/en/about/people/b/bob-rijkers){:target="_blank"} and [Katherine Stapleton](https://www.katherinestapleton.co/){:target="_blank"}) \
 *Proceedings of the National Academy of Sciences*, (2026), vol. 123, no. 33, e2600276123. \
 [Link to published version](https://www.pnas.org/doi/10.1073/pnas.2600276123){: .button}{:target="_blank"}
+[VoxEU column](https://cepr.org/voxeu/columns/inflation-reduction-acts-regional-incentives-promoted-green-investment-did-not-create){: .button}{:target="_blank"}
 [World Bank Policy Research Working Paper](https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099833003192616654){: .button}{:target="_blank"}
 [Replication package](https://github.com/jacopoto/ira-replication){: .button}{:target="_blank"}
 [Download bibtex citation](https://jacopoto.github.io/assets/bibtex_cite/keuzenkamp_rijkers_mazza_stapleton_pnas.bib){:.button}
