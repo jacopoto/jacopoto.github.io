@@ -50,6 +50,9 @@ Working paper version: [IZA](https://www.iza.org/publications/pp/155/immigrant-k
 ### Columns and Blogs
 <p> </p>
 
+- **[Inflation Reduction Act's regional incentives promoted green investment, did not create jobs](https://cepr.org/voxeu/columns/inflation-reduction-acts-regional-incentives-promoted-green-investment-did-not-create){:target="_blank"}**, VoxEU, 2026. \
+(joint with [Joep Keuzenkamp](https://www.uu.nl/medewerkers/JWHKeuzenkamp){:target="_blank"}, [Bob Rijkers](https://www.worldbank.org/en/about/people/b/bob-rijkers){:target="_blank"} and [Katherine Stapleton](https://www.katherinestapleton.co/){:target="_blank"}).
+
 - **[Essential yet vulnerable](https://wol.iza.org/opinions/essential-yet-vulnerable){:target="_blank"}**, IZA World of Labor, 04/2024. \
 (joint with [Francesco Fasani](https://sites.google.com/site/fasani2010/){:target="_blank"}).
 
